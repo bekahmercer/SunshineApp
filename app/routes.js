@@ -1,0 +1,80 @@
+angular.module('app')
+  .config(routes)
+  
+function routes($routeProvider) {
+  
+  $routeProvider
+    .when('/', {
+      templateUrl: './home/home.partial.html',
+      controller: 'HomeController',
+      controllerAs: 'HCtrl'
+  })
+  .when('/menu', {
+      templateUrl: './menu/menu.partial.html',
+      controller: 'MenuController',
+      controllerAs: 'MCtrl'
+  })
+  .when('/prequiz', {
+      templateUrl: './quiz/preQuiz/preQuiz.partial.html',
+      controller: 'PreQuizController',
+      controllerAs: 'PQCtrl'
+  })
+  .when('/1/1', {
+      templateUrl: './quiz/questionSet1/questionsPage1/1-1.partial.html',
+      controller: 'OneOneController',
+      controllerAs: 'OneOneCtrl'
+  })
+  .when('/1/2', {
+      templateUrl: './quiz/questionSet1/questionsPage2/1-2.partial.html',
+      controller: 'OneTwoController',
+      controllerAs: 'OneTwoCtrl'
+  })
+  .when('/1/3', {
+      templateUrl: './quiz/questionSet1/questionsPage3/1-3.partial.html',
+      controller: 'OneThreeController',
+      controllerAs: 'OneThreeCtrl'
+  })
+  .when('/2/1', {
+      templateUrl: './quiz/questionSet2/questionsPage1/2-1.partial.html',
+      controller: 'TwoOneController',
+      controllerAs: 'TwoOneCtrl'
+  })
+  .when('/2/2', {
+      templateUrl: './quiz/questionSet2/questionsPage2/2-2.partial.html',
+      controller: 'TwoTwoController',
+      controllerAs: 'TwoTwoCtrl'
+  })
+  .when('/2/3', {
+      templateUrl: './quiz/questionSet2/questionsPage3/2-3.partial.html',
+      controller: 'TwoThreeController',
+      controllerAs: 'TwoThreeCtrl'
+  })
+  .when('/2/4', {
+      templateUrl: './quiz/questionSet2/questionsPage4/2-4.partial.html',
+      controller: 'TwoFourController',
+      controllerAs: 'TwoFourCtrl'
+  })
+  .when('/2/5', {
+      templateUrl: './quiz/questionSet2/questionsPage5/2-5.partial.html',
+      controller: 'TwoFiveController',
+      controllerAs: 'TwoFiveCtrl'
+  })
+  .when('/2/6', {
+      templateUrl: './quiz/questionSet2/questionsPage6/2-6.partial.html',
+      controller: 'TwoSixController',
+      controllerAs: 'TwoSixCtrl'
+  })
+   .when('/3/1', {
+      templateUrl: './quiz/questionSet3/questionsPage1/3-1.partial.html',
+      controller: 'ThreeOneController',
+      controllerAs: 'ThreeOneCtrl'
+  })
+  .when('/3/2', {
+      templateUrl: './quiz/questionSet3/questionsPage2/3-2.partial.html',
+      controller: 'ThreeTwoController',
+      controllerAs: 'ThreeTwoCtrl'
+  })
+ 
+  
+  
+}
