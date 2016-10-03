@@ -34,6 +34,11 @@ function routes($routeProvider) {
       controller: 'OneThreeController',
       controllerAs: 'OneThreeCtrl'
   })
+  .when('/1/4', {
+      templateUrl: './quiz/questionSet1/questionsPage4/1-4.partial.html',
+      controller: 'OneFourController',
+      controllerAs: 'OneFourCtrl'
+  })
   .when('/2/1', {
       templateUrl: './quiz/questionSet2/questionsPage1/2-1.partial.html',
       controller: 'TwoOneController',
@@ -58,11 +63,6 @@ function routes($routeProvider) {
       templateUrl: './quiz/questionSet2/questionsPage5/2-5.partial.html',
       controller: 'TwoFiveController',
       controllerAs: 'TwoFiveCtrl'
-  })
-  .when('/2/6', {
-      templateUrl: './quiz/questionSet2/questionsPage6/2-6.partial.html',
-      controller: 'TwoSixController',
-      controllerAs: 'TwoSixCtrl'
   })
    .when('/3/1', {
       templateUrl: './quiz/questionSet3/questionsPage1/3-1.partial.html',
