@@ -1,1 +1,36 @@
-<h3>set 1, page 2</h3>
+<h3>Section 2: My risk factors</h3>
+
+
+<fieldset class = "standard">
+<strong>2</strong> <input type = "checkbox" ng-model = "OneTwoCtrl.cbs1q21" ng-change = "cbChange(OneTwoCtrl.cbs1q21, 'cbs1q21')" ng-true-value="2" ng-false-value="-2" ng-checked = "OneTwoCtrl.cbs1q21 == 2"> One or both of my parents were abusive to the other. <!-- ng-true-value and ng-false-value are the ones that set the values to the service, the fact that the false value is negative is because it will be taken away from the totals when checkbox is unchecked  -->
+</fieldset>
+<!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+
+<br>
+<fieldset class = "standard">
+<strong>3</strong> <input type = "checkbox" ng-model = "OneTwoCtrl.cbs1q22" ng-change = "cbChange(OneTwoCtrl.cbs1q22, 'cbs1q22')" ng-true-value="3" ng-false-value="-3" ng-checked = "OneTwoCtrl.cbs1q22 == 3">     One or both of my parents were abusive to me or a sibling.
+</fieldset>
+<br>
+<fieldset class = "standard">
+ <strong>1</strong><input type = "checkbox" ng-model = "OneTwoCtrl.cbs1q23" ng-change = "cbChange(OneTwoCtrl.cbs1q23, 'cbs1q23')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneTwoCtrl.cbs1q23 == 1"> I have been in an abusive relationship in the past.
+</fieldset>
+
+<br>
+<fieldset class = "standard">
+<strong>2</strong> <input type = "checkbox" ng-model = "OneTwoCtrl.cbs1q24" ng-change = "cbChange(OneTwoCtrl.cbs1q24, 'cbs1q24')" ng-true-value="2" ng-false-value="-2" ng-checked = "OneTwoCtrl.cbs1q24 == 2"> I don't have strong relationships with people other than my partner.
+</fieldset>
+<br>
+<fieldset class = "standard">
+ <strong>2</strong><input type = "checkbox" ng-model = "OneTwoCtrl.cbs1q25" ng-change = "cbChange(OneTwoCtrl.cbs1q25, 'cbs1q25')" ng-true-value="2" ng-false-value="-2" ng-checked = "OneTwoCtrl.cbs1q25 == 2"> I'm not currently employed.
+</fieldset>
+
+<br><br>
+
+<p>Points for this page: </p>
+
+<input type = "text" ng-model = "OneTwoCtrl.currentPage">
+<br>
+
+<p>Total points: </p>
+<input type = "text" ng-model = "OneTwoCtrl.total">
+

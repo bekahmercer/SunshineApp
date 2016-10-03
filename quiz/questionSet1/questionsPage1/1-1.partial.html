@@ -1,1 +1,39 @@
-<h3>set 1, page 1</h3>
+<h3>Section 1: In the beginning</h3>
+
+
+<fieldset class = "standard">
+<strong>1</strong> <input type = "checkbox" ng-model = "OneOneCtrl.cbs1q11" ng-change = "cbChange(OneOneCtrl.cbs1q11, 'cbs1q11')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q11 == 1"> Our relationship was very intense from the beginning. <!-- ng-true-value and ng-false-value are the ones that set the values to the service, the fact that the false value is negative is because it will be taken away from the totals when checkbox is unchecked  -->
+</fieldset>
+<!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+
+<br>
+<fieldset class = "standard">
+<strong>1</strong> <input type = "checkbox" ng-model = "OneOneCtrl.cbs1q12" ng-change = "cbChange(OneOneCtrl.cbs1q12, 'cbs1q12')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q12 == 1"> Our relationship moved forward very quickly.
+</fieldset>
+<br>
+<fieldset class = "standard">
+ <strong>1</strong><input type = "checkbox" ng-model = "OneOneCtrl.cbs1q13" ng-change = "cbChange(OneOneCtrl.cbs1q13, 'cbs1q13')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q13 == 1"> My partner pushed me to move forward with the relationship.
+</fieldset>
+
+<br>
+<fieldset class = "standard">
+<strong>1</strong> <input type = "checkbox" ng-model = "OneOneCtrl.cbs1q14" ng-change = "cbChange(OneOneCtrl.cbs1q14, 'cbs1q14')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q14 == 1"> We have been together for less than 5 years.
+</fieldset>
+<br>
+<fieldset class = "standard">
+ <strong>1</strong><input type = "checkbox" ng-model = "OneOneCtrl.cbs1q15" ng-change = "cbChange(OneOneCtrl.cbs1q15, 'cbs1q15')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q15 == 1"> Things changed quite a bit after we moved in together, got married, had children, or made other commitments.
+</fieldset>
+
+
+
+
+
+<br><br>
+
+<p>Points for this page: </p>
+
+<input type = "text" ng-model = "OneOneCtrl.currentPage">
+<br>
+
+<p>Total points: </p>
+<input type = "text" ng-model = "OneOneCtrl.total">
