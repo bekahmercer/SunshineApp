@@ -1,1 +1,117 @@
 <h3>Set 3 : Page 2</h3>
+<h3>Set 3 : Page 1</h3>
+<div class="container-fluid">
+    
+    <div class="row">
+        <div class="col-sm-12 header">
+            <h3 class="headerText">Section 10: Leaving</h3>
+        </div>
+    </div><!-- .row -->
+        
+  <div class="row">
+    <div class="col-xs-2 escapeBar"><h1>EMERGENCY</h1></div>
+        <div class="col-xs-10">
+          <div class="bodyContent">
+            <br>
+                
+            <div class="line_item_1">
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            <strong>1</strong>My partner has said they will not let me leave
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb1" name="cb" value="" ng-model = "OneOneCtrl.cbs1q11" ng-change = "cbChange(OneOneCtrl.cbs1q11, 'cbs1q11')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q11 == 1"><!-- ng-true-value and ng-false-value are the ones that set the values to the service, the fact that the false value is negative is because it will be taken away from the totals when checkbox is unchecked  -->
+                            <label for="cb1"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+            </div><!-- .line_item_1 -->
+            <br>
+
+            <div class="line_item_2">
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            <strong>2</strong>My partner has threatened to hurt me if I leave
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb2" name="cb" value="" ng-model = "OneOneCtrl.cbs1q12" ng-change = "cbChange(OneOneCtrl.cbs1q12, 'cbs1q12')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q12 == 1">
+                            <label for="cb2"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_2 -->
+            <br>
+            
+            <div class="line_item_3">            
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            <strong>3</strong>My partner has threatened to take my children if I leave
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-2">
+                            
+                            <input type = "checkbox" id="cb3" name="cb" value="" ng-model = "OneOneCtrl.cbs1q13" ng-change = "cbChange(OneOneCtrl.cbs1q13, 'cbs1q13')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q13 == 1">
+                            <label for="cb3"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_3 -->            
+            <br>
+                    
+            <div class="line_item_4">            
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            <strong>4</strong>
+							My partner owns a gun
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb4" name="cb" value="" ng-model = "OneOneCtrl.cbs1q14" ng-change = "cbChange(OneOneCtrl.cbs1q14, 'cbs1q14')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q14 == 1">
+                            <label for="cb4"></label>
+                                
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_4 -->
+            <br>
+
+            <div class="line_item_4">                
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            
+            
+            <div class="row">
+                <div class="col-xs-4"></div>
+                <div class="col-xs-2">
+                    <button class="btn"><a href="/1/2">NEXT</a></button>
+                </div>
+                <div class="col-xs-4"></div>
+            </div>        
+            <br>
+            
+            <p>Points for this page:</p>
+            <input type = "text" ng-model = "OneOneCtrl.currentPage">
+            <br>
+            
+            <p>Total points:</p>
+            <input type = "text" ng-model = "OneOneCtrl.total">
+
+          </div><!-- .bodyContent -->
+        </div><!-- .col-xs-10 -->
+  </div><!-- .row -->
+
+</div><!-- .container-fluid -->
