@@ -1,7 +1,7 @@
 angular.module('app')
   .config(routes)
   
-function routes($routeProvider) {
+function routes($routeProvider, $locationProvider) {
   
   $routeProvider
     .when('/', {
@@ -75,6 +75,6 @@ function routes($routeProvider) {
       controllerAs: 'ThreeTwoCtrl'
   })
  
-  
+  $locationProvider.html5Mode(true)
   
 }
