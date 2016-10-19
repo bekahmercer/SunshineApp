@@ -1,41 +1,99 @@
-<h3>Section 4: Other risk factors</h3>
-
-
-<fieldset class = "standard">
-<strong>1</strong> We seem to fight more than other couples.<input type = "checkbox" ng-model = "OneFourCtrl.cbs1q41" ng-change = "cbChange(OneFourCtrl.cbs1q41, 'cbs1q41')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneFourCtrl.cbs1q41 == 1">  <!-- ng-true-value and ng-false-value are the ones that set the values to the service, the fact that the false value is negative is because it will be taken away from the totals when checkbox is unchecked  -->
-</fieldset>
-<!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
-
-<br>
-<fieldset class = "standard">
-<strong>1</strong>  We have talked about divorce or separation.<input type = "checkbox" ng-model = "OneFourCtrl.cbs1q42" ng-change = "cbChange(OneFourCtrl.cbs1q42, 'cbs1q42')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneFourCtrl.cbs1q42 == 1">
-</fieldset>
-<br>
-<fieldset class = "standard">
- <strong>2</strong>There isn't a very fair balance of power in our relationship.<input type = "checkbox" ng-model = "OneFourCtrl.cbs1q43" ng-change = "cbChange(OneFourCtrl.cbs1q43, 'cbs1q43')" ng-true-value="2" ng-false-value="-2" ng-checked = "OneFourCtrl.cbs1q43 == 2"> 
-</fieldset>
-
-<br>
-<fieldset class = "standard">
-<strong>1</strong>We are dealing with money problems right now. <input type = "checkbox" ng-model = "OneFourCtrl.cbs1q44" ng-change = "cbChange(OneFourCtrl.cbs1q44, 'cbs1q44')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneFourCtrl.cbs1q44 == 1">
-</fieldset>
-<br>
-<fieldset class = "standard">
- <strong>1</strong>We aren't very connected with our family or friends.<input type = "checkbox" ng-model = "OneFourCtrl.cbs1q45" ng-change = "cbChange(OneFourCtrl.cbs1q45, 'cbs1q45')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneFourCtrl.cbs1q45 == 1"> 
-</fieldset>
-
-<br><br>
-
-<button><a href="/1/3">Back</a></button>
-<button><a href="/2/1">Next</a></button>
-
-<br><br>
-
-<p>Points for this page: </p>
-
-<input type = "text" ng-model = "OneFourCtrl.currentPage">
-<br>
-
-<p>Total points: </p>
-<input type = "text" ng-model = "OneFourCtrl.total">
-
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-12 header">
+            <h3 class="headerText">Section 4: Other risk factors</h3> </div>
+    </div>
+    <!-- .row -->
+    <div class="row">
+        <div class="col-xs-2 escapeBar">
+            <h1>EMERGENCY</h1></div>
+        <div class="col-xs-10">
+            <div class="bodyContent">
+                <br>
+                <div class="line_item_1">
+                    <fieldset class="standard">
+                        <div class="row">
+                            <div class="col-xs-9">We seem to fight more than other couples. </div>
+                            <div class="col-xs-1"></div>
+                            <div class="col-xs-1">
+                                <input type="checkbox" id="cb141" ng-model="OneFourCtrl.cbs1q41" ng-change="cbChange(OneFourCtrl.cbs1q41, 'cbs1q41')" ng-true-value="1" ng-false-value="-1" ng-checked="OneFourCtrl.cbs1q41 == 1">
+                                <!-- ng-true-value and ng-false-value are the ones that set the values to the service, the fact that the false value is negative is because it will be taken away from the totals when checkbox is unchecked  -->
+                                <label for="cb141"></label>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+                <br>
+                <div class="line_item_2">
+                    <fieldset class="standard">
+                        <div class="row">
+                            <div class="col-xs-9">We have talked about divorce or separation. </div>
+                            <div class="col-xs-1"></div>
+                            <div class="col-xs-1">
+                                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+                                <input type="checkbox" id="142" ng-model="OneFourCtrl.cbs1q42" ng-change="cbChange(OneFourCtrl.cbs1q42, 'cbs1q42')" ng-true-value="1" ng-false-value="-1" ng-checked="OneFourCtrl.cbs1q42 == 1">
+                                <label for="cb142"></label>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+                <br>
+                <div class="line_item_3">
+                    <fieldset class="standard">
+                        <div class="row">
+                            <div class="col-xs-9">There isn't a very fair balance of power in our relationship. </div>
+                            <div class="col-xs-1"></div>
+                            <div class="col-xs-1">
+                                <input type="checkbox" id="cb143" ng-model="OneFourCtrl.cbs1q43" ng-change="cbChange(OneFourCtrl.cbs1q43, 'cbs1q43')" ng-true-value="2" ng-false-value="-2" ng-checked="OneFourCtrl.cbs1q43 == 2">
+                                <label for="cb143"></label>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+                <br>
+                <div class="line_item_4">
+                    <fieldset class="standard">
+                        <div class="row">
+                            <div class="col-xs-9"> We are dealing with money problems right now.</div>
+                            <div class="col-xs-1"></div>
+                            <div class="col-xs-1">
+                                <input type="checkbox" id="cb144" ng-model="OneFourCtrl.cbs1q44" ng-change="cbChange(OneFourCtrl.cbs1q44, 'cbs1q44')" ng-true-value="1" ng-false-value="-1" ng-checked="OneFourCtrl.cbs1q44 == 1">
+                                <label for="cb144"></label>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+                <br>
+                <div class="line_item_5">
+                    <fieldset class="standard">
+                        <div class="row">
+                            <div class="col-xs-9"> We aren't very connected with our family or friends.</div>
+                            <div class="col-xs-1"></div>
+                            <div class="col-xs-1">
+                                <input type="checkbox" id="cb145" ng-model="OneFourCtrl.cbs1q45" ng-change="cbChange(OneFourCtrl.cbs1q45, 'cbs1q45')" ng-true-value="1" ng-false-value="-1" ng-checked="OneFourCtrl.cbs1q45 == 1">
+                                <label for="cb145"></label>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-xs-3"></div>
+                    <div class="col-xs-6">
+                        <button class="btn"><a href="/1/3">BACK</a></button>
+                        <button class="btn"><a href="/2/1">NEXT</a></button>
+                    </div>
+                    <div class="col-xs-3"></div>
+                </div>
+                <br> </div>
+            <!-- .bodyContent -->
+        </div>
+        <!-- .col-xs-10 -->
+    </div>
+    <!-- .row -->
+</div>
+<!-- .container-fluid -->
