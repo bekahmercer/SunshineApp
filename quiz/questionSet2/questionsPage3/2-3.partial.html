@@ -1,8 +1,120 @@
-<h2>2-3</h2>
+<div class="container-fluid">
+    
+    <div class="row">
+        <div class="col-sm-12 header">
+            <h3 class="headerText">Section 2: Emotional Abuse</h3>
+        </div>
+    </div><!-- .row -->
+        
+  <div class="row">
+    <div class="col-xs-2 escapeBar"><h1>EMERGENCY</h1></div>
+        <div class="col-xs-10">
+          <div class="bodyContent">
+            <br>
+                
+            <div class="line_item_1">
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            I am unable to spend time with friends and family because of my partner.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb1" name="cb" value="" ng-model = "OneOneCtrl.cbs1q11" ng-change = "cbChange(OneOneCtrl.cbs1q11, 'cbs1q11')" ng-true-value="2" ng-false-value="-2" ng-checked = "OneOneCtrl.cbs1q11 == 1"><!-- ng-true-value and ng-false-value are the ones that set the values to the service, the fact that the false value is negative is because it will be taken away from the totals when checkbox is unchecked  -->
+                            <label for="cb1"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+            </div><!-- .line_item_1 -->
+            <br>
 
-Section 6: Emotional Abuse	
-I am unable to spend time with friends and family because of my partner	2
-My partner emotionally punishes me by witholding affection	1
-My partner blames me for his/her bad behavior	1
-My partner cheats on me	2
-My partner tells me I am crazy and sometimes makes me feel like I might be	2
+            <div class="line_item_2">
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            My partner emotionally punishes me by witholding affection.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb2" name="cb" value="" ng-model = "OneOneCtrl.cbs1q12" ng-change = "cbChange(OneOneCtrl.cbs1q12, 'cbs1q12')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q12 == 1">
+                            <label for="cb2"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_2 -->
+            <br>
+            
+            <div class="line_item_3">            
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            My partner blames me for his/her bad behavior.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb3" name="cb" value="" ng-model = "OneOneCtrl.cbs1q13" ng-change = "cbChange(OneOneCtrl.cbs1q13, 'cbs1q13')" ng-true-value="1" ng-false-value="-1" ng-checked = "OneOneCtrl.cbs1q13 == 1">
+                            <label for="cb3"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_3 -->            
+            <br>
+                    
+            <div class="line_item_4">            
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                          My partner cheats on me.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb4" name="cb" value="" ng-model = "OneOneCtrl.cbs1q14" ng-change = "cbChange(OneOneCtrl.cbs1q14, 'cbs1q14')" ng-true-value="2" ng-false-value="-2" ng-checked = "OneOneCtrl.cbs1q14 == 1">
+                            <label for="cb4"></label>
+                                
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_4 -->
+            <br>
+
+            <div class="line_item_4">                
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                           My partner tells me I am crazy and sometimes makes me feel like I might be.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb5" name="cb" value="" ng-model = "OneOneCtrl.cbs1q15" ng-change = "cbChange(OneOneCtrl.cbs1q15, 'cbs1q15')" ng-true-value="2" ng-false-value="-2" ng-checked = "OneOneCtrl.cbs1q15 == 1">
+                            <!--<input type="checkbox" id="cb3" name="cb" value="">-->
+                            <label for="cb5"></label> 
+                                
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_5 -->
+            <br>
+            
+            <div class="row">
+                <div class="col-xs-3"></div>
+                <div class="col-xs-6">
+                    <button class="btn"><a href="/1/2">NEXT</a></button>
+                </div>
+                <div class="col-xs-3"></div>
+            </div>        
+            <br>
+
+          </div><!-- .bodyContent -->
+        </div><!-- .col-xs-10 -->
+  </div><!-- .row -->
+
+</div><!-- .container-fluid -->

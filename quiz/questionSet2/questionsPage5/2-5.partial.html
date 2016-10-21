@@ -1,8 +1,120 @@
-<h2>2-5</h2>
+<div class="container-fluid">
+    
+    <div class="row">
+        <div class="col-sm-12 header">
+            <h3 class="headerText">Section 2: Physical Abuse</h3>
+        </div>
+    </div><!-- .row -->
+        
+  <div class="row">
+    <div class="col-xs-2 escapeBar"><h1>EMERGENCY</h1></div>
+        <div class="col-xs-10">
+          <div class="bodyContent">
+            <br>
+                
+            <div class="line_item_1">
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            My partner hits things, throws things, or breaks things in front of me when he/she is angry with me.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb1" name="cb" value="" ng-model = "OneOneCtrl.cbs1q11" ng-change = "cbChange(OneOneCtrl.cbs1q11, 'cbs1q11')" ng-true-value="3" ng-false-value="-3" ng-checked = "OneOneCtrl.cbs1q11 == 1"><!-- ng-true-value and ng-false-value are the ones that set the values to the service, the fact that the false value is negative is because it will be taken away from the totals when checkbox is unchecked  -->
+                            <label for="cb1"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+                <!-- The ng-checked property is used when reading the status of the checkbox from the service, if it retrieves a positive value it means the checkbox should be checked, otherwise is unchecked (as by default) -->
+            </div><!-- .line_item_1 -->
+            <br>
 
-Section 9: Physical Abuse	
-My partner hits things, throws things, or breaks things in front of me when he/she is angry with me	3
-My partner physically disciplines my/our children against my will	3
-My partner pushes, shoves, grabs me, holds me down, or holds me hostage in rooms or vehicles	5
-My partner slaps, hits, punches, kicks, strangles or throws me	5
-My partner chases me, yells at me, invades my space in threatening ways, or otherwise makes me feel afraid	5
+            <div class="line_item_2">
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            My partner physically disciplines my/our children against my will.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb2" name="cb" value="" ng-model = "OneOneCtrl.cbs1q12" ng-change = "cbChange(OneOneCtrl.cbs1q12, 'cbs1q12')" ng-true-value="3" ng-false-value="-3" ng-checked = "OneOneCtrl.cbs1q12 == 1">
+                            <label for="cb2"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_2 -->
+            <br>
+            
+            <div class="line_item_3">            
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                            My partner pushes, shoves, grabs me, holds me down, or holds me hostage in rooms or vehicles.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb3" name="cb" value="" ng-model = "OneOneCtrl.cbs1q13" ng-change = "cbChange(OneOneCtrl.cbs1q13, 'cbs1q13')" ng-true-value="5" ng-false-value="-5" ng-checked = "OneOneCtrl.cbs1q13 == 1">
+                            <label for="cb3"></label>
+                            
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_3 -->            
+            <br>
+                    
+            <div class="line_item_4">            
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                          My partner slaps, hits, punches, kicks, strangles or throws me.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb4" name="cb" value="" ng-model = "OneOneCtrl.cbs1q14" ng-change = "cbChange(OneOneCtrl.cbs1q14, 'cbs1q14')" ng-true-value="5" ng-false-value="-5" ng-checked = "OneOneCtrl.cbs1q14 == 1">
+                            <label for="cb4"></label>
+                                
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_4 -->
+            <br>
+
+            <div class="line_item_4">                
+                <fieldset class = "standard">
+                    <div class="row">
+                        <div class="col-xs-9">
+                           My partner chases me, yells at me, invades my space in threatening ways, or otherwise makes me feel afraid.
+                        </div>
+                        <div class="col-xs-1"></div>
+                        <div class="col-xs-1">
+                            
+                            <input type = "checkbox" id="cb5" name="cb" value="" ng-model = "OneOneCtrl.cbs1q15" ng-change = "cbChange(OneOneCtrl.cbs1q15, 'cbs1q15')" ng-true-value="5" ng-false-value="-5" ng-checked = "OneOneCtrl.cbs1q15 == 1">
+                            <!--<input type="checkbox" id="cb3" name="cb" value="">-->
+                            <label for="cb5"></label> 
+                                
+                        </div>
+                    </div><!-- .row -->
+                </fieldset>
+            </div><!-- .line_item_5 -->
+            <br>
+            
+            <div class="row">
+                <div class="col-xs-3"></div>
+                <div class="col-xs-6">
+                    <button class="btn"><a href="/1/2">NEXT</a></button>
+                </div>
+                <div class="col-xs-3"></div>
+            </div>        
+            <br>
+
+          </div><!-- .bodyContent -->
+        </div><!-- .col-xs-10 -->
+  </div><!-- .row -->
+
+</div><!-- .container-fluid -->
