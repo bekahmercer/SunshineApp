@@ -74,6 +74,11 @@ function routes($routeProvider, $locationProvider) {
       controller: 'ThreeTwoController',
       controllerAs: 'ThreeTwoCtrl'
   })
+  .when('/summary', {
+      templateUrl: './quiz/questionSet3/questionsPage2/3-2.partial.html',
+      controller: 'ThreeTwoController',
+      controllerAs: 'ThreeTwoCtrl'
+  })
  
   $locationProvider.html5Mode(true)
   
