@@ -79,7 +79,26 @@ function routes($routeProvider, $locationProvider) {
       controller: 'ThreeTwoController',
       controllerAs: 'ThreeTwoCtrl'
   })
+<<<<<<< HEAD
+=======
+  .when('/summary1', {
+      templateUrl: './quiz/questionSet1/summary1/summary1.partial.html',
+      controller: 'SummaryOneController',
+      controllerAs: 'SumOneCtrl'
+  })
+  .when('/summary2', {
+      templateUrl: './quiz/questionSet2/summary2/summary2.partial.html',
+      controller: 'SummaryTwoController',
+      controllerAs: 'SumTwoCtrl'
+  })
+  .when('/summary3', {
+      templateUrl: './quiz/questionSet3/summary3/summary3.partial.html',
+      controller: 'SummaryThreeController',
+      controllerAs: 'SumThreeCtrl'
+  })
+>>>>>>> 1deaade910c3d806554c85131a6d82fe46366e94
  
   $locationProvider.html5Mode(true)
   
 }
+
