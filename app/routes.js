@@ -79,8 +79,6 @@ function routes($routeProvider, $locationProvider) {
       controller: 'ThreeTwoController',
       controllerAs: 'ThreeTwoCtrl'
   })
-<<<<<<< HEAD
-=======
   .when('/summary1', {
       templateUrl: './quiz/questionSet1/summary1/summary1.partial.html',
       controller: 'SummaryOneController',
@@ -96,7 +94,6 @@ function routes($routeProvider, $locationProvider) {
       controller: 'SummaryThreeController',
       controllerAs: 'SumThreeCtrl'
   })
->>>>>>> 1deaade910c3d806554c85131a6d82fe46366e94
  
   $locationProvider.html5Mode(true)
   
