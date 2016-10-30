@@ -3,7 +3,16 @@
     agua            #2ec8a3
     aqua light      #31f4c5
     aqua dark       #2abb98
+    aqua for footer #83cbc4
 */
+body {
+    font-family: 'Roboto', serif;
+}
+/*h3.headerText {
+    font-weight: 500;
+    font-size: 0;*//* reset setting from less.css */
+/*    font-size: 32px;
+}*/
 .bodyContent p {
     line-height: 0;
     font-size: 1em;
@@ -64,47 +73,6 @@
 .col-xs-9 strong {
     padding-right: .5em;
 }
-/* checkbox styling */
-/*.bodyContent .line_item_1 .standard input[type="checkbox"],
-.bodyContent .line_item_2 .standard input[type="checkbox"],
-.bodyContent .line_item_3 .standard input[type="checkbox"],
-.bodyContent .line_item_4 .standard input[type="checkbox"],
-.bodyContent .line_item_5 .standard input[type="checkbox"] {
-*/    /*display: none;*/
-/*    font-size: 12px;
-    width: 55px;
-    heignt: 55px;
-    background: red;
-    border: 1px solid red;
-}*/      
-input[type=checkbox] {
-    display:none;
-}     
-input[type=checkbox] + label:before {
-    content: "";  
-    display: inline-block;  
-    width: 26px;  
-    height: 26px;  
-    vertical-align: middle;
-    margin-right: 8px;  
-    background-color: #aaa;  
-    box-shadow: inset 0px 2px 2px rgba(0, 0, 0, .3);
-    border-radius: 4px;  
-}
-input[type=checkbox]:checked + label:before {
-    content:"\2714";
-    color: black;
-    background-color: #666; 
-    text-align:center;
-    line-height:15px;
-    text-shadow:0px 0px 3px #eee;
-}
-/*button {
-    width: 100px;
-    height: 75px;
-    background: #2ec8a3;
-}
-*/
 .btn {
   background: #2ec8a3;
   background-image: -webkit-linear-gradient(top, #2ec8a3, #2ec8a3);
@@ -170,3 +138,32 @@ input[type=checkbox]:checked + label:before {
   margin-right: 15px;
   font-size: 1.25em;
 }
+.text-right {
+    color: #83cbc4;
+}
+
+/*** custom checkboxes ***/
+
+input[type=checkbox] {
+    display:none;
+} /* to hide the checkbox itself */
+input[type=checkbox] + label:before {
+  font-family: FontAwesome;
+  display: inline-block;
+}
+input[type=checkbox] + label:before {
+    content: "\f096";
+} /* unchecked icon */
+input[type=checkbox] + label:before {
+    letter-spacing: 10px;
+} /* space between checkbox and label */
+input[type=checkbox]:checked + label:before {
+    content: "\f046";
+} /* checked icon */
+input[type=checkbox]:checked + label:before {
+    letter-spacing: 10px;
+    color: red;
+} /* allow space for check mark */
+label {
+    font-size: 25px;
+}/* adjust size of checkboxes */

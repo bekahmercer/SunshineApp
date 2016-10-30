@@ -1,17 +1,25 @@
 {
-  "name": "Nasa",
+  "name": "checkboxes",
   "version": "1.0.0",
-  "description": "Nasa resources and routing",
-  "main": "index.js",
+  "description": "Testing project for Checkboxes",
+  "main": "app.js",
   "scripts": {
     "start": "http-server -a localhost -p 8000 -c-1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zach Mays",
+  "author": "Yobo",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.9.0",
     "bower": "^1.7.9"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekahmercer/SunshineApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bekahmercer/SunshineApp/issues"
+  },
+  "homepage": "https://github.com/bekahmercer/SunshineApp#readme"
 }
