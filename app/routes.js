@@ -94,6 +94,11 @@ function routes($routeProvider, $locationProvider) {
       controller: 'SummaryThreeController',
       controllerAs: 'SumThreeCtrl'
   })
+  .when('/finalSummary', {
+      templateUrl: './quiz/finalSummary/finalSummary.partial.html',
+      controller: 'FinalSumamryController',
+      controllerAs: 'FinalSumCtrl'
+  })
  
   $locationProvider.html5Mode(true)
   
