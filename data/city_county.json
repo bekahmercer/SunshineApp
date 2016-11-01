@@ -1,0 +1,2886 @@
+[
+  {
+    'city': 'Proctor',
+    'county': 'Adair County'
+  },
+  {
+    'city': 'Stilwell',
+    'county': 'Adair County'
+  },
+  {
+    'city': 'Watts',
+    'county': 'Adair County'
+  },
+  {
+    'city': 'Westville',
+    'county': 'Adair County'
+  },
+  {
+    'city': 'Aline',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Amorita',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Burlington',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Byron',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Carmen',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Cherokee',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Goltry',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Helena',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Jet',
+    'county': 'Alfalfa County'
+  },
+  {
+    'city': 'Atoka',
+    'county': 'Atoka County'
+  },
+  {
+    'city': 'Caney',
+    'county': 'Atoka County'
+  },
+  {
+    'city': 'Daisy',
+    'county': 'Atoka County'
+  },
+  {
+    'city': 'Farris',
+    'county': 'Atoka County'
+  },
+  {
+    'city': 'Lane',
+    'county': 'Atoka County'
+  },
+  {
+    'city': 'Lehigh',
+    'county': 'Atoka County'
+  },
+  {
+    'city': 'Stringtown',
+    'county': 'Atoka County'
+  },
+  {
+    'city': 'Baker',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Balko',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Beaver',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Elmwood',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Forgan',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Gate',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Knowles',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Turpin',
+    'county': 'Beaver County'
+  },
+  {
+    'city': 'Carter',
+    'county': 'Beckham County'
+  },
+  {
+    'city': 'Elk City',
+    'county': 'Beckham County'
+  },
+  {
+    'city': 'Erick',
+    'county': 'Beckham County'
+  },
+  {
+    'city': 'Mayfield',
+    'county': 'Beckham County'
+  },
+  {
+    'city': 'Sayre',
+    'county': 'Beckham County'
+  },
+  {
+    'city': 'Texola',
+    'county': 'Beckham County'
+  },
+  {
+    'city': 'Canton',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Geary',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Greenfield',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Hitchcock',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Longdale',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Okeene',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Southard',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Watonga',
+    'county': 'Blaine County'
+  },
+  {
+    'city': 'Achille',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Albany',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Bennington',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Bokchito',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Caddo',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Calera',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Cartwright',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Colbert',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Durant',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Hendrix',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Kemp',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Mead',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Platter',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Wade',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Yarnaby',
+    'county': 'Bryan County'
+  },
+  {
+    'city': 'Albert',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Anadarko',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Apache',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Binger',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Carnegie',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Cement',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Cyril',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Eakly',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Fort Cobb',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Gracemont',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Hinton',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Hydro',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Lookeba',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Washita',
+    'county': 'Caddo County'
+  },
+  {
+    'city': 'Calumet',
+    'county': 'Canadian County'
+  },
+  {
+    'city': 'Concho',
+    'county': 'Canadian County'
+  },
+  {
+    'city': 'El Reno',
+    'county': 'Canadian County'
+  },
+  {
+    'city': 'Mustang',
+    'county': 'Canadian County'
+  },
+  {
+    'city': 'Piedmont',
+    'county': 'Canadian County'
+  },
+  {
+    'city': 'Union City',
+    'county': 'Canadian County'
+  },
+  {
+    'city': 'Yukon',
+    'county': 'Canadian County'
+  },
+  {
+    'city': 'Ardmore',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Fox',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Gene Autry',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Graham',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Healdton',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Hennepin',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Lone Grove',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Milo',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Pooleville',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Ratliff City',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Rubottom',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Springer',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Tatums',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Tussy',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Wilson',
+    'county': 'Carter County'
+  },
+  {
+    'city': 'Cookson',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Hulbert',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Moodys',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Park Hill',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Peggs',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Pettit',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Qualls',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Tahlequah',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Welling',
+    'county': 'Cherokee County'
+  },
+  {
+    'city': 'Boswell',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Fort Towson',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Gay',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Grant',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Hugo',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Messer',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Sawyer',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Soper',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Spencerville',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Swink',
+    'county': 'Choctaw County'
+  },
+  {
+    'city': 'Boise City',
+    'county': 'Cimarron County'
+  },
+  {
+    'city': 'Felt',
+    'county': 'Cimarron County'
+  },
+  {
+    'city': 'Kenton',
+    'county': 'Cimarron County'
+  },
+  {
+    'city': 'Keyes',
+    'county': 'Cimarron County'
+  },
+  {
+    'city': 'Lexington',
+    'county': 'Cleveland County'
+  },
+  {
+    'city': 'Moore',
+    'county': 'Cleveland County'
+  },
+  {
+    'city': 'Newalla',
+    'county': 'Cleveland County'
+  },
+  {
+    'city': 'Noble',
+    'county': 'Cleveland County'
+  },
+  {
+    'city': 'Norman',
+    'county': 'Cleveland County'
+  },
+  {
+    'city': 'Oklahoma City',
+    'county': 'Cleveland County'
+  },
+  {
+    'city': 'Centrahoma',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Clarita',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Coalgate',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Cottonwood',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Lehigh',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Olney',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Phillips',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Tupelo',
+    'county': 'Coal County'
+  },
+  {
+    'city': 'Cache',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Chattanooga',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Elgin',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Faxon',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Fletcher',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Fort Sill',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Geronimo',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Indiahoma',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Lawton',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Medicine Park',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Meers',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Sterling',
+    'county': 'Comanche County'
+  },
+  {
+    'city': 'Devol',
+    'county': 'Cotton County'
+  },
+  {
+    'city': 'Randlett',
+    'county': 'Cotton County'
+  },
+  {
+    'city': 'Temple',
+    'county': 'Cotton County'
+  },
+  {
+    'city': 'Walters',
+    'county': 'Cotton County'
+  },
+  {
+    'city': 'Big Cabin',
+    'county': 'Craig County'
+  },
+  {
+    'city': 'Bluejacket',
+    'county': 'Craig County'
+  },
+  {
+    'city': 'Centralia',
+    'county': 'Craig County'
+  },
+  {
+    'city': 'Pensacola',
+    'county': 'Craig County'
+  },
+  {
+    'city': 'Vinita',
+    'county': 'Craig County'
+  },
+  {
+    'city': 'Welch',
+    'county': 'Craig County'
+  },
+  {
+    'city': 'White Oak',
+    'county': 'Craig County'
+  },
+  {
+    'city': 'Bristow',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Depew',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Drumright',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Edna',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Kellyville',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Kiefer',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Mannford',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Milfay',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Mounds',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Newby',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Oilton',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Sapulpa',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Shamrock',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Slick',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Tulsa',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Tuskegee',
+    'county': 'Creek County'
+  },
+  {
+    'city': 'Arapaho',
+    'county': 'Custer County'
+  },
+  {
+    'city': 'Butler',
+    'county': 'Custer County'
+  },
+  {
+    'city': 'Clinton',
+    'county': 'Custer County'
+  },
+  {
+    'city': 'Custer',
+    'county': 'Custer County'
+  },
+  {
+    'city': 'Custer City',
+    'county': 'Custer County'
+  },
+  {
+    'city': 'Thomas',
+    'county': 'Custer County'
+  },
+  {
+    'city': 'Weatherford',
+    'county': 'Custer County'
+  },
+  {
+    'city': 'Colcord',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Eucha',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Grove',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Jay',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Kansas',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Oaks',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Rose',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Twin Oaks',
+    'county': 'Delaware County'
+  },
+  {
+    'city': 'Camargo',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Eagle City',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Fay',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Leedey',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Oakwood',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Putnam',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Seiling',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Taloga',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Vici',
+    'county': 'Dewey County'
+  },
+  {
+    'city': 'Arnett',
+    'county': 'Ellis County'
+  },
+  {
+    'city': 'Fargo',
+    'county': 'Ellis County'
+  },
+  {
+    'city': 'Gage',
+    'county': 'Ellis County'
+  },
+  {
+    'city': 'Harmon',
+    'county': 'Ellis County'
+  },
+  {
+    'city': 'Shattuck',
+    'county': 'Ellis County'
+  },
+  {
+    'city': 'Bison',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Carrier',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Covington',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Douglas',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Drummond',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Enid',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Fairmont',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Garber',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Hillsdale',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Hunter',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Kremlin',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Lahoma',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Vance Air Force Base',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Waukomis',
+    'county': 'Garfield County'
+  },
+  {
+    'city': 'Elmore City',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Hennepin',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Lindsay',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Maysville',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Paoli',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Pauls Valley',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Pernell',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Stratford',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Wynnewood',
+    'county': 'Garvin County'
+  },
+  {
+    'city': 'Alex',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Amber',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Bradley',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Chickasha',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Minco',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Ninnekah',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Pocasset',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Rush Springs',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Tuttle',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Verden',
+    'county': 'Grady County'
+  },
+  {
+    'city': 'Deer Creek',
+    'county': 'Grant County'
+  },
+  {
+    'city': 'Lamont',
+    'county': 'Grant County'
+  },
+  {
+    'city': 'Manchester',
+    'county': 'Grant County'
+  },
+  {
+    'city': 'Medford',
+    'county': 'Grant County'
+  },
+  {
+    'city': 'Nash',
+    'county': 'Grant County'
+  },
+  {
+    'city': 'Pond Creek',
+    'county': 'Grant County'
+  },
+  {
+    'city': 'Wakita',
+    'county': 'Grant County'
+  },
+  {
+    'city': 'Granite',
+    'county': 'Greer County'
+  },
+  {
+    'city': 'Mangum',
+    'county': 'Greer County'
+  },
+  {
+    'city': 'Reed',
+    'county': 'Greer County'
+  },
+  {
+    'city': 'Willow',
+    'county': 'Greer County'
+  },
+  {
+    'city': 'Gould',
+    'county': 'Harmon County'
+  },
+  {
+    'city': 'Hollis',
+    'county': 'Harmon County'
+  },
+  {
+    'city': 'Vinson',
+    'county': 'Harmon County'
+  },
+  {
+    'city': 'Buffalo',
+    'county': 'Harper County'
+  },
+  {
+    'city': 'Laverne',
+    'county': 'Harper County'
+  },
+  {
+    'city': 'Logan',
+    'county': 'Harper County'
+  },
+  {
+    'city': 'May',
+    'county': 'Harper County'
+  },
+  {
+    'city': 'Rosston',
+    'county': 'Harper County'
+  },
+  {
+    'city': 'Selman',
+    'county': 'Harper County'
+  },
+  {
+    'city': 'Enterprise',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Hoyt',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Keota',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Kinta',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Lequire',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'McCurtain',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Stigler',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Tamaha',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Whitefield',
+    'county': 'Haskell County'
+  },
+  {
+    'city': 'Atwood',
+    'county': 'Hughes County'
+  },
+  {
+    'city': 'Calvin',
+    'county': 'Hughes County'
+  },
+  {
+    'city': 'Dustin',
+    'county': 'Hughes County'
+  },
+  {
+    'city': 'Holdenville',
+    'county': 'Hughes County'
+  },
+  {
+    'city': 'Lamar',
+    'county': 'Hughes County'
+  },
+  {
+    'city': 'Stuart',
+    'county': 'Hughes County'
+  },
+  {
+    'city': 'Wetumka',
+    'county': 'Hughes County'
+  },
+  {
+    'city': 'Altus',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Altus AFB',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Blair',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Duke',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Eldorado',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Elmer',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Headrick',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Martha',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Olustee',
+    'county': 'Jackson County'
+  },
+  {
+    'city': 'Addington',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Grady',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Hastings',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Oscar',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Ringling',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Ryan',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Terral',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Waurika',
+    'county': 'Jefferson County'
+  },
+  {
+    'city': 'Bromide',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Coleman',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Connerville',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Kenefic',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Mannsville',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Milburn',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Mill Creek',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Ravia',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Tishomingo',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Wapanucka',
+    'county': 'Johnston County'
+  },
+  {
+    'city': 'Blackwell',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Braman',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Kaw',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Kaw City',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Nardin',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Newkirk',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Peckham',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Ponca City',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Tonkawa',
+    'county': 'Kay County'
+  },
+  {
+    'city': 'Cashion',
+    'county': 'Kingfisher County'
+  },
+  {
+    'city': 'Dover',
+    'county': 'Kingfisher County'
+  },
+  {
+    'city': 'Hennessey',
+    'county': 'Kingfisher County'
+  },
+  {
+    'city': 'Kingfisher',
+    'county': 'Kingfisher County'
+  },
+  {
+    'city': 'Loyal',
+    'county': 'Kingfisher County'
+  },
+  {
+    'city': 'Okarche',
+    'county': 'Kingfisher County'
+  },
+  {
+    'city': 'Omega',
+    'county': 'Kingfisher County'
+  },
+  {
+    'city': 'Gotebo',
+    'county': 'Kiowa County'
+  },
+  {
+    'city': 'Hobart',
+    'county': 'Kiowa County'
+  },
+  {
+    'city': 'Lone Wolf',
+    'county': 'Kiowa County'
+  },
+  {
+    'city': 'Mountain Park',
+    'county': 'Kiowa County'
+  },
+  {
+    'city': 'Mountain View',
+    'county': 'Kiowa County'
+  },
+  {
+    'city': 'Roosevelt',
+    'county': 'Kiowa County'
+  },
+  {
+    'city': 'Snyder',
+    'county': 'Kiowa County'
+  },
+  {
+    'city': 'Gowen',
+    'county': 'Latimer County'
+  },
+  {
+    'city': 'Higgins',
+    'county': 'Latimer County'
+  },
+  {
+    'city': 'Panola',
+    'county': 'Latimer County'
+  },
+  {
+    'city': 'Red Oak',
+    'county': 'Latimer County'
+  },
+  {
+    'city': 'Talihina',
+    'county': 'Latimer County'
+  },
+  {
+    'city': 'Wilburton',
+    'county': 'Latimer County'
+  },
+  {
+    'city': 'Arkoma',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Bokoshe',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Cameron',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Fanshawe',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Heavener',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Hodgen',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Honobia',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Howe',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Leflore',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Monroe',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Muse',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Panama',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Pocola',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Poteau',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Shady Point',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Spiro',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Summerfield',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Whitesboro',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Wister',
+    'county': 'LeFlore County'
+  },
+  {
+    'city': 'Agra',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Carney',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Chandler',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Davenport',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Kendrick',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Meeker',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Prague',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Sparks',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Stroud',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Tryon',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Wellston',
+    'county': 'Lincoln County'
+  },
+  {
+    'city': 'Coyle',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Crescent',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Guthrie',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Langston',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Marshall',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Meridian',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Mulhall',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Orlando',
+    'county': 'Logan County'
+  },
+  {
+    'city': 'Burneyville',
+    'county': 'Love County'
+  },
+  {
+    'city': 'Leon',
+    'county': 'Love County'
+  },
+  {
+    'city': 'Marietta',
+    'county': 'Love County'
+  },
+  {
+    'city': 'Overbrook',
+    'county': 'Love County'
+  },
+  {
+    'city': 'Thackerville',
+    'county': 'Love County'
+  },
+  {
+    'city': 'Ames',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Chester',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Cleo Springs',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Fairview',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Isabella',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Meno',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Orienta',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Ringwood',
+    'county': 'Major County'
+  },
+  {
+    'city': 'Kingston',
+    'county': 'Marshall County'
+  },
+  {
+    'city': 'Lebanon',
+    'county': 'Marshall County'
+  },
+  {
+    'city': 'Madill',
+    'county': 'Marshall County'
+  },
+  {
+    'city': 'Oakland',
+    'county': 'Marshall County'
+  },
+  {
+    'city': 'Adair',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Chouteau',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Disney',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Ketchum',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Langley',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Locust Grove',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Mazie',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Pryor',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Rose',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Salina',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Spavinaw',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Strang',
+    'county': 'Mayes County'
+  },
+  {
+    'city': 'Blanchard',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Byars',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Dibble',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Goldsby',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Newcastle',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Purcell',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Washington',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Wayne',
+    'county': 'McClain County'
+  },
+  {
+    'city': 'Battiest',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Bethel',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Boss',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Broken Bow',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Eagletown',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Garvin',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Golden',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Haworth',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Idabel',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Kulli',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Millerton',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Octavia',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Pickens',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Ringold',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Rufe',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Shults',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Smithville',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Tom',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Valliant',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Watson',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Wright City',
+    'county': 'McCurtain County'
+  },
+  {
+    'city': 'Bond',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Checotah',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Eufaula',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Hanna',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Hitchita',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Pierce',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Rentiesville',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Stidham',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Texanna',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Vernon',
+    'county': 'McIntosh County'
+  },
+  {
+    'city': 'Davis',
+    'county': 'Murray County'
+  },
+  {
+    'city': 'Dougherty',
+    'county': 'Murray County'
+  },
+  {
+    'city': 'Sulphur',
+    'county': 'Murray County'
+  },
+  {
+    'city': 'Bacone',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Beland',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Boynton',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Braggs',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Council Hill',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Fort Gibson',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Haskell',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Keefeton',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Martin',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'McLain',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Muskogee',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Oktaha',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Porum',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Summitt',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Taft',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Wainwright',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Warner',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Webbers Falls',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Wybark',
+    'county': 'Muskogee County'
+  },
+  {
+    'city': 'Billings',
+    'county': 'Noble County'
+  },
+  {
+    'city': 'Lucien',
+    'county': 'Noble County'
+  },
+  {
+    'city': 'Marland',
+    'county': 'Noble County'
+  },
+  {
+    'city': 'Morrison',
+    'county': 'Noble County'
+  },
+  {
+    'city': 'Perry',
+    'county': 'Noble County'
+  },
+  {
+    'city': 'Red Rock',
+    'county': 'Noble County'
+  },
+  {
+    'city': 'Coodys Bluff',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'Delaware',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'Lenapah',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'Nowata',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'Noxie',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'South Coffeyville',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'Wann',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'Watova',
+    'county': 'Nowata County'
+  },
+  {
+    'city': 'Bearden',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Boley',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Castle',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Clearview',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Mason',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Okemah',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Paden',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Pharoah',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Weleetka',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Welty',
+    'county': 'Okfuskee County'
+  },
+  {
+    'city': 'Arcadia',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Bethany',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Choctaw',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Del City',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Edmond',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Harrah',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Jones',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Luther',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Midwest City',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Moore',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Newalla',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Nichols Hills',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Nicoma Park',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Oklahoma City',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Spencer',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Tinker AFB',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Village',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Warr Acres',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Wheatland',
+    'county': 'Oklahoma County'
+  },
+  {
+    'city': 'Beggs',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Coalton',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Dewar',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Grayson',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Henryetta',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Hoffman',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Morris',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Nuyaka',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Okmulgee',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Preston',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Salem',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Schulter',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Spelter City',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Twin Hills',
+    'county': 'Okmulgee County'
+  },
+  {
+    'city': 'Avant',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Barnsdall',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Bowring',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Burbank',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Fairfax',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Foraker',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Herd',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Hominy',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Nelagony',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Osage',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Pawhuska',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Pearsonia',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Pershing',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Prue',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Shidler',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Skiatook',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Tallant',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Tulsa',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Wolco',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Wynona',
+    'county': 'Osage County'
+  },
+  {
+    'city': 'Afton',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Bernice',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Bluejacket',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Cardin',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Cleora',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Commerce',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Fairland',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Miami',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Monkey Island',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'North Miami',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Peoria',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Picher',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Quapaw',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Wyandotte',
+    'county': 'Ottawa County'
+  },
+  {
+    'city': 'Baugh',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Cleveland',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Hailey',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Hallett',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Hallis',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Jennings',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Maramec',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Pawnee',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Ralston',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Silver City',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Terlton',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Westport',
+    'county': 'Pawnee County'
+  },
+  {
+    'city': 'Avery',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Cushing',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Glencoe',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Norfolk',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Perkins',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Ripley',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Schlegal',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Stillwater',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Yale',
+    'county': 'Payne County'
+  },
+  {
+    'city': 'Alderson',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Bache',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Blanco',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Blocker',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Canadian',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Crowder',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Haileyville',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Hartshorne',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Haywood',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Indianola',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Kiowa',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Krebs',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'McAlester',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Pittsburg',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Quinton',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Richville',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Savanna',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Scipio',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Wardville',
+    'county': 'Pittsburg County'
+  },
+  {
+    'city': 'Ada',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Allen',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Fittstown',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Fitzhugh',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Francis',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Harden City',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Pontotoc',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Roff',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Stonewall',
+    'county': 'Pontotoc County'
+  },
+  {
+    'city': 'Asher',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Dale',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Earlsboro',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Macomb',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Maud',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'McLoud',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Pink',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Saint Louis',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Shawnee',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Tecumseh',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Wanette',
+    'county': 'Pottawatomie County'
+  },
+  {
+    'city': 'Albion',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Antlers',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Clayton',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Finley',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Moyers',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Nashoba',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Rattan',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Snow',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Tuskahoma',
+    'county': 'Pushmataha County'
+  },
+  {
+    'city': 'Cheyenne',
+    'county': 'Roger Mills County'
+  },
+  {
+    'city': 'Crawford',
+    'county': 'Roger Mills County'
+  },
+  {
+    'city': 'Durham',
+    'county': 'Roger Mills County'
+  },
+  {
+    'city': 'Hammon',
+    'county': 'Roger Mills County'
+  },
+  {
+    'city': 'Reydon',
+    'county': 'Roger Mills County'
+  },
+  {
+    'city': 'Strong City',
+    'county': 'Roger Mills County'
+  },
+  {
+    'city': 'Sweetwater',
+    'county': 'Roger Mills County'
+  },
+  {
+    'city': 'Bushyhead',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Catoosa',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Chelsea',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Claremore',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Foyil',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Inola',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Oologah',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Talala',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Tiawah',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Verdigris',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Winganon',
+    'county': 'Rogers County'
+  },
+  {
+    'city': 'Bowlegs',
+    'county': 'Seminole County'
+  },
+  {
+    'city': 'Cromwell',
+    'county': 'Seminole County'
+  },
+  {
+    'city': 'Konawa',
+    'county': 'Seminole County'
+  },
+  {
+    'city': 'New Lima',
+    'county': 'Seminole County'
+  },
+  {
+    'city': 'Sasakwa',
+    'county': 'Seminole County'
+  },
+  {
+    'city': 'Seminole',
+    'county': 'Seminole County'
+  },
+  {
+    'city': 'Wewoka',
+    'county': 'Seminole County'
+  },
+  {
+    'city': 'Gans',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Gore',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Marble City',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Moffett',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Muldrow',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Roland',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Sallisaw',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Vian',
+    'county': 'Sequoyah County'
+  },
+  {
+    'city': 'Bray',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'Comanche',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'County'line',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'Duncan',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'Foster',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'Loco',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'Marlow',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'Velma',
+    'county': 'Stephens County'
+  },
+  {
+    'city': 'Adams',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Goodwell',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Guymon',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Hardesty',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Hooker',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Optima',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Texhoma',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Tyrone',
+    'county': 'Texas County'
+  },
+  {
+    'city': 'Davidson',
+    'county': 'Tillman County'
+  },
+  {
+    'city': 'Frederick',
+    'county': 'Tillman County'
+  },
+  {
+    'city': 'Grandfield',
+    'county': 'Tillman County'
+  },
+  {
+    'city': 'Hollister',
+    'county': 'Tillman County'
+  },
+  {
+    'city': 'Loveland',
+    'county': 'Tillman County'
+  },
+  {
+    'city': 'Manitou',
+    'county': 'Tillman County'
+  },
+  {
+    'city': 'Tipton',
+    'county': 'Tillman County'
+  },
+  {
+    'city': 'Bixby',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Broken Arrow',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Collinsville',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Glenpool',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Jenks',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Leonard',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Lotsee',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Oakhurst',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Owasso',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Sand Springs',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Sperry',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Tulsa',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Turley',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'West Tulsa',
+    'county': 'Tulsa County'
+  },
+  {
+    'city': 'Broken Arrow',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Choska',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Coweta',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'New Tulsa',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Okay',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Porter',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Redbird',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Tullahassee',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Wagoner',
+    'county': 'Wagoner County'
+  },
+  {
+    'city': 'Bartlesville',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Copan',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Dewey',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'East Side',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Glenoak',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Hog Shooter',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Ochelata',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Okesa',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Ramona',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Vera',
+    'county': 'Washington County'
+  },
+  {
+    'city': 'Bessie',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Burns Flat',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Canute',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Colony',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Cordell',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Corn',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Dill City',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Foss',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Rocky',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Sentinel',
+    'county': 'Washita County'
+  },
+  {
+    'city': 'Alva',
+    'county': 'Woods County'
+  },
+  {
+    'city': 'Capron',
+    'county': 'Woods County'
+  },
+  {
+    'city': 'Dacoma',
+    'county': 'Woods County'
+  },
+  {
+    'city': 'Freedom',
+    'county': 'Woods County'
+  },
+  {
+    'city': 'Hopeton',
+    'county': 'Woods County'
+  },
+  {
+    'city': 'Waynoka',
+    'county': 'Woods County'
+  },
+  {
+    'city': 'Fort Supply',
+    'county': 'Woodward County'
+  },
+  {
+    'city': 'Mooreland',
+    'county': 'Woodward County'
+  },
+  {
+    'city': 'Mutual',
+    'county': 'Woodward County'
+  },
+  {
+    'city': 'Sharon',
+    'county': 'Woodward County'
+  },
+  {
+    'city': 'Woodward',
+    'county': 'Woodward County'
+  }
+]
