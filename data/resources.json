@@ -1,0 +1,1312 @@
+[
+    {
+        'county': 'beckham',
+        'name': 'Action Associates, Inc.',
+        'address': {
+            'street': 'PO Box 1534',
+            'city': 'Clinton',
+            'state': 'OK',
+            'zip': '73601'
+        },
+        'office': '580-243-5913',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'actionclinton@itlnet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+    
+    {
+        'county': 'greer',
+        'name': 'Action Associates, Inc.',
+        'address': {
+            'street': 'PO Box 1534',
+            'city': 'Clinton',
+            'state': 'OK',
+            'zip': '73601'
+        },
+        'office': '580-243-5913',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'actionclinton@itlnet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+    
+    {
+        'county': 'washita',
+        'name': 'Action Associates, Inc.',
+        'address': {
+            'street': 'PO Box 1534',
+            'city': 'Clinton',
+            'state': 'OK',
+            'zip': '73601'
+        },
+        'office': '580-243-5913',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'actionclinton@itlnet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+        
+    {
+        'county': 'atoka',
+        'name': 'Crisis Control Center, Inc.',
+        'address': {
+            'street': 'PO Box 113',
+            'city': 'Durant',
+            'state': 'OK',
+            'zip': '74702'
+        },
+        'office': '580-924-3056',
+        'hotline': '580-924-3030',
+        'phone 3': 'N/A',
+        'email 1': 'nssclass@redriverok.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+    
+            
+    {
+        'county': 'bryan',
+        'name': 'Crisis Control Center, Inc.',
+        'address': {
+            'street': 'PO Box 113',
+            'city': 'Durant',
+            'state': 'OK',
+            'zip': '74702'
+        },
+        'office': '580-924-3056',
+        'hotline': '580-924-3030',
+        'phone 3': 'N/A',
+        'email 1': 'nssclass@redriverok.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+            
+    {
+        'county': 'canadian',
+        'name': 'Women\'s Service and Family Resource Center',
+        'address': {
+            'street': 'PO Box 1539',
+            'city': 'Chickasha',
+            'state': 'OK',
+            'zip': '73023'
+        },
+        'office': '405-262-4455',
+        'hotline': '405-222-1818',
+        'phone 3': '800-734-4117',
+        'email 1': 'wsfrc2@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                
+    {
+        'county': 'blaine',
+        'name': 'Women\'s Service and Family Resource Center',
+        'address': {
+            'street': 'PO Box 1539',
+            'city': 'Chickasha',
+            'state': 'OK',
+            'zip': '73023'
+        },
+        'office': '405-262-4455',
+        'hotline': '405-222-1818',
+        'phone 3': '800-734-4117',
+        'email 1': 'wsfrc2@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                
+    {
+        'county': 'kingfisher',
+        'name': 'Women\'s Service and Family Resource Center',
+        'address': {
+            'street': 'PO Box 1539',
+            'city': 'Chickasha',
+            'state': 'OK',
+            'zip': '73023'
+        },
+        'office': '405-262-4455',
+        'hotline': '405-222-1818',
+        'phone 3': '800-734-4117',
+        'email 1': 'wsfrc2@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                
+    {
+        'county': 'carter',
+        'name': 'Ardmore Family Shelter of Southern OK',
+        'address': {
+            'street': 'PO Box 1408',
+            'city': 'Ardmore',
+            'state': 'OK',
+            'zip': '73402'
+        },
+        'office': '580-226-3750',
+        'hotline': '580-226-6424',
+        'phone 3': 'N/A',
+        'email 1': 'thefamilyshelter@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                    
+    {
+        'county': 'love',
+        'name': 'Ardmore Family Shelter of Southern OK',
+        'address': {
+            'street': 'PO Box 1408',
+            'city': 'Ardmore',
+            'state': 'OK',
+            'zip': '73402'
+        },
+        'office': '580-226-3750',
+        'hotline': '580-226-6424',
+        'phone 3': 'N/A',
+        'email 1': 'thefamilyshelter@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                
+    {
+        'county': 'cherokee',
+        'name': 'Help In Crisis, Inc.',
+        'address': {
+            'street': 'PO Box 1975',
+            'city': 'Tahlequah',
+            'state': 'OK',
+            'zip': '74464'
+        },
+        'office': '918-456-0673',
+        'hotline': '918-456-4357',
+        'phone 3': '800-300-5321',
+        'email 1': 'hicdirector@cablelynx.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                
+    {
+        'county': 'adair',
+        'name': 'Help In Crisis, Inc.',
+        'address': {
+            'street': 'PO Box 1975',
+            'city': 'Tahlequah',
+            'state': 'OK',
+            'zip': '74464'
+        },
+        'office': '918-456-0673',
+        'hotline': '918-456-4357',
+        'phone 3': '800-300-5321',
+        'email 1': 'hicdirector@cablelynx.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                    
+    {
+        'county': 'sequoyah',
+        'name': 'Help In Crisis, Inc.',
+        'address': {
+            'street': 'PO Box 1975',
+            'city': 'Tahlequah',
+            'state': 'OK',
+            'zip': '74464'
+        },
+        'office': '918-456-0673',
+        'hotline': '918-456-4357',
+        'phone 3': '800-300-5321',
+        'email 1': 'hicdirector@cablelynx.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                    
+    {
+        'county': 'choctaw',
+        'name': 'SOS For Familes',
+        'address': {
+            'street': '111 E Jackson',
+            'city': 'Hugo',
+            'state': 'OK',
+            'zip': '74743'
+        },
+        'office': 'N/A',
+        'hotline': '580-326-8323',
+        'phone 3': 'N/A',
+        'email 1': 'sosfamily@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                        
+    {
+        'county': 'cleveland',
+        'name': 'Women\'s Resource Center, Inc.',
+        'address': {
+            'street': 'PO Box 5089',
+            'city': 'Norman',
+            'state': 'OK',
+            'zip': '73070'
+        },
+        'office': 'N/A',
+        'hotline': '405-701-5540',
+        'phone 3': 'N/A',
+        'email 1': 'wrc@wrcweb.net',
+        'email 2': 'N/A',
+        'website': 'www.wrcnorman.org'
+    },
+                            
+    {
+        'county': 'mcclain',
+        'name': 'Women\'s Resource Center, Inc.',
+        'address': {
+            'street': 'PO Box 5089',
+            'city': 'Norman',
+            'state': 'OK',
+            'zip': '73070'
+        },
+        'office': 'N/A',
+        'hotline': '405-701-5540',
+        'phone 3': 'N/A',
+        'email 1': 'wrc@wrcweb.net',
+        'email 2': 'N/A',
+        'website': 'www.wrcnorman.org'
+    },
+                                
+    {
+        'county': 'comanche',
+        'name': 'New Directions, Inc.',
+        'address': {
+            'street': 'PO Box 408',
+            'city': 'Lawton',
+            'state': 'OK',
+            'zip': '73502'
+        },
+        'office': '580-357-6141',
+        'hotline': '580-357-2500',
+        'phone 3': 'N/A',
+        'email 1': 'nddirector@mariedetty.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                    
+    {
+        'county': 'cotton',
+        'name': 'New Directions, Inc.',
+        'address': {
+            'street': 'PO Box 408',
+            'city': 'Lawton',
+            'state': 'OK',
+            'zip': '73502'
+        },
+        'office': '580-357-6141',
+        'hotline': '580-357-2500',
+        'phone 3': 'N/A',
+        'email 1': 'nddirector@mariedetty.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                    
+    {
+        'county': 'kiowa',
+        'name': 'New Directions, Inc.',
+        'address': {
+            'street': 'PO Box 408',
+            'city': 'Lawton',
+            'state': 'OK',
+            'zip': '73502'
+        },
+        'office': '580-357-6141',
+        'hotline': '580-357-2500',
+        'phone 3': 'N/A',
+        'email 1': 'nddirector@mariedetty.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                    
+    {
+        'county': 'tillman',
+        'name': 'New Directions, Inc.',
+        'address': {
+            'street': 'PO Box 408',
+            'city': 'Lawton',
+            'state': 'OK',
+            'zip': '73502'
+        },
+        'office': '580-357-6141',
+        'hotline': '580-357-2500',
+        'phone 3': 'N/A',
+        'email 1': 'nddirector@mariedetty.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                
+    {
+        'county': 'craig',
+        'name': 'Community Crisis Center, Inc.',
+        'address': {
+            'street': '17 N. Main',
+            'city': 'Miami',
+            'state': 'OK',
+            'zip': '74354'
+        },
+        'office': '918-256-1945',
+        'hotline': '800-400-0883',
+        'phone 3': 'N/A',
+        'email 1': 'cci@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                
+    {
+        'county': 'creek',
+        'name': 'Domestic Violence Intervention Services, Inc.',
+        'address': {
+            'street': '210 East Dewey',
+            'city': 'Sapulpa',
+            'state': 'OK',
+            'zip': '74066'
+        },
+        'office': '918-224-9290',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'www.dvis.org'
+    },    
+                                
+    {
+        'county': 'custer',
+        'name': 'Action Associates, Inc.-Main Facility',
+        'address': {
+            'street': 'N/A',
+            'city': 'N/A',
+            'state': 'N/A',
+            'zip': 'N/A'
+        },
+        'office': 'N/A',
+        'hotline': '580-323-2604',
+        'phone 3': 'N/A',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },   
+                                    
+    {
+        'county': 'dewey',
+        'name': 'Action Associates, Inc.-Main Facility',
+        'address': {
+            'street': 'N/A',
+            'city': 'N/A',
+            'state': 'N/A',
+            'zip': 'N/A'
+        },
+        'office': 'N/A',
+        'hotline': '580-323-2604',
+        'phone 3': 'N/A',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },   
+                                
+    {
+        'county': 'delaware',
+        'name': 'Community Crisis Center, Inc.',
+        'address': {
+            'street': '17 N. Main',
+            'city': 'Miami',
+            'state': 'OK',
+            'zip': '74354'
+        },
+        'office': '918-786-8009',
+        'hotline': '800-400-0883',
+        'phone 3': 'N/A',
+        'email 1': 'ccci@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },   
+                                
+    {
+        'county': 'garfield',
+        'name': 'YWCA Option House',
+        'address': {
+            'street': '525 S. Quincy',
+            'city': 'Enid',
+            'state': 'OK',
+            'zip': '73701'
+        },
+        'office': '580-234-7581',
+        'hotline': '800-966-7644',
+        'phone 3': 'N/A',
+        'email 1': 'ywca@ywcaenid.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },  
+    
+    {
+        'county': 'alfalfa',
+        'name': 'YWCA Option House',
+        'address': {
+            'street': '525 S. Quincy',
+            'city': 'Enid',
+            'state': 'OK',
+            'zip': '73701'
+        },
+        'office': '580-234-7581',
+        'hotline': '800-966-7644',
+        'phone 3': 'N/A',
+        'email 1': 'ywca@ywcaenid.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },  
+    
+        {
+        'county': 'grant',
+        'name': 'YWCA Option House',
+        'address': {
+            'street': '525 S. Quincy',
+            'city': 'Enid',
+            'state': 'OK',
+            'zip': '73701'
+        },
+        'office': '580-234-7581',
+        'hotline': '800-966-7644',
+        'phone 3': 'N/A',
+        'email 1': 'ywca@ywcaenid.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },  
+
+    {
+        'county': 'major',
+        'name': 'YWCA Option House',
+        'address': {
+            'street': '525 S. Quincy',
+            'city': 'Enid',
+            'state': 'OK',
+            'zip': '73701'
+        },
+        'office': '580-234-7581',
+        'hotline': '800-966-7644',
+        'phone 3': 'N/A',
+        'email 1': 'ywca@ywcaenid.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },  
+        
+    {
+        'county': 'garvin',
+        'name': 'Family Crisis Center, Inc.',
+        'address': {
+            'street': 'PO Box 2274',
+            'city': 'Ada',
+            'state': 'OK',
+            'zip': '74820'
+        },
+        'office': '405-238-6511',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'fccada@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },  
+        
+    {
+        'county': 'murray',
+        'name': 'Family Crisis Center, Inc.',
+        'address': {
+            'street': 'PO Box 2274',
+            'city': 'Ada',
+            'state': 'OK',
+            'zip': '74820'
+        },
+        'office': '405-238-6511',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'fccada@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    }, 
+        
+    {
+        'county': 'grady',
+        'name': 'Women\'s Service and Family Resource Center',
+        'address': {
+            'street': 'PO Box 1539',
+            'city': 'Chickasha',
+            'state': 'OK',
+            'zip': '73023'
+        },
+        'office': '405-224-8256',
+        'hotline': '405-222-1818',
+        'phone 3': '800-734-4117',
+        'email 1': 'wsfrc1@mcleodusa.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    }, 
+          
+    {
+        'county': 'caddo',
+        'name': 'Women\'s Service and Family Resource Center',
+        'address': {
+            'street': 'PO Box 1539',
+            'city': 'Chickasha',
+            'state': 'OK',
+            'zip': '73023'
+        },
+        'office': '405-224-8256',
+        'hotline': '405-222-1818',
+        'phone 3': '800-734-4117',
+        'email 1': 'wsfrc1@mcleodusa.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    }, 
+          
+    {
+        'county': 'haskell',
+        'name': 'KiBois Women\'s Shelter',
+        'address': {
+            'street': 'PO Box 727',
+            'city': 'Stigler',
+            'state': 'OK',
+            'zip': '74462'
+        },
+        'office': '918-967-3325',
+        'hotline': '918-967-3277',
+        'phone 3': '877-810-5637',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    }, 
+              
+    {
+        'county': 'jackson',
+        'name': 'ACMI House, Inc.',
+        'address': {
+            'street': 'PO Box 397',
+            'city': 'Altus',
+            'state': 'OK',
+            'zip': '73522'
+        },
+        'office': '580-482-3800',
+        'hotline': '800-466-3805',
+        'phone 3': 'N/A',
+        'email 1': 'acmihouse@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+              
+    {
+        'county': 'harmon',
+        'name': 'ACMI House, Inc.',
+        'address': {
+            'street': 'PO Box 397',
+            'city': 'Altus',
+            'state': 'OK',
+            'zip': '73522'
+        },
+        'office': '580-482-3800',
+        'hotline': '800-466-3805',
+        'phone 3': 'N/A',
+        'email 1': 'acmihouse@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                  
+    {
+        'county': 'kay',
+        'name': 'Domestic Violence Program of North Central Oklahoma',
+        'address': {
+            'street': 'PO Box 85',
+            'city': 'Ponca City',
+            'state': 'OK',
+            'zip': '74602'
+        },
+        'office': '580-762-2873',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'dvpnco@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                  
+    {
+        'county': 'leflore',
+        'name': 'Women\'s Crisis Services of LeFlore County',
+        'address': {
+            'street': 'PO Box 774',
+            'city': 'Poteau',
+            'state': 'OK',
+            'zip': '74953'
+        },
+        'office': '918-647-2810',
+        'hotline': '918-647-9800',
+        'phone 3': '800-230-9799',
+        'email 1': 'wcs100@alltd.com',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                  
+    {
+        'county': 'marshall',
+        'name': 'Marshall County Family Support Services',
+        'address': {
+            'street': '114 South First Street',
+            'city': 'Madill',
+            'state': 'OK',
+            'zip': '73446'
+        },
+        'office': '580-795-2066',
+        'hotline': '580-795-7476',
+        'phone 3': '800-230-9799',
+        'email 1': 'MCFSS@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                  
+    {
+        'county': 'mayes',
+        'name': 'Safenet Services, Inc.',
+        'address': {
+            'street': '21 N. Vann, Unit 4',
+            'city': 'Pryor',
+            'state': 'OK',
+            'zip': '74362'
+        },
+        'office': 'N/A',
+        'hotline': '888-372-9400',
+        'phone 3': 'N/A',
+        'email 1': 'rccsci@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                  
+    {
+        'county': 'mccurtain',
+        'name': 'Southeastern Okla. Serv. for Family Violence Intervention',
+        'address': {
+            'street': 'PO Box 394',
+            'city': 'Idabel',
+            'state': 'OK',
+            'zip': '74745'
+        },
+        'office': '580-286-3400',
+        'hotline': '888-286-3369',
+        'phone 3': 'N/A',
+        'email 1': 'sosfamily@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                      
+    {
+        'county': 'muskogee',
+        'name': 'Women in Safe Home, Inc.',
+        'address': {
+            'street': 'PO Box 487',
+            'city': 'Muskogee',
+            'state': 'OK',
+            'zip': '74402'
+        },
+        'office': '918-682-7879',
+        'hotline': '918-682-7878',
+        'phone 3': 'N/A',
+        'email 1': 'muskwishkl@emptychair.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                          
+    {
+        'county': 'mcintosh',
+        'name': 'Women in Safe Home, Inc.',
+        'address': {
+            'street': 'PO Box 487',
+            'city': 'Muskogee',
+            'state': 'OK',
+            'zip': '74402'
+        },
+        'office': '918-682-7879',
+        'hotline': '918-682-7878',
+        'phone 3': 'N/A',
+        'email 1': 'muskwishkl@emptychair.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                      
+    {
+        'county': 'okfuskee',
+        'name': 'Okmulgee Safehouse',
+        'address': {
+            'street': 'PO Box 73',
+            'city': 'Okmulgee',
+            'state': 'OK',
+            'zip': '74447'
+        },
+        'office': '918-756-2545',
+        'hotline': '918-756-2545',
+        'phone 3': '877-756-2545',
+        'email 1': 'casaokm@swbell.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+    
+        {
+        'county': 'okmulgee',
+        'name': 'Okmulgee Safehouse',
+        'address': {
+            'street': 'PO Box 73',
+            'city': 'Okmulgee',
+            'state': 'OK',
+            'zip': '74447'
+        },
+        'office': '918-756-2545',
+        'hotline': '918-756-2545',
+        'phone 3': '877-756-2545',
+        'email 1': 'casaokm@swbell.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                          
+    {
+        'county': 'oklahoma',
+        'name': 'YWCA Crisis Service',
+        'address': {
+            'street': '2460 West I-44 Service Road',
+            'city': 'Oklahoma City',
+            'state': 'OK',
+            'zip': '73112'
+        },
+        'office': '405-948-1770',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'YWCAOKC@aol.com',
+        'email 2': 'N/A',
+        'website': 'www.ywcaokc.org'
+    },
+                              
+    {
+        'county': 'lincoln',
+        'name': 'YWCA Crisis Service',
+        'address': {
+            'street': '2460 West I-44 Service Road',
+            'city': 'Oklahoma City',
+            'state': 'OK',
+            'zip': '73112'
+        },
+        'office': '405-948-1770',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'YWCAOKC@aol.com',
+        'email 2': 'N/A',
+        'website': 'www.ywcaokc.org'
+    },
+                          
+    {
+        'county': 'logan',
+        'name': 'YWCA Crisis Service',
+        'address': {
+            'street': '2460 West I-44 Service Road',
+            'city': 'Oklahoma City',
+            'state': 'OK',
+            'zip': '73112'
+        },
+        'office': '405-948-1770',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'YWCAOKC@aol.com',
+        'email 2': 'N/A',
+        'website': 'www.ywcaokc.org'
+    },
+                          
+    {
+        'county': 'osage',
+        'name': 'Domestic Violence Intervention Services, Inc.',
+        'address': {
+            'street': '4300 S. Harvard Suite 100',
+            'city': 'Tulsa',
+            'state': 'OK',
+            'zip': '74135'
+        },
+        'office': '918-584-2328',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'www.dvis.org'
+    },
+                          
+    {
+        'county': 'ottawa',
+        'name': 'Community Crisis Center, Inc.',
+        'address': {
+            'street': '17 N. Main',
+            'city': 'Miami',
+            'state': 'OK',
+            'zip': '74354'
+        },
+        'office': '918-540-2275',
+        'hotline': '918-542-1001',
+        'phone 3': '800-400-0883',
+        'email 1': 'ccci@cableone.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                          
+    {
+        'county': 'payne',
+        'name': 'Stillwater Domestic Violence Intervention Service, Inc',
+        'address': {
+            'street': '115 E. 4th Avenue',
+            'city': 'Stillwater',
+            'state': 'OK',
+            'zip': '74074'
+        },
+        'office': '405-377-2344',
+        'hotline': '405-624-3020',
+        'phone 3': '800-624-3020',
+        'email 1': 'director@sdvs.org',
+        'email 2': 'N/A',
+        'website': 'www.sdvs.org'
+    },
+                          
+    {
+        'county': 'noble',
+        'name': 'Stillwater Domestic Violence Intervention Service, Inc',
+        'address': {
+            'street': '115 E. 4th Avenue',
+            'city': 'Stillwater',
+            'state': 'OK',
+            'zip': '74074'
+        },
+        'office': '405-377-2344',
+        'hotline': '405-624-3020',
+        'phone 3': '800-624-3020',
+        'email 1': 'director@sdvs.org',
+        'email 2': 'N/A',
+        'website': 'www.sdvs.org'
+    },
+                          
+    {
+        'county': 'pawnee',
+        'name': 'Stillwater Domestic Violence Intervention Service, Inc',
+        'address': {
+            'street': '115 E. 4th Avenue',
+            'city': 'Stillwater',
+            'state': 'OK',
+            'zip': '74074'
+        },
+        'office': '405-377-2344',
+        'hotline': '405-624-3020',
+        'phone 3': '800-624-3020',
+        'email 1': 'director@sdvs.org',
+        'email 2': 'N/A',
+        'website': 'www.sdvs.org'
+    },
+                          
+    {
+        'county': 'pittsburgh',
+        'name': 'McAlester Care Center',
+        'address': {
+            'street': 'PO Box 1404',
+            'city': 'McAlester',
+            'state': 'OK',
+            'zip': '74501'
+        },
+        'office': '918-423-4010',
+        'hotline': '918-423-0032',
+        'phone 3': 'N/A',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                          
+    {
+        'county': 'latimer',
+        'name': 'McAlester Care Center',
+        'address': {
+            'street': 'PO Box 1404',
+            'city': 'McAlester',
+            'state': 'OK',
+            'zip': '74501'
+        },
+        'office': '918-423-4010',
+        'hotline': '918-423-0032',
+        'phone 3': 'N/A',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                          
+    {
+        'county': 'pontotoc',
+        'name': 'Family Crisis Center, Inc.',
+        'address': {
+            'street': 'PO Box 2274',
+            'city': 'Ada',
+            'state': 'OK',
+            'zip': '74820'
+        },
+        'office': '580-436-3504',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'fccada@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                          
+    {
+        'county': 'coal',
+        'name': 'Family Crisis Center, Inc.',
+        'address': {
+            'street': 'PO Box 2274',
+            'city': 'Ada',
+            'state': 'OK',
+            'zip': '74820'
+        },
+        'office': '580-436-3504',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'fccada@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                          
+    {
+        'county': 'johnston',
+        'name': 'Family Crisis Center, Inc.',
+        'address': {
+            'street': 'PO Box 2274',
+            'city': 'Ada',
+            'state': 'OK',
+            'zip': '74820'
+        },
+        'office': '580-436-3504',
+        'hotline': 'N/A',
+        'phone 3': 'N/A',
+        'email 1': 'fccada@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                              
+    {
+        'county': 'pottawatomie',
+        'name': 'Project Safe, Inc.',
+        'address': {
+            'street': 'PO Box 465',
+            'city': 'Shawnee',
+            'state': 'OK',
+            'zip': '74802'
+        },
+        'office': '405-273-9953',
+        'hotline': '405-273-2420',
+        'phone 3': '800-821-9953',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'www.projectsafe.org'
+    },
+                                  
+    {
+        'county': 'pushmataha',
+        'name': 'SOS For Familes',
+        'address': {
+            'street': '106 West Maine',
+            'city': 'Antlers',
+            'state': 'OK',
+            'zip': '74523'
+        },
+        'office': 'N/A',
+        'hotline': '580-298-5575',
+        'phone 3': 'N/A',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                  
+    {
+        'county': 'roger mills',
+        'name': 'Action Associates, Inc.',
+        'address': {
+            'street': 'PO Box 1534',
+            'city': 'Clinton',
+            'state': 'OK',
+            'zip': '73601'
+        },
+        'office': 'N/A',
+        'hotline': '580-323-2604',
+        'phone 3': '580-497-3397',
+        'email 1': 'actionclinton@itlnet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                  
+    {
+        'county': 'rogers',
+        'name': 'SafeNet Services',
+        'address': {
+            'street': 'PO Box 446',
+            'city': 'Claremore',
+            'state': 'OK',
+            'zip': '74018'
+        },
+        'office': '918-341-1424',
+        'hotline': '918-341-9400',
+        'phone 3': '888-372-9400',
+        'email 1': 'rccsci@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                  
+    {
+        'county': 'seminole',
+        'name': 'Family Resource Center',
+        'address': {
+            'street': '212 E. Oak',
+            'city': 'Seminole',
+            'state': 'OK',
+            'zip': '74868'
+        },
+        'office': '405-382-5979',
+        'hotline': '800-373-5608',
+        'phone 3': 'N/A',
+        'email 1': 'familyrc@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                  
+    {
+        'county': 'hughes',
+        'name': 'Family Resource Center',
+        'address': {
+            'street': '212 E. Oak',
+            'city': 'Seminole',
+            'state': 'OK',
+            'zip': '74868'
+        },
+        'office': '405-382-5979',
+        'hotline': '800-373-5608',
+        'phone 3': 'N/A',
+        'email 1': 'familyrc@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                  
+    {
+        'county': 'stephens',
+        'name': 'Women\'s Haven, Inc.',
+        'address': {
+            'street': 'PO Box 555',
+            'city': 'Duncan',
+            'state': 'OK',
+            'zip': '73534'
+        },
+        'office': '580-252-5324',
+        'hotline': '580-252-4357',
+        'phone 3': '877-970-4357',
+        'email 1': 'womensha@texhoma.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                  
+    {
+        'county': 'jefferson',
+        'name': 'Women\'s Haven, Inc.',
+        'address': {
+            'street': 'PO Box 555',
+            'city': 'Duncan',
+            'state': 'OK',
+            'zip': '73534'
+        },
+        'office': '580-252-5324',
+        'hotline': '580-252-4357',
+        'phone 3': '877-970-4357',
+        'email 1': 'womensha@texhoma.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                      
+    {
+        'county': 'texas',
+        'name': 'NW Domestic Crisis Service',
+        'address': {
+            'street': '1106 North Ellison',
+            'city': 'Guymon',
+            'state': 'OK',
+            'zip': '73942'
+        },
+        'office': '580-338-2780',
+        'hotline': '888-256-1215',
+        'phone 3': 'N/A',
+        'email 1': 'nwdcs@itlnet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                      
+    {
+        'county': 'beaver',
+        'name': 'NW Domestic Crisis Service',
+        'address': {
+            'street': '1106 North Ellison',
+            'city': 'Guymon',
+            'state': 'OK',
+            'zip': '73942'
+        },
+        'office': '580-338-2780',
+        'hotline': '888-256-1215',
+        'phone 3': 'N/A',
+        'email 1': 'nwdcs@itlnet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },    
+                                      
+    {
+        'county': 'cimarron',
+        'name': 'NW Domestic Crisis Service',
+        'address': {
+            'street': '1106 North Ellison',
+            'city': 'Guymon',
+            'state': 'OK',
+            'zip': '73942'
+        },
+        'office': '580-338-2780',
+        'hotline': '888-256-1215',
+        'phone 3': 'N/A',
+        'email 1': 'nwdcs@itlnet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                          
+    {
+        'county': 'tulsa',
+        'name': 'Domestic Violence Intervention Services, Inc.',
+        'address': {
+            'street': '4300 S. Harvard Suite 100',
+            'city': 'Tulsa',
+            'state': 'OK',
+            'zip': '74135'
+        },
+        'office': '918-585-3163',
+        'hotline': '918-585-3143',
+        'phone 3': '918-425-0588',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'www.dvis.org'
+    },
+                                              
+    {
+        'county': 'wagoner',
+        'name': 'Domestic Violence Intervention Services, Inc.',
+        'address': {
+            'street': '4300 S. Harvard Suite 100',
+            'city': 'Tulsa',
+            'state': 'OK',
+            'zip': '74135'
+        },
+        'office': '918-585-3163',
+        'hotline': '918-585-3143',
+        'phone 3': '918-425-0588',
+        'email 1': 'N/A',
+        'email 2': 'N/A',
+        'website': 'www.dvis.org'
+    },
+                                              
+    {
+        'county': 'washington',
+        'name': 'Family Crisis & Counseling Center',
+        'address': {
+            'street': 'PO Box 5016',
+            'city': 'Bartlesville',
+            'state': 'OK',
+            'zip': '74005'
+        },
+        'office': '918-336-1188',
+        'hotline': '800-814-1188',
+        'phone 3': 'N/A',
+        'email 1': 'safe@onenet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                              
+    {
+        'county': 'nowata',
+        'name': 'Family Crisis & Counseling Center',
+        'address': {
+            'street': 'PO Box 5016',
+            'city': 'Bartlesville',
+            'state': 'OK',
+            'zip': '74005'
+        },
+        'office': '918-336-1188',
+        'hotline': '800-814-1188',
+        'phone 3': 'N/A',
+        'email 1': 'safe@onenet.net',
+        'email 2': 'N/A',
+        'website': 'N/A'
+    },
+                                                  
+    {
+        'county': 'woods',
+        'name': 'NW Domestic Crisis Service',
+        'address': {
+            'street': '1323 Kansas',
+            'city': 'Woodward',
+            'state': 'OK',
+            'zip': '73801'
+        },
+        'office': '580-327-6648',
+        'hotline': '580-256-8712',
+        'phone 3': '888-256-1215',
+        'email 1': 'woodwardcrisis@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'nwdcs@itlnet.net'
+    },
+                                                  
+    {
+        'county': 'woodward',
+        'name': 'NW Domestic Crisis Service',
+        'address': {
+            'street': '1323 Kansas',
+            'city': 'Woodward',
+            'state': 'OK',
+            'zip': '73801'
+        },
+        'office': '580-327-6648',
+        'hotline': '580-256-8712',
+        'phone 3': '888-256-1215',
+        'email 1': 'woodwardcrisis@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'nwdcs@itlnet.net'
+    },
+                                                      
+    {
+        'county': 'ellis',
+        'name': 'NW Domestic Crisis Service',
+        'address': {
+            'street': '1323 Kansas',
+            'city': 'Woodward',
+            'state': 'OK',
+            'zip': '73801'
+        },
+        'office': '580-327-6648',
+        'hotline': '580-256-8712',
+        'phone 3': '888-256-1215',
+        'email 1': 'woodwardcrisis@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'nwdcs@itlnet.net'
+    },
+                                                      
+    {
+        'county': 'harper',
+        'name': 'NW Domestic Crisis Service',
+        'address': {
+            'street': '1323 Kansas',
+            'city': 'Woodward',
+            'state': 'OK',
+            'zip': '73801'
+        },
+        'office': '580-327-6648',
+        'hotline': '580-256-8712',
+        'phone 3': '888-256-1215',
+        'email 1': 'woodwardcrisis@sbcglobal.net',
+        'email 2': 'N/A',
+        'website': 'nwdcs@itlnet.net'
+    },
+
+]
