@@ -99,6 +99,12 @@ function routes($routeProvider, $locationProvider) {
       controller: 'FinalSumamryController',
       controllerAs: 'FinalSumCtrl'
   })
+  .when('/test', {
+      templateUrl: './testLookup/test.partial.html',
+      controller: 'TestController',
+      controllerAs: 'TCtrl'
+  })
+  
  
   $locationProvider.html5Mode(true)
   

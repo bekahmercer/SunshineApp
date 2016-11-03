@@ -167,3 +167,12 @@ input[type=checkbox]:checked + label:before {
 label {
     font-size: 25px;
 }/* adjust size of checkboxes */
+
+
+ul {
+    list-style-type: none;
+}
+
+.searchContainer {
+    margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+<div ng-init= "cities = [{
+    'city': 'carter',
+    'county': 'beckham'
+  },{
+    'city': 'calumet',
+    'county': 'canadian'
+  }]">
+    <div class="searchContainer">
+   <input type="text" ng-model="TCtrl.test">
+</div>
+<div >
+    <ul ng-repeat= "city in cities | filter: TCtrl.test | limitTo: 1">
+        <li><div ng-click="TCtrl.showInfo = !TCtrl.showInfo">{{city.city}}</div>
+            <div ng-show="TCtrl.showInfo"><p>Hello</p></div>
+        </li>
+        
+    </ul>
+    </div>
+</div>
