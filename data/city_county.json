@@ -1,2886 +1,2890 @@
 [
   {
-    'city': 'Proctor',
-    'county': 'Adair'
+    "city": "",
+    "county": ""
   },
   {
-    'city': 'Stilwell',
-    'county': 'Adair'
+    "city": "Proctor",
+    "county": "Adair"
   },
   {
-    'city': 'Watts',
-    'county': 'Adair'
+    "city": "Stilwell",
+    "county": "Adair"
   },
   {
-    'city': 'Westville',
-    'county': 'Adair'
+    "city": "Watts",
+    "county": "Adair"
   },
   {
-    'city': 'Aline',
-    'county': 'Alfalfa'
+    "city": "Westville",
+    "county": "Adair"
   },
   {
-    'city': 'Amorita',
-    'county': 'Alfalfa'
+    "city": "Aline",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Burlington',
-    'county': 'Alfalfa'
+    "city": "Amorita",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Byron',
-    'county': 'Alfalfa'
+    "city": "Burlington",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Carmen',
-    'county': 'Alfalfa'
+    "city": "Byron",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Cherokee',
-    'county': 'Alfalfa'
+    "city": "Carmen",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Goltry',
-    'county': 'Alfalfa'
+    "city": "Cherokee",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Helena',
-    'county': 'Alfalfa'
+    "city": "Goltry",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Jet',
-    'county': 'Alfalfa'
+    "city": "Helena",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Atoka',
-    'county': 'Atoka'
+    "city": "Jet",
+    "county": "Alfalfa"
   },
   {
-    'city': 'Caney',
-    'county': 'Atoka'
+    "city": "Atoka",
+    "county": "Atoka"
   },
   {
-    'city': 'Daisy',
-    'county': 'Atoka'
+    "city": "Caney",
+    "county": "Atoka"
   },
   {
-    'city': 'Farris',
-    'county': 'Atoka'
+    "city": "Daisy",
+    "county": "Atoka"
   },
   {
-    'city': 'Lane',
-    'county': 'Atoka'
+    "city": "Farris",
+    "county": "Atoka"
   },
   {
-    'city': 'Lehigh',
-    'county': 'Atoka'
+    "city": "Lane",
+    "county": "Atoka"
   },
   {
-    'city': 'Stringtown',
-    'county': 'Atoka'
+    "city": "Lehigh",
+    "county": "Atoka"
   },
   {
-    'city': 'Baker',
-    'county': 'Beaver'
+    "city": "Stringtown",
+    "county": "Atoka"
   },
   {
-    'city': 'Balko',
-    'county': 'Beaver'
+    "city": "Baker",
+    "county": "Beaver"
   },
   {
-    'city': 'Beaver',
-    'county': 'Beaver'
+    "city": "Balko",
+    "county": "Beaver"
   },
   {
-    'city': 'Elmwood',
-    'county': 'Beaver'
+    "city": "Beaver",
+    "county": "Beaver"
   },
   {
-    'city': 'Forgan',
-    'county': 'Beaver'
+    "city": "Elmwood",
+    "county": "Beaver"
   },
   {
-    'city': 'Gate',
-    'county': 'Beaver'
+    "city": "Forgan",
+    "county": "Beaver"
   },
   {
-    'city': 'Knowles',
-    'county': 'Beaver'
+    "city": "Gate",
+    "county": "Beaver"
   },
   {
-    'city': 'Turpin',
-    'county': 'Beaver'
+    "city": "Knowles",
+    "county": "Beaver"
   },
   {
-    'city': 'Carter',
-    'county': 'Beckham'
+    "city": "Turpin",
+    "county": "Beaver"
   },
   {
-    'city': 'Elk City',
-    'county': 'Beckham'
+    "city": "Carter",
+    "county": "Beckham"
   },
   {
-    'city': 'Erick',
-    'county': 'Beckham'
+    "city": "Elk City",
+    "county": "Beckham"
   },
   {
-    'city': 'Mayfield',
-    'county': 'Beckham'
+    "city": "Erick",
+    "county": "Beckham"
   },
   {
-    'city': 'Sayre',
-    'county': 'Beckham'
+    "city": "Mayfield",
+    "county": "Beckham"
   },
   {
-    'city': 'Texola',
-    'county': 'Beckham'
+    "city": "Sayre",
+    "county": "Beckham"
   },
   {
-    'city': 'Canton',
-    'county': 'Blaine'
+    "city": "Texola",
+    "county": "Beckham"
   },
   {
-    'city': 'Geary',
-    'county': 'Blaine'
+    "city": "Canton",
+    "county": "Blaine"
   },
   {
-    'city': 'Greenfield',
-    'county': 'Blaine'
+    "city": "Geary",
+    "county": "Blaine"
   },
   {
-    'city': 'Hitchcock',
-    'county': 'Blaine'
+    "city": "Greenfield",
+    "county": "Blaine"
   },
   {
-    'city': 'Longdale',
-    'county': 'Blaine'
+    "city": "Hitchcock",
+    "county": "Blaine"
   },
   {
-    'city': 'Okeene',
-    'county': 'Blaine'
+    "city": "Longdale",
+    "county": "Blaine"
   },
   {
-    'city': 'Southard',
-    'county': 'Blaine'
+    "city": "Okeene",
+    "county": "Blaine"
   },
   {
-    'city': 'Watonga',
-    'county': 'Blaine'
+    "city": "Southard",
+    "county": "Blaine"
   },
   {
-    'city': 'Achille',
-    'county': 'Bryan'
+    "city": "Watonga",
+    "county": "Blaine"
   },
   {
-    'city': 'Albany',
-    'county': 'Bryan'
+    "city": "Achille",
+    "county": "Bryan"
   },
   {
-    'city': 'Bennington',
-    'county': 'Bryan'
+    "city": "Albany",
+    "county": "Bryan"
   },
   {
-    'city': 'Bokchito',
-    'county': 'Bryan'
+    "city": "Bennington",
+    "county": "Bryan"
   },
   {
-    'city': 'Caddo',
-    'county': 'Bryan'
+    "city": "Bokchito",
+    "county": "Bryan"
   },
   {
-    'city': 'Calera',
-    'county': 'Bryan'
+    "city": "Caddo",
+    "county": "Bryan"
   },
   {
-    'city': 'Cartwright',
-    'county': 'Bryan'
+    "city": "Calera",
+    "county": "Bryan"
   },
   {
-    'city': 'Colbert',
-    'county': 'Bryan'
+    "city": "Cartwright",
+    "county": "Bryan"
   },
   {
-    'city': 'Durant',
-    'county': 'Bryan'
+    "city": "Colbert",
+    "county": "Bryan"
   },
   {
-    'city': 'Hendrix',
-    'county': 'Bryan'
+    "city": "Durant",
+    "county": "Bryan"
   },
   {
-    'city': 'Kemp',
-    'county': 'Bryan'
+    "city": "Hendrix",
+    "county": "Bryan"
   },
   {
-    'city': 'Mead',
-    'county': 'Bryan'
+    "city": "Kemp",
+    "county": "Bryan"
   },
   {
-    'city': 'Platter',
-    'county': 'Bryan'
+    "city": "Mead",
+    "county": "Bryan"
   },
   {
-    'city': 'Wade',
-    'county': 'Bryan'
+    "city": "Platter",
+    "county": "Bryan"
   },
   {
-    'city': 'Yarnaby',
-    'county': 'Bryan'
+    "city": "Wade",
+    "county": "Bryan"
   },
   {
-    'city': 'Albert',
-    'county': 'Caddo'
+    "city": "Yarnaby",
+    "county": "Bryan"
   },
   {
-    'city': 'Anadarko',
-    'county': 'Caddo'
+    "city": "Albert",
+    "county": "Caddo"
   },
   {
-    'city': 'Apache',
-    'county': 'Caddo'
+    "city": "Anadarko",
+    "county": "Caddo"
   },
   {
-    'city': 'Binger',
-    'county': 'Caddo'
+    "city": "Apache",
+    "county": "Caddo"
   },
   {
-    'city': 'Carnegie',
-    'county': 'Caddo'
+    "city": "Binger",
+    "county": "Caddo"
   },
   {
-    'city': 'Cement',
-    'county': 'Caddo'
+    "city": "Carnegie",
+    "county": "Caddo"
   },
   {
-    'city': 'Cyril',
-    'county': 'Caddo'
+    "city": "Cement",
+    "county": "Caddo"
   },
   {
-    'city': 'Eakly',
-    'county': 'Caddo'
+    "city": "Cyril",
+    "county": "Caddo"
   },
   {
-    'city': 'Fort Cobb',
-    'county': 'Caddo'
+    "city": "Eakly",
+    "county": "Caddo"
   },
   {
-    'city': 'Gracemont',
-    'county': 'Caddo'
+    "city": "Fort Cobb",
+    "county": "Caddo"
   },
   {
-    'city': 'Hinton',
-    'county': 'Caddo'
+    "city": "Gracemont",
+    "county": "Caddo"
   },
   {
-    'city': 'Hydro',
-    'county': 'Caddo'
+    "city": "Hinton",
+    "county": "Caddo"
   },
   {
-    'city': 'Lookeba',
-    'county': 'Caddo'
+    "city": "Hydro",
+    "county": "Caddo"
   },
   {
-    'city': 'Washita',
-    'county': 'Caddo'
+    "city": "Lookeba",
+    "county": "Caddo"
   },
   {
-    'city': 'Calumet',
-    'county': 'Canadian'
+    "city": "Washita",
+    "county": "Caddo"
   },
   {
-    'city': 'Concho',
-    'county': 'Canadian'
+    "city": "Calumet",
+    "county": "Canadian"
   },
   {
-    'city': 'El Reno',
-    'county': 'Canadian'
+    "city": "Concho",
+    "county": "Canadian"
   },
   {
-    'city': 'Mustang',
-    'county': 'Canadian'
+    "city": "El Reno",
+    "county": "Canadian"
   },
   {
-    'city': 'Piedmont',
-    'county': 'Canadian'
+    "city": "Mustang",
+    "county": "Canadian"
   },
   {
-    'city': 'Union City',
-    'county': 'Canadian'
+    "city": "Piedmont",
+    "county": "Canadian"
   },
   {
-    'city': 'Yukon',
-    'county': 'Canadian'
+    "city": "Union City",
+    "county": "Canadian"
   },
   {
-    'city': 'Ardmore',
-    'county': 'Carter'
+    "city": "Yukon",
+    "county": "Canadian"
   },
   {
-    'city': 'Fox',
-    'county': 'Carter'
+    "city": "Ardmore",
+    "county": "Carter"
   },
   {
-    'city': 'Gene Autry',
-    'county': 'Carter'
+    "city": "Fox",
+    "county": "Carter"
   },
   {
-    'city': 'Graham',
-    'county': 'Carter'
+    "city": "Gene Autry",
+    "county": "Carter"
   },
   {
-    'city': 'Healdton',
-    'county': 'Carter'
+    "city": "Graham",
+    "county": "Carter"
   },
   {
-    'city': 'Hennepin',
-    'county': 'Carter'
+    "city": "Healdton",
+    "county": "Carter"
   },
   {
-    'city': 'Lone Grove',
-    'county': 'Carter'
+    "city": "Hennepin",
+    "county": "Carter"
   },
   {
-    'city': 'Milo',
-    'county': 'Carter'
+    "city": "Lone Grove",
+    "county": "Carter"
   },
   {
-    'city': 'Pooleville',
-    'county': 'Carter'
+    "city": "Milo",
+    "county": "Carter"
   },
   {
-    'city': 'Ratliff City',
-    'county': 'Carter'
+    "city": "Pooleville",
+    "county": "Carter"
   },
   {
-    'city': 'Rubottom',
-    'county': 'Carter'
+    "city": "Ratliff City",
+    "county": "Carter"
   },
   {
-    'city': 'Springer',
-    'county': 'Carter'
+    "city": "Rubottom",
+    "county": "Carter"
   },
   {
-    'city': 'Tatums',
-    'county': 'Carter'
+    "city": "Springer",
+    "county": "Carter"
   },
   {
-    'city': 'Tussy',
-    'county': 'Carter'
+    "city": "Tatums",
+    "county": "Carter"
   },
   {
-    'city': 'Wilson',
-    'county': 'Carter'
+    "city": "Tussy",
+    "county": "Carter"
   },
   {
-    'city': 'Cookson',
-    'county': 'Cherokee'
+    "city": "Wilson",
+    "county": "Carter"
   },
   {
-    'city': 'Hulbert',
-    'county': 'Cherokee'
+    "city": "Cookson",
+    "county": "Cherokee"
   },
   {
-    'city': 'Moodys',
-    'county': 'Cherokee'
+    "city": "Hulbert",
+    "county": "Cherokee"
   },
   {
-    'city': 'Park Hill',
-    'county': 'Cherokee'
+    "city": "Moodys",
+    "county": "Cherokee"
   },
   {
-    'city': 'Peggs',
-    'county': 'Cherokee'
+    "city": "Park Hill",
+    "county": "Cherokee"
   },
   {
-    'city': 'Pettit',
-    'county': 'Cherokee'
+    "city": "Peggs",
+    "county": "Cherokee"
   },
   {
-    'city': 'Qualls',
-    'county': 'Cherokee'
+    "city": "Pettit",
+    "county": "Cherokee"
   },
   {
-    'city': 'Tahlequah',
-    'county': 'Cherokee'
+    "city": "Qualls",
+    "county": "Cherokee"
   },
   {
-    'city': 'Welling',
-    'county': 'Cherokee'
+    "city": "Tahlequah",
+    "county": "Cherokee"
   },
   {
-    'city': 'Boswell',
-    'county': 'Choctaw'
+    "city": "Welling",
+    "county": "Cherokee"
   },
   {
-    'city': 'Fort Towson',
-    'county': 'Choctaw'
+    "city": "Boswell",
+    "county": "Choctaw"
   },
   {
-    'city': 'Gay',
-    'county': 'Choctaw'
+    "city": "Fort Towson",
+    "county": "Choctaw"
   },
   {
-    'city': 'Grant',
-    'county': 'Choctaw'
+    "city": "Gay",
+    "county": "Choctaw"
   },
   {
-    'city': 'Hugo',
-    'county': 'Choctaw'
+    "city": "Grant",
+    "county": "Choctaw"
   },
   {
-    'city': 'Messer',
-    'county': 'Choctaw'
+    "city": "Hugo",
+    "county": "Choctaw"
   },
   {
-    'city': 'Sawyer',
-    'county': 'Choctaw'
+    "city": "Messer",
+    "county": "Choctaw"
   },
   {
-    'city': 'Soper',
-    'county': 'Choctaw'
+    "city": "Sawyer",
+    "county": "Choctaw"
   },
   {
-    'city': 'Spencerville',
-    'county': 'Choctaw'
+    "city": "Soper",
+    "county": "Choctaw"
   },
   {
-    'city': 'Swink',
-    'county': 'Choctaw'
+    "city": "Spencerville",
+    "county": "Choctaw"
   },
   {
-    'city': 'Boise City',
-    'county': 'Cimarron'
+    "city": "Swink",
+    "county": "Choctaw"
   },
   {
-    'city': 'Felt',
-    'county': 'Cimarron'
+    "city": "Boise City",
+    "county": "Cimarron"
   },
   {
-    'city': 'Kenton',
-    'county': 'Cimarron'
+    "city": "Felt",
+    "county": "Cimarron"
   },
   {
-    'city': 'Keyes',
-    'county': 'Cimarron'
+    "city": "Kenton",
+    "county": "Cimarron"
   },
   {
-    'city': 'Lexington',
-    'county': 'Cleveland'
+    "city": "Keyes",
+    "county": "Cimarron"
   },
   {
-    'city': 'Moore',
-    'county': 'Cleveland'
+    "city": "Lexington",
+    "county": "Cleveland"
   },
   {
-    'city': 'Newalla',
-    'county': 'Cleveland'
+    "city": "Moore",
+    "county": "Cleveland"
   },
   {
-    'city': 'Noble',
-    'county': 'Cleveland'
+    "city": "Newalla",
+    "county": "Cleveland"
   },
   {
-    'city': 'Norman',
-    'county': 'Cleveland'
+    "city": "Noble",
+    "county": "Cleveland"
   },
   {
-    'city': 'Oklahoma City',
-    'county': 'Cleveland'
+    "city": "Norman",
+    "county": "Cleveland"
   },
   {
-    'city': 'Centrahoma',
-    'county': 'Coal'
+    "city": "Oklahoma City",
+    "county": "Cleveland"
   },
   {
-    'city': 'Clarita',
-    'county': 'Coal'
+    "city": "Centrahoma",
+    "county": "Coal"
   },
   {
-    'city': 'Coalgate',
-    'county': 'Coal'
+    "city": "Clarita",
+    "county": "Coal"
   },
   {
-    'city': 'Cottonwood',
-    'county': 'Coal'
+    "city": "Coalgate",
+    "county": "Coal"
   },
   {
-    'city': 'Lehigh',
-    'county': 'Coal'
+    "city": "Cottonwood",
+    "county": "Coal"
   },
   {
-    'city': 'Olney',
-    'county': 'Coal'
+    "city": "Lehigh",
+    "county": "Coal"
   },
   {
-    'city': 'Phillips',
-    'county': 'Coal'
+    "city": "Olney",
+    "county": "Coal"
   },
   {
-    'city': 'Tupelo',
-    'county': 'Coal'
+    "city": "Phillips",
+    "county": "Coal"
   },
   {
-    'city': 'Cache',
-    'county': 'Comanche'
+    "city": "Tupelo",
+    "county": "Coal"
   },
   {
-    'city': 'Chattanooga',
-    'county': 'Comanche'
+    "city": "Cache",
+    "county": "Comanche"
   },
   {
-    'city': 'Elgin',
-    'county': 'Comanche'
+    "city": "Chattanooga",
+    "county": "Comanche"
   },
   {
-    'city': 'Faxon',
-    'county': 'Comanche'
+    "city": "Elgin",
+    "county": "Comanche"
   },
   {
-    'city': 'Fletcher',
-    'county': 'Comanche'
+    "city": "Faxon",
+    "county": "Comanche"
   },
   {
-    'city': 'Fort Sill',
-    'county': 'Comanche'
+    "city": "Fletcher",
+    "county": "Comanche"
   },
   {
-    'city': 'Geronimo',
-    'county': 'Comanche'
+    "city": "Fort Sill",
+    "county": "Comanche"
   },
   {
-    'city': 'Indiahoma',
-    'county': 'Comanche'
+    "city": "Geronimo",
+    "county": "Comanche"
   },
   {
-    'city': 'Lawton',
-    'county': 'Comanche'
+    "city": "Indiahoma",
+    "county": "Comanche"
   },
   {
-    'city': 'Medicine Park',
-    'county': 'Comanche'
+    "city": "Lawton",
+    "county": "Comanche"
   },
   {
-    'city': 'Meers',
-    'county': 'Comanche'
+    "city": "Medicine Park",
+    "county": "Comanche"
   },
   {
-    'city': 'Sterling',
-    'county': 'Comanche'
+    "city": "Meers",
+    "county": "Comanche"
   },
   {
-    'city': 'Devol',
-    'county': 'Cotton'
+    "city": "Sterling",
+    "county": "Comanche"
   },
   {
-    'city': 'Randlett',
-    'county': 'Cotton'
+    "city": "Devol",
+    "county": "Cotton"
   },
   {
-    'city': 'Temple',
-    'county': 'Cotton'
+    "city": "Randlett",
+    "county": "Cotton"
   },
   {
-    'city': 'Walters',
-    'county': 'Cotton'
+    "city": "Temple",
+    "county": "Cotton"
   },
   {
-    'city': 'Big Cabin',
-    'county': 'Craig'
+    "city": "Walters",
+    "county": "Cotton"
   },
   {
-    'city': 'Bluejacket',
-    'county': 'Craig'
+    "city": "Big Cabin",
+    "county": "Craig"
   },
   {
-    'city': 'Centralia',
-    'county': 'Craig'
+    "city": "Bluejacket",
+    "county": "Craig"
   },
   {
-    'city': 'Pensacola',
-    'county': 'Craig'
+    "city": "Centralia",
+    "county": "Craig"
   },
   {
-    'city': 'Vinita',
-    'county': 'Craig'
+    "city": "Pensacola",
+    "county": "Craig"
   },
   {
-    'city': 'Welch',
-    'county': 'Craig'
+    "city": "Vinita",
+    "county": "Craig"
   },
   {
-    'city': 'White Oak',
-    'county': 'Craig'
+    "city": "Welch",
+    "county": "Craig"
   },
   {
-    'city': 'Bristow',
-    'county': 'Creek'
+    "city": "White Oak",
+    "county": "Craig"
   },
   {
-    'city': 'Depew',
-    'county': 'Creek'
+    "city": "Bristow",
+    "county": "Creek"
   },
   {
-    'city': 'Drumright',
-    'county': 'Creek'
+    "city": "Depew",
+    "county": "Creek"
   },
   {
-    'city': 'Edna',
-    'county': 'Creek'
+    "city": "Drumright",
+    "county": "Creek"
   },
   {
-    'city': 'Kellyville',
-    'county': 'Creek'
+    "city": "Edna",
+    "county": "Creek"
   },
   {
-    'city': 'Kiefer',
-    'county': 'Creek'
+    "city": "Kellyville",
+    "county": "Creek"
   },
   {
-    'city': 'Mannford',
-    'county': 'Creek'
+    "city": "Kiefer",
+    "county": "Creek"
   },
   {
-    'city': 'Milfay',
-    'county': 'Creek'
+    "city": "Mannford",
+    "county": "Creek"
   },
   {
-    'city': 'Mounds',
-    'county': 'Creek'
+    "city": "Milfay",
+    "county": "Creek"
   },
   {
-    'city': 'Newby',
-    'county': 'Creek'
+    "city": "Mounds",
+    "county": "Creek"
   },
   {
-    'city': 'Oilton',
-    'county': 'Creek'
+    "city": "Newby",
+    "county": "Creek"
   },
   {
-    'city': 'Sapulpa',
-    'county': 'Creek'
+    "city": "Oilton",
+    "county": "Creek"
   },
   {
-    'city': 'Shamrock',
-    'county': 'Creek'
+    "city": "Sapulpa",
+    "county": "Creek"
   },
   {
-    'city': 'Slick',
-    'county': 'Creek'
+    "city": "Shamrock",
+    "county": "Creek"
   },
   {
-    'city': 'Tulsa',
-    'county': 'Creek'
+    "city": "Slick",
+    "county": "Creek"
   },
   {
-    'city': 'Tuskegee',
-    'county': 'Creek'
+    "city": "Tulsa",
+    "county": "Creek"
   },
   {
-    'city': 'Arapaho',
-    'county': 'Custer'
+    "city": "Tuskegee",
+    "county": "Creek"
   },
   {
-    'city': 'Butler',
-    'county': 'Custer'
+    "city": "Arapaho",
+    "county": "Custer"
   },
   {
-    'city': 'Clinton',
-    'county': 'Custer'
+    "city": "Butler",
+    "county": "Custer"
   },
   {
-    'city': 'Custer',
-    'county': 'Custer'
+    "city": "Clinton",
+    "county": "Custer"
   },
   {
-    'city': 'Custer City',
-    'county': 'Custer'
+    "city": "Custer",
+    "county": "Custer"
   },
   {
-    'city': 'Thomas',
-    'county': 'Custer'
+    "city": "Custer City",
+    "county": "Custer"
   },
   {
-    'city': 'Weatherford',
-    'county': 'Custer'
+    "city": "Thomas",
+    "county": "Custer"
   },
   {
-    'city': 'Colcord',
-    'county': 'Delaware'
+    "city": "Weatherford",
+    "county": "Custer"
   },
   {
-    'city': 'Eucha',
-    'county': 'Delaware'
+    "city": "Colcord",
+    "county": "Delaware"
   },
   {
-    'city': 'Grove',
-    'county': 'Delaware'
+    "city": "Eucha",
+    "county": "Delaware"
   },
   {
-    'city': 'Jay',
-    'county': 'Delaware'
+    "city": "Grove",
+    "county": "Delaware"
   },
   {
-    'city': 'Kansas',
-    'county': 'Delaware'
+    "city": "Jay",
+    "county": "Delaware"
   },
   {
-    'city': 'Oaks',
-    'county': 'Delaware'
+    "city": "Kansas",
+    "county": "Delaware"
   },
   {
-    'city': 'Rose',
-    'county': 'Delaware'
+    "city": "Oaks",
+    "county": "Delaware"
   },
   {
-    'city': 'Twin Oaks',
-    'county': 'Delaware'
+    "city": "Rose",
+    "county": "Delaware"
   },
   {
-    'city': 'Camargo',
-    'county': 'Dewey'
+    "city": "Twin Oaks",
+    "county": "Delaware"
   },
   {
-    'city': 'Eagle City',
-    'county': 'Dewey'
+    "city": "Camargo",
+    "county": "Dewey"
   },
   {
-    'city': 'Fay',
-    'county': 'Dewey'
+    "city": "Eagle City",
+    "county": "Dewey"
   },
   {
-    'city': 'Leedey',
-    'county': 'Dewey'
+    "city": "Fay",
+    "county": "Dewey"
   },
   {
-    'city': 'Oakwood',
-    'county': 'Dewey'
+    "city": "Leedey",
+    "county": "Dewey"
   },
   {
-    'city': 'Putnam',
-    'county': 'Dewey'
+    "city": "Oakwood",
+    "county": "Dewey"
   },
   {
-    'city': 'Seiling',
-    'county': 'Dewey'
+    "city": "Putnam",
+    "county": "Dewey"
   },
   {
-    'city': 'Taloga',
-    'county': 'Dewey'
+    "city": "Seiling",
+    "county": "Dewey"
   },
   {
-    'city': 'Vici',
-    'county': 'Dewey'
+    "city": "Taloga",
+    "county": "Dewey"
   },
   {
-    'city': 'Arnett',
-    'county': 'Ellis'
+    "city": "Vici",
+    "county": "Dewey"
   },
   {
-    'city': 'Fargo',
-    'county': 'Ellis'
+    "city": "Arnett",
+    "county": "Ellis"
   },
   {
-    'city': 'Gage',
-    'county': 'Ellis'
+    "city": "Fargo",
+    "county": "Ellis"
   },
   {
-    'city': 'Harmon',
-    'county': 'Ellis'
+    "city": "Gage",
+    "county": "Ellis"
   },
   {
-    'city': 'Shattuck',
-    'county': 'Ellis'
+    "city": "Harmon",
+    "county": "Ellis"
   },
   {
-    'city': 'Bison',
-    'county': 'Garfield'
+    "city": "Shattuck",
+    "county": "Ellis"
   },
   {
-    'city': 'Carrier',
-    'county': 'Garfield'
+    "city": "Bison",
+    "county": "Garfield"
   },
   {
-    'city': 'Covington',
-    'county': 'Garfield'
+    "city": "Carrier",
+    "county": "Garfield"
   },
   {
-    'city': 'Douglas',
-    'county': 'Garfield'
+    "city": "Covington",
+    "county": "Garfield"
   },
   {
-    'city': 'Drummond',
-    'county': 'Garfield'
+    "city": "Douglas",
+    "county": "Garfield"
   },
   {
-    'city': 'Enid',
-    'county': 'Garfield'
+    "city": "Drummond",
+    "county": "Garfield"
   },
   {
-    'city': 'Fairmont',
-    'county': 'Garfield'
+    "city": "Enid",
+    "county": "Garfield"
   },
   {
-    'city': 'Garber',
-    'county': 'Garfield'
+    "city": "Fairmont",
+    "county": "Garfield"
   },
   {
-    'city': 'Hillsdale',
-    'county': 'Garfield'
+    "city": "Garber",
+    "county": "Garfield"
   },
   {
-    'city': 'Hunter',
-    'county': 'Garfield'
+    "city": "Hillsdale",
+    "county": "Garfield"
   },
   {
-    'city': 'Kremlin',
-    'county': 'Garfield'
+    "city": "Hunter",
+    "county": "Garfield"
   },
   {
-    'city': 'Lahoma',
-    'county': 'Garfield'
+    "city": "Kremlin",
+    "county": "Garfield"
   },
   {
-    'city': 'Vance Air Force Base',
-    'county': 'Garfield'
+    "city": "Lahoma",
+    "county": "Garfield"
   },
   {
-    'city': 'Waukomis',
-    'county': 'Garfield'
+    "city": "Vance Air Force Base",
+    "county": "Garfield"
   },
   {
-    'city': 'Elmore City',
-    'county': 'Garvin'
+    "city": "Waukomis",
+    "county": "Garfield"
   },
   {
-    'city': 'Hennepin',
-    'county': 'Garvin'
+    "city": "Elmore City",
+    "county": "Garvin"
   },
   {
-    'city': 'Lindsay',
-    'county': 'Garvin'
+    "city": "Hennepin",
+    "county": "Garvin"
   },
   {
-    'city': 'Maysville',
-    'county': 'Garvin'
+    "city": "Lindsay",
+    "county": "Garvin"
   },
   {
-    'city': 'Paoli',
-    'county': 'Garvin'
+    "city": "Maysville",
+    "county": "Garvin"
   },
   {
-    'city': 'Pauls Valley',
-    'county': 'Garvin'
+    "city": "Paoli",
+    "county": "Garvin"
   },
   {
-    'city': 'Pernell',
-    'county': 'Garvin'
+    "city": "Pauls Valley",
+    "county": "Garvin"
   },
   {
-    'city': 'Stratford',
-    'county': 'Garvin'
+    "city": "Pernell",
+    "county": "Garvin"
   },
   {
-    'city': 'Wynnewood',
-    'county': 'Garvin'
+    "city": "Stratford",
+    "county": "Garvin"
   },
   {
-    'city': 'Alex',
-    'county': 'Grady'
+    "city": "Wynnewood",
+    "county": "Garvin"
   },
   {
-    'city': 'Amber',
-    'county': 'Grady'
+    "city": "Alex",
+    "county": "Grady"
   },
   {
-    'city': 'Bradley',
-    'county': 'Grady'
+    "city": "Amber",
+    "county": "Grady"
   },
   {
-    'city': 'Chickasha',
-    'county': 'Grady'
+    "city": "Bradley",
+    "county": "Grady"
   },
   {
-    'city': 'Minco',
-    'county': 'Grady'
+    "city": "Chickasha",
+    "county": "Grady"
   },
   {
-    'city': 'Ninnekah',
-    'county': 'Grady'
+    "city": "Minco",
+    "county": "Grady"
   },
   {
-    'city': 'Pocasset',
-    'county': 'Grady'
+    "city": "Ninnekah",
+    "county": "Grady"
   },
   {
-    'city': 'Rush Springs',
-    'county': 'Grady'
+    "city": "Pocasset",
+    "county": "Grady"
   },
   {
-    'city': 'Tuttle',
-    'county': 'Grady'
+    "city": "Rush Springs",
+    "county": "Grady"
   },
   {
-    'city': 'Verden',
-    'county': 'Grady'
+    "city": "Tuttle",
+    "county": "Grady"
   },
   {
-    'city': 'Deer Creek',
-    'county': 'Grant'
+    "city": "Verden",
+    "county": "Grady"
   },
   {
-    'city': 'Lamont',
-    'county': 'Grant'
+    "city": "Deer Creek",
+    "county": "Grant"
   },
   {
-    'city': 'Manchester',
-    'county': 'Grant'
+    "city": "Lamont",
+    "county": "Grant"
   },
   {
-    'city': 'Medford',
-    'county': 'Grant'
+    "city": "Manchester",
+    "county": "Grant"
   },
   {
-    'city': 'Nash',
-    'county': 'Grant'
+    "city": "Medford",
+    "county": "Grant"
   },
   {
-    'city': 'Pond Creek',
-    'county': 'Grant'
+    "city": "Nash",
+    "county": "Grant"
   },
   {
-    'city': 'Wakita',
-    'county': 'Grant'
+    "city": "Pond Creek",
+    "county": "Grant"
   },
   {
-    'city': 'Granite',
-    'county': 'Greer'
+    "city": "Wakita",
+    "county": "Grant"
   },
   {
-    'city': 'Mangum',
-    'county': 'Greer'
+    "city": "Granite",
+    "county": "Greer"
   },
   {
-    'city': 'Reed',
-    'county': 'Greer'
+    "city": "Mangum",
+    "county": "Greer"
   },
   {
-    'city': 'Willow',
-    'county': 'Greer'
+    "city": "Reed",
+    "county": "Greer"
   },
   {
-    'city': 'Gould',
-    'county': 'Harmon'
+    "city": "Willow",
+    "county": "Greer"
   },
   {
-    'city': 'Hollis',
-    'county': 'Harmon'
+    "city": "Gould",
+    "county": "Harmon"
   },
   {
-    'city': 'Vinson',
-    'county': 'Harmon'
+    "city": "Hollis",
+    "county": "Harmon"
   },
   {
-    'city': 'Buffalo',
-    'county': 'Harper'
+    "city": "Vinson",
+    "county": "Harmon"
   },
   {
-    'city': 'Laverne',
-    'county': 'Harper'
+    "city": "Buffalo",
+    "county": "Harper"
   },
   {
-    'city': 'Logan',
-    'county': 'Harper'
+    "city": "Laverne",
+    "county": "Harper"
   },
   {
-    'city': 'May',
-    'county': 'Harper'
+    "city": "Logan",
+    "county": "Harper"
   },
   {
-    'city': 'Rosston',
-    'county': 'Harper'
+    "city": "May",
+    "county": "Harper"
   },
   {
-    'city': 'Selman',
-    'county': 'Harper'
+    "city": "Rosston",
+    "county": "Harper"
   },
   {
-    'city': 'Enterprise',
-    'county': 'Haskell'
+    "city": "Selman",
+    "county": "Harper"
   },
   {
-    'city': 'Hoyt',
-    'county': 'Haskell'
+    "city": "Enterprise",
+    "county": "Haskell"
   },
   {
-    'city': 'Keota',
-    'county': 'Haskell'
+    "city": "Hoyt",
+    "county": "Haskell"
   },
   {
-    'city': 'Kinta',
-    'county': 'Haskell'
+    "city": "Keota",
+    "county": "Haskell"
   },
   {
-    'city': 'Lequire',
-    'county': 'Haskell'
+    "city": "Kinta",
+    "county": "Haskell"
   },
   {
-    'city': 'McCurtain',
-    'county': 'Haskell'
+    "city": "Lequire",
+    "county": "Haskell"
   },
   {
-    'city': 'Stigler',
-    'county': 'Haskell'
+    "city": "McCurtain",
+    "county": "Haskell"
   },
   {
-    'city': 'Tamaha',
-    'county': 'Haskell'
+    "city": "Stigler",
+    "county": "Haskell"
   },
   {
-    'city': 'Whitefield',
-    'county': 'Haskell'
+    "city": "Tamaha",
+    "county": "Haskell"
   },
   {
-    'city': 'Atwood',
-    'county': 'Hughes'
+    "city": "Whitefield",
+    "county": "Haskell"
   },
   {
-    'city': 'Calvin',
-    'county': 'Hughes'
+    "city": "Atwood",
+    "county": "Hughes"
   },
   {
-    'city': 'Dustin',
-    'county': 'Hughes'
+    "city": "Calvin",
+    "county": "Hughes"
   },
   {
-    'city': 'Holdenville',
-    'county': 'Hughes'
+    "city": "Dustin",
+    "county": "Hughes"
   },
   {
-    'city': 'Lamar',
-    'county': 'Hughes'
+    "city": "Holdenville",
+    "county": "Hughes"
   },
   {
-    'city': 'Stuart',
-    'county': 'Hughes'
+    "city": "Lamar",
+    "county": "Hughes"
   },
   {
-    'city': 'Wetumka',
-    'county': 'Hughes'
+    "city": "Stuart",
+    "county": "Hughes"
   },
   {
-    'city': 'Altus',
-    'county': 'Jackson'
+    "city": "Wetumka",
+    "county": "Hughes"
   },
   {
-    'city': 'Altus AFB',
-    'county': 'Jackson'
+    "city": "Altus",
+    "county": "Jackson"
   },
   {
-    'city': 'Blair',
-    'county': 'Jackson'
+    "city": "Altus AFB",
+    "county": "Jackson"
   },
   {
-    'city': 'Duke',
-    'county': 'Jackson'
+    "city": "Blair",
+    "county": "Jackson"
   },
   {
-    'city': 'Eldorado',
-    'county': 'Jackson'
+    "city": "Duke",
+    "county": "Jackson"
   },
   {
-    'city': 'Elmer',
-    'county': 'Jackson'
+    "city": "Eldorado",
+    "county": "Jackson"
   },
   {
-    'city': 'Headrick',
-    'county': 'Jackson'
+    "city": "Elmer",
+    "county": "Jackson"
   },
   {
-    'city': 'Martha',
-    'county': 'Jackson'
+    "city": "Headrick",
+    "county": "Jackson"
   },
   {
-    'city': 'Olustee',
-    'county': 'Jackson'
+    "city": "Martha",
+    "county": "Jackson"
   },
   {
-    'city': 'Addington',
-    'county': 'Jefferson'
+    "city": "Olustee",
+    "county": "Jackson"
   },
   {
-    'city': 'Grady',
-    'county': 'Jefferson'
+    "city": "Addington",
+    "county": "Jefferson"
   },
   {
-    'city': 'Hastings',
-    'county': 'Jefferson'
+    "city": "Grady",
+    "county": "Jefferson"
   },
   {
-    'city': 'Oscar',
-    'county': 'Jefferson'
+    "city": "Hastings",
+    "county": "Jefferson"
   },
   {
-    'city': 'Ringling',
-    'county': 'Jefferson'
+    "city": "Oscar",
+    "county": "Jefferson"
   },
   {
-    'city': 'Ryan',
-    'county': 'Jefferson'
+    "city": "Ringling",
+    "county": "Jefferson"
   },
   {
-    'city': 'Terral',
-    'county': 'Jefferson'
+    "city": "Ryan",
+    "county": "Jefferson"
   },
   {
-    'city': 'Waurika',
-    'county': 'Jefferson'
+    "city": "Terral",
+    "county": "Jefferson"
   },
   {
-    'city': 'Bromide',
-    'county': 'Johnston'
+    "city": "Waurika",
+    "county": "Jefferson"
   },
   {
-    'city': 'Coleman',
-    'county': 'Johnston'
+    "city": "Bromide",
+    "county": "Johnston"
   },
   {
-    'city': 'Connerville',
-    'county': 'Johnston'
+    "city": "Coleman",
+    "county": "Johnston"
   },
   {
-    'city': 'Kenefic',
-    'county': 'Johnston'
+    "city": "Connerville",
+    "county": "Johnston"
   },
   {
-    'city': 'Mannsville',
-    'county': 'Johnston'
+    "city": "Kenefic",
+    "county": "Johnston"
   },
   {
-    'city': 'Milburn',
-    'county': 'Johnston'
+    "city": "Mannsville",
+    "county": "Johnston"
   },
   {
-    'city': 'Mill Creek',
-    'county': 'Johnston'
+    "city": "Milburn",
+    "county": "Johnston"
   },
   {
-    'city': 'Ravia',
-    'county': 'Johnston'
+    "city": "Mill Creek",
+    "county": "Johnston"
   },
   {
-    'city': 'Tishomingo',
-    'county': 'Johnston'
+    "city": "Ravia",
+    "county": "Johnston"
   },
   {
-    'city': 'Wapanucka',
-    'county': 'Johnston'
+    "city": "Tishomingo",
+    "county": "Johnston"
   },
   {
-    'city': 'Blackwell',
-    'county': 'Kay'
+    "city": "Wapanucka",
+    "county": "Johnston"
   },
   {
-    'city': 'Braman',
-    'county': 'Kay'
+    "city": "Blackwell",
+    "county": "Kay"
   },
   {
-    'city': 'Kaw',
-    'county': 'Kay'
+    "city": "Braman",
+    "county": "Kay"
   },
   {
-    'city': 'Kaw City',
-    'county': 'Kay'
+    "city": "Kaw",
+    "county": "Kay"
   },
   {
-    'city': 'Nardin',
-    'county': 'Kay'
+    "city": "Kaw City",
+    "county": "Kay"
   },
   {
-    'city': 'Newkirk',
-    'county': 'Kay'
+    "city": "Nardin",
+    "county": "Kay"
   },
   {
-    'city': 'Peckham',
-    'county': 'Kay'
+    "city": "Newkirk",
+    "county": "Kay"
   },
   {
-    'city': 'Ponca City',
-    'county': 'Kay'
+    "city": "Peckham",
+    "county": "Kay"
   },
   {
-    'city': 'Tonkawa',
-    'county': 'Kay'
+    "city": "Ponca City",
+    "county": "Kay"
   },
   {
-    'city': 'Cashion',
-    'county': 'Kingfisher'
+    "city": "Tonkawa",
+    "county": "Kay"
   },
   {
-    'city': 'Dover',
-    'county': 'Kingfisher'
+    "city": "Cashion",
+    "county": "Kingfisher"
   },
   {
-    'city': 'Hennessey',
-    'county': 'Kingfisher'
+    "city": "Dover",
+    "county": "Kingfisher"
   },
   {
-    'city': 'Kingfisher',
-    'county': 'Kingfisher'
+    "city": "Hennessey",
+    "county": "Kingfisher"
   },
   {
-    'city': 'Loyal',
-    'county': 'Kingfisher'
+    "city": "Kingfisher",
+    "county": "Kingfisher"
   },
   {
-    'city': 'Okarche',
-    'county': 'Kingfisher'
+    "city": "Loyal",
+    "county": "Kingfisher"
   },
   {
-    'city': 'Omega',
-    'county': 'Kingfisher'
+    "city": "Okarche",
+    "county": "Kingfisher"
   },
   {
-    'city': 'Gotebo',
-    'county': 'Kiowa'
+    "city": "Omega",
+    "county": "Kingfisher"
   },
   {
-    'city': 'Hobart',
-    'county': 'Kiowa'
+    "city": "Gotebo",
+    "county": "Kiowa"
   },
   {
-    'city': 'Lone Wolf',
-    'county': 'Kiowa'
+    "city": "Hobart",
+    "county": "Kiowa"
   },
   {
-    'city': 'Mountain Park',
-    'county': 'Kiowa'
+    "city": "Lone Wolf",
+    "county": "Kiowa"
   },
   {
-    'city': 'Mountain View',
-    'county': 'Kiowa'
+    "city": "Mountain Park",
+    "county": "Kiowa"
   },
   {
-    'city': 'Roosevelt',
-    'county': 'Kiowa'
+    "city": "Mountain View",
+    "county": "Kiowa"
   },
   {
-    'city': 'Snyder',
-    'county': 'Kiowa'
+    "city": "Roosevelt",
+    "county": "Kiowa"
   },
   {
-    'city': 'Gowen',
-    'county': 'Latimer'
+    "city": "Snyder",
+    "county": "Kiowa"
   },
   {
-    'city': 'Higgins',
-    'county': 'Latimer'
+    "city": "Gowen",
+    "county": "Latimer"
   },
   {
-    'city': 'Panola',
-    'county': 'Latimer'
+    "city": "Higgins",
+    "county": "Latimer"
   },
   {
-    'city': 'Red Oak',
-    'county': 'Latimer'
+    "city": "Panola",
+    "county": "Latimer"
   },
   {
-    'city': 'Talihina',
-    'county': 'Latimer'
+    "city": "Red Oak",
+    "county": "Latimer"
   },
   {
-    'city': 'Wilburton',
-    'county': 'Latimer'
+    "city": "Talihina",
+    "county": "Latimer"
   },
   {
-    'city': 'Arkoma',
-    'county': 'LeFlore'
+    "city": "Wilburton",
+    "county": "Latimer"
   },
   {
-    'city': 'Bokoshe',
-    'county': 'LeFlore'
+    "city": "Arkoma",
+    "county": "LeFlore"
   },
   {
-    'city': 'Cameron',
-    'county': 'LeFlore'
+    "city": "Bokoshe",
+    "county": "LeFlore"
   },
   {
-    'city': 'Fanshawe',
-    'county': 'LeFlore'
+    "city": "Cameron",
+    "county": "LeFlore"
   },
   {
-    'city': 'Heavener',
-    'county': 'LeFlore'
+    "city": "Fanshawe",
+    "county": "LeFlore"
   },
   {
-    'city': 'Hodgen',
-    'county': 'LeFlore'
+    "city": "Heavener",
+    "county": "LeFlore"
   },
   {
-    'city': 'Honobia',
-    'county': 'LeFlore'
+    "city": "Hodgen",
+    "county": "LeFlore"
   },
   {
-    'city': 'Howe',
-    'county': 'LeFlore'
+    "city": "Honobia",
+    "county": "LeFlore"
   },
   {
-    'city': 'Leflore',
-    'county': 'LeFlore'
+    "city": "Howe",
+    "county": "LeFlore"
   },
   {
-    'city': 'Monroe',
-    'county': 'LeFlore'
+    "city": "Leflore",
+    "county": "LeFlore"
   },
   {
-    'city': 'Muse',
-    'county': 'LeFlore'
+    "city": "Monroe",
+    "county": "LeFlore"
   },
   {
-    'city': 'Panama',
-    'county': 'LeFlore'
+    "city": "Muse",
+    "county": "LeFlore"
   },
   {
-    'city': 'Pocola',
-    'county': 'LeFlore'
+    "city": "Panama",
+    "county": "LeFlore"
   },
   {
-    'city': 'Poteau',
-    'county': 'LeFlore'
+    "city": "Pocola",
+    "county": "LeFlore"
   },
   {
-    'city': 'Shady Point',
-    'county': 'LeFlore'
+    "city": "Poteau",
+    "county": "LeFlore"
   },
   {
-    'city': 'Spiro',
-    'county': 'LeFlore'
+    "city": "Shady Point",
+    "county": "LeFlore"
   },
   {
-    'city': 'Summerfield',
-    'county': 'LeFlore'
+    "city": "Spiro",
+    "county": "LeFlore"
   },
   {
-    'city': 'Whitesboro',
-    'county': 'LeFlore'
+    "city": "Summerfield",
+    "county": "LeFlore"
   },
   {
-    'city': 'Wister',
-    'county': 'LeFlore'
+    "city": "Whitesboro",
+    "county": "LeFlore"
   },
   {
-    'city': 'Agra',
-    'county': 'Lincoln'
+    "city": "Wister",
+    "county": "LeFlore"
   },
   {
-    'city': 'Carney',
-    'county': 'Lincoln'
+    "city": "Agra",
+    "county": "Lincoln"
   },
   {
-    'city': 'Chandler',
-    'county': 'Lincoln'
+    "city": "Carney",
+    "county": "Lincoln"
   },
   {
-    'city': 'Davenport',
-    'county': 'Lincoln'
+    "city": "Chandler",
+    "county": "Lincoln"
   },
   {
-    'city': 'Kendrick',
-    'county': 'Lincoln'
+    "city": "Davenport",
+    "county": "Lincoln"
   },
   {
-    'city': 'Meeker',
-    'county': 'Lincoln'
+    "city": "Kendrick",
+    "county": "Lincoln"
   },
   {
-    'city': 'Prague',
-    'county': 'Lincoln'
+    "city": "Meeker",
+    "county": "Lincoln"
   },
   {
-    'city': 'Sparks',
-    'county': 'Lincoln'
+    "city": "Prague",
+    "county": "Lincoln"
   },
   {
-    'city': 'Stroud',
-    'county': 'Lincoln'
+    "city": "Sparks",
+    "county": "Lincoln"
   },
   {
-    'city': 'Tryon',
-    'county': 'Lincoln'
+    "city": "Stroud",
+    "county": "Lincoln"
   },
   {
-    'city': 'Wellston',
-    'county': 'Lincoln'
+    "city": "Tryon",
+    "county": "Lincoln"
   },
   {
-    'city': 'Coyle',
-    'county': 'Logan'
+    "city": "Wellston",
+    "county": "Lincoln"
   },
   {
-    'city': 'Crescent',
-    'county': 'Logan'
+    "city": "Coyle",
+    "county": "Logan"
   },
   {
-    'city': 'Guthrie',
-    'county': 'Logan'
+    "city": "Crescent",
+    "county": "Logan"
   },
   {
-    'city': 'Langston',
-    'county': 'Logan'
+    "city": "Guthrie",
+    "county": "Logan"
   },
   {
-    'city': 'Marshall',
-    'county': 'Logan'
+    "city": "Langston",
+    "county": "Logan"
   },
   {
-    'city': 'Meridian',
-    'county': 'Logan'
+    "city": "Marshall",
+    "county": "Logan"
   },
   {
-    'city': 'Mulhall',
-    'county': 'Logan'
+    "city": "Meridian",
+    "county": "Logan"
   },
   {
-    'city': 'Orlando',
-    'county': 'Logan'
+    "city": "Mulhall",
+    "county": "Logan"
   },
   {
-    'city': 'Burneyville',
-    'county': 'Love'
+    "city": "Orlando",
+    "county": "Logan"
   },
   {
-    'city': 'Leon',
-    'county': 'Love'
+    "city": "Burneyville",
+    "county": "Love"
   },
   {
-    'city': 'Marietta',
-    'county': 'Love'
+    "city": "Leon",
+    "county": "Love"
   },
   {
-    'city': 'Overbrook',
-    'county': 'Love'
+    "city": "Marietta",
+    "county": "Love"
   },
   {
-    'city': 'Thackerville',
-    'county': 'Love'
+    "city": "Overbrook",
+    "county": "Love"
   },
   {
-    'city': 'Ames',
-    'county': 'Major'
+    "city": "Thackerville",
+    "county": "Love"
   },
   {
-    'city': 'Chester',
-    'county': 'Major'
+    "city": "Ames",
+    "county": "Major"
   },
   {
-    'city': 'Cleo Springs',
-    'county': 'Major'
+    "city": "Chester",
+    "county": "Major"
   },
   {
-    'city': 'Fairview',
-    'county': 'Major'
+    "city": "Cleo Springs",
+    "county": "Major"
   },
   {
-    'city': 'Isabella',
-    'county': 'Major'
+    "city": "Fairview",
+    "county": "Major"
   },
   {
-    'city': 'Meno',
-    'county': 'Major'
+    "city": "Isabella",
+    "county": "Major"
   },
   {
-    'city': 'Orienta',
-    'county': 'Major'
+    "city": "Meno",
+    "county": "Major"
   },
   {
-    'city': 'Ringwood',
-    'county': 'Major'
+    "city": "Orienta",
+    "county": "Major"
   },
   {
-    'city': 'Kingston',
-    'county': 'Marshall'
+    "city": "Ringwood",
+    "county": "Major"
   },
   {
-    'city': 'Lebanon',
-    'county': 'Marshall'
+    "city": "Kingston",
+    "county": "Marshall"
   },
   {
-    'city': 'Madill',
-    'county': 'Marshall'
+    "city": "Lebanon",
+    "county": "Marshall"
   },
   {
-    'city': 'Oakland',
-    'county': 'Marshall'
+    "city": "Madill",
+    "county": "Marshall"
   },
   {
-    'city': 'Adair',
-    'county': 'Mayes'
+    "city": "Oakland",
+    "county": "Marshall"
   },
   {
-    'city': 'Chouteau',
-    'county': 'Mayes'
+    "city": "Adair",
+    "county": "Mayes"
   },
   {
-    'city': 'Disney',
-    'county': 'Mayes'
+    "city": "Chouteau",
+    "county": "Mayes"
   },
   {
-    'city': 'Ketchum',
-    'county': 'Mayes'
+    "city": "Disney",
+    "county": "Mayes"
   },
   {
-    'city': 'Langley',
-    'county': 'Mayes'
+    "city": "Ketchum",
+    "county": "Mayes"
   },
   {
-    'city': 'Locust Grove',
-    'county': 'Mayes'
+    "city": "Langley",
+    "county": "Mayes"
   },
   {
-    'city': 'Mazie',
-    'county': 'Mayes'
+    "city": "Locust Grove",
+    "county": "Mayes"
   },
   {
-    'city': 'Pryor',
-    'county': 'Mayes'
+    "city": "Mazie",
+    "county": "Mayes"
   },
   {
-    'city': 'Rose',
-    'county': 'Mayes'
+    "city": "Pryor",
+    "county": "Mayes"
   },
   {
-    'city': 'Salina',
-    'county': 'Mayes'
+    "city": "Rose",
+    "county": "Mayes"
   },
   {
-    'city': 'Spavinaw',
-    'county': 'Mayes'
+    "city": "Salina",
+    "county": "Mayes"
   },
   {
-    'city': 'Strang',
-    'county': 'Mayes'
+    "city": "Spavinaw",
+    "county": "Mayes"
   },
   {
-    'city': 'Blanchard',
-    'county': 'McClain'
+    "city": "Strang",
+    "county": "Mayes"
   },
   {
-    'city': 'Byars',
-    'county': 'McClain'
+    "city": "Blanchard",
+    "county": "McClain"
   },
   {
-    'city': 'Dibble',
-    'county': 'McClain'
+    "city": "Byars",
+    "county": "McClain"
   },
   {
-    'city': 'Goldsby',
-    'county': 'McClain'
+    "city": "Dibble",
+    "county": "McClain"
   },
   {
-    'city': 'Newcastle',
-    'county': 'McClain'
+    "city": "Goldsby",
+    "county": "McClain"
   },
   {
-    'city': 'Purcell',
-    'county': 'McClain'
+    "city": "Newcastle",
+    "county": "McClain"
   },
   {
-    'city': 'Washington',
-    'county': 'McClain'
+    "city": "Purcell",
+    "county": "McClain"
   },
   {
-    'city': 'Wayne',
-    'county': 'McClain'
+    "city": "Washington",
+    "county": "McClain"
   },
   {
-    'city': 'Battiest',
-    'county': 'McCurtain'
+    "city": "Wayne",
+    "county": "McClain"
   },
   {
-    'city': 'Bethel',
-    'county': 'McCurtain'
+    "city": "Battiest",
+    "county": "McCurtain"
   },
   {
-    'city': 'Boss',
-    'county': 'McCurtain'
+    "city": "Bethel",
+    "county": "McCurtain"
   },
   {
-    'city': 'Broken Bow',
-    'county': 'McCurtain'
+    "city": "Boss",
+    "county": "McCurtain"
   },
   {
-    'city': 'Eagletown',
-    'county': 'McCurtain'
+    "city": "Broken Bow",
+    "county": "McCurtain"
   },
   {
-    'city': 'Garvin',
-    'county': 'McCurtain'
+    "city": "Eagletown",
+    "county": "McCurtain"
   },
   {
-    'city': 'Golden',
-    'county': 'McCurtain'
+    "city": "Garvin",
+    "county": "McCurtain"
   },
   {
-    'city': 'Haworth',
-    'county': 'McCurtain'
+    "city": "Golden",
+    "county": "McCurtain"
   },
   {
-    'city': 'Idabel',
-    'county': 'McCurtain'
+    "city": "Haworth",
+    "county": "McCurtain"
   },
   {
-    'city': 'Kulli',
-    'county': 'McCurtain'
+    "city": "Idabel",
+    "county": "McCurtain"
   },
   {
-    'city': 'Millerton',
-    'county': 'McCurtain'
+    "city": "Kulli",
+    "county": "McCurtain"
   },
   {
-    'city': 'Octavia',
-    'county': 'McCurtain'
+    "city": "Millerton",
+    "county": "McCurtain"
   },
   {
-    'city': 'Pickens',
-    'county': 'McCurtain'
+    "city": "Octavia",
+    "county": "McCurtain"
   },
   {
-    'city': 'Ringold',
-    'county': 'McCurtain'
+    "city": "Pickens",
+    "county": "McCurtain"
   },
   {
-    'city': 'Rufe',
-    'county': 'McCurtain'
+    "city": "Ringold",
+    "county": "McCurtain"
   },
   {
-    'city': 'Shults',
-    'county': 'McCurtain'
+    "city": "Rufe",
+    "county": "McCurtain"
   },
   {
-    'city': 'Smithville',
-    'county': 'McCurtain'
+    "city": "Shults",
+    "county": "McCurtain"
   },
   {
-    'city': 'Tom',
-    'county': 'McCurtain'
+    "city": "Smithville",
+    "county": "McCurtain"
   },
   {
-    'city': 'Valliant',
-    'county': 'McCurtain'
+    "city": "Tom",
+    "county": "McCurtain"
   },
   {
-    'city': 'Watson',
-    'county': 'McCurtain'
+    "city": "Valliant",
+    "county": "McCurtain"
   },
   {
-    'city': 'Wright City',
-    'county': 'McCurtain'
+    "city": "Watson",
+    "county": "McCurtain"
   },
   {
-    'city': 'Bond',
-    'county': 'McIntosh'
+    "city": "Wright City",
+    "county": "McCurtain"
   },
   {
-    'city': 'Checotah',
-    'county': 'McIntosh'
+    "city": "Bond",
+    "county": "McIntosh"
   },
   {
-    'city': 'Eufaula',
-    'county': 'McIntosh'
+    "city": "Checotah",
+    "county": "McIntosh"
   },
   {
-    'city': 'Hanna',
-    'county': 'McIntosh'
+    "city": "Eufaula",
+    "county": "McIntosh"
   },
   {
-    'city': 'Hitchita',
-    'county': 'McIntosh'
+    "city": "Hanna",
+    "county": "McIntosh"
   },
   {
-    'city': 'Pierce',
-    'county': 'McIntosh'
+    "city": "Hitchita",
+    "county": "McIntosh"
   },
   {
-    'city': 'Rentiesville',
-    'county': 'McIntosh'
+    "city": "Pierce",
+    "county": "McIntosh"
   },
   {
-    'city': 'Stidham',
-    'county': 'McIntosh'
+    "city": "Rentiesville",
+    "county": "McIntosh"
   },
   {
-    'city': 'Texanna',
-    'county': 'McIntosh'
+    "city": "Stidham",
+    "county": "McIntosh"
   },
   {
-    'city': 'Vernon',
-    'county': 'McIntosh'
+    "city": "Texanna",
+    "county": "McIntosh"
   },
   {
-    'city': 'Davis',
-    'county': 'Murray'
+    "city": "Vernon",
+    "county": "McIntosh"
   },
   {
-    'city': 'Dougherty',
-    'county': 'Murray'
+    "city": "Davis",
+    "county": "Murray"
   },
   {
-    'city': 'Sulphur',
-    'county': 'Murray'
+    "city": "Dougherty",
+    "county": "Murray"
   },
   {
-    'city': 'Bacone',
-    'county': 'Muskogee'
+    "city": "Sulphur",
+    "county": "Murray"
   },
   {
-    'city': 'Beland',
-    'county': 'Muskogee'
+    "city": "Bacone",
+    "county": "Muskogee"
   },
   {
-    'city': 'Boynton',
-    'county': 'Muskogee'
+    "city": "Beland",
+    "county": "Muskogee"
   },
   {
-    'city': 'Braggs',
-    'county': 'Muskogee'
+    "city": "Boynton",
+    "county": "Muskogee"
   },
   {
-    'city': 'Council Hill',
-    'county': 'Muskogee'
+    "city": "Braggs",
+    "county": "Muskogee"
   },
   {
-    'city': 'Fort Gibson',
-    'county': 'Muskogee'
+    "city": "Council Hill",
+    "county": "Muskogee"
   },
   {
-    'city': 'Haskell',
-    'county': 'Muskogee'
+    "city": "Fort Gibson",
+    "county": "Muskogee"
   },
   {
-    'city': 'Keefeton',
-    'county': 'Muskogee'
+    "city": "Haskell",
+    "county": "Muskogee"
   },
   {
-    'city': 'Martin',
-    'county': 'Muskogee'
+    "city": "Keefeton",
+    "county": "Muskogee"
   },
   {
-    'city': 'McLain',
-    'county': 'Muskogee'
+    "city": "Martin",
+    "county": "Muskogee"
   },
   {
-    'city': 'Muskogee',
-    'county': 'Muskogee'
+    "city": "McLain",
+    "county": "Muskogee"
   },
   {
-    'city': 'Oktaha',
-    'county': 'Muskogee'
+    "city": "Muskogee",
+    "county": "Muskogee"
   },
   {
-    'city': 'Porum',
-    'county': 'Muskogee'
+    "city": "Oktaha",
+    "county": "Muskogee"
   },
   {
-    'city': 'Summitt',
-    'county': 'Muskogee'
+    "city": "Porum",
+    "county": "Muskogee"
   },
   {
-    'city': 'Taft',
-    'county': 'Muskogee'
+    "city": "Summitt",
+    "county": "Muskogee"
   },
   {
-    'city': 'Wainwright',
-    'county': 'Muskogee'
+    "city": "Taft",
+    "county": "Muskogee"
   },
   {
-    'city': 'Warner',
-    'county': 'Muskogee'
+    "city": "Wainwright",
+    "county": "Muskogee"
   },
   {
-    'city': 'Webbers Falls',
-    'county': 'Muskogee'
+    "city": "Warner",
+    "county": "Muskogee"
   },
   {
-    'city': 'Wybark',
-    'county': 'Muskogee'
+    "city": "Webbers Falls",
+    "county": "Muskogee"
   },
   {
-    'city': 'Billings',
-    'county': 'Noble'
+    "city": "Wybark",
+    "county": "Muskogee"
   },
   {
-    'city': 'Lucien',
-    'county': 'Noble'
+    "city": "Billings",
+    "county": "Noble"
   },
   {
-    'city': 'Marland',
-    'county': 'Noble'
+    "city": "Lucien",
+    "county": "Noble"
   },
   {
-    'city': 'Morrison',
-    'county': 'Noble'
+    "city": "Marland",
+    "county": "Noble"
   },
   {
-    'city': 'Perry',
-    'county': 'Noble'
+    "city": "Morrison",
+    "county": "Noble"
   },
   {
-    'city': 'Red Rock',
-    'county': 'Noble'
+    "city": "Perry",
+    "county": "Noble"
   },
   {
-    'city': 'Coodys Bluff',
-    'county': 'Nowata'
+    "city": "Red Rock",
+    "county": "Noble"
   },
   {
-    'city': 'Delaware',
-    'county': 'Nowata'
+    "city": "Coodys Bluff",
+    "county": "Nowata"
   },
   {
-    'city': 'Lenapah',
-    'county': 'Nowata'
+    "city": "Delaware",
+    "county": "Nowata"
   },
   {
-    'city': 'Nowata',
-    'county': 'Nowata'
+    "city": "Lenapah",
+    "county": "Nowata"
   },
   {
-    'city': 'Noxie',
-    'county': 'Nowata'
+    "city": "Nowata",
+    "county": "Nowata"
   },
   {
-    'city': 'South Coffeyville',
-    'county': 'Nowata'
+    "city": "Noxie",
+    "county": "Nowata"
   },
   {
-    'city': 'Wann',
-    'county': 'Nowata'
+    "city": "South Coffeyville",
+    "county": "Nowata"
   },
   {
-    'city': 'Watova',
-    'county': 'Nowata'
+    "city": "Wann",
+    "county": "Nowata"
   },
   {
-    'city': 'Bearden',
-    'county': 'Okfuskee'
+    "city": "Watova",
+    "county": "Nowata"
   },
   {
-    'city': 'Boley',
-    'county': 'Okfuskee'
+    "city": "Bearden",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Castle',
-    'county': 'Okfuskee'
+    "city": "Boley",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Clearview',
-    'county': 'Okfuskee'
+    "city": "Castle",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Mason',
-    'county': 'Okfuskee'
+    "city": "Clearview",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Okemah',
-    'county': 'Okfuskee'
+    "city": "Mason",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Paden',
-    'county': 'Okfuskee'
+    "city": "Okemah",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Pharoah',
-    'county': 'Okfuskee'
+    "city": "Paden",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Weleetka',
-    'county': 'Okfuskee'
+    "city": "Pharoah",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Welty',
-    'county': 'Okfuskee'
+    "city": "Weleetka",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Arcadia',
-    'county': 'Oklahoma'
+    "city": "Welty",
+    "county": "Okfuskee"
   },
   {
-    'city': 'Bethany',
-    'county': 'Oklahoma'
+    "city": "Arcadia",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Choctaw',
-    'county': 'Oklahoma'
+    "city": "Bethany",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Del City',
-    'county': 'Oklahoma'
+    "city": "Choctaw",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Edmond',
-    'county': 'Oklahoma'
+    "city": "Del City",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Harrah',
-    'county': 'Oklahoma'
+    "city": "Edmond",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Jones',
-    'county': 'Oklahoma'
+    "city": "Harrah",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Luther',
-    'county': 'Oklahoma'
+    "city": "Jones",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Midwest City',
-    'county': 'Oklahoma'
+    "city": "Luther",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Moore',
-    'county': 'Oklahoma'
+    "city": "Midwest City",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Newalla',
-    'county': 'Oklahoma'
+    "city": "Moore",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Nichols Hills',
-    'county': 'Oklahoma'
+    "city": "Newalla",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Nicoma Park',
-    'county': 'Oklahoma'
+    "city": "Nichols Hills",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Oklahoma City',
-    'county': 'Oklahoma'
+    "city": "Nicoma Park",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Spencer',
-    'county': 'Oklahoma'
+    "city": "Oklahoma City",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Tinker AFB',
-    'county': 'Oklahoma'
+    "city": "Spencer",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Village',
-    'county': 'Oklahoma'
+    "city": "Tinker AFB",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Warr Acres',
-    'county': 'Oklahoma'
+    "city": "Village",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Wheatland',
-    'county': 'Oklahoma'
+    "city": "Warr Acres",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Beggs',
-    'county': 'Okmulgee'
+    "city": "Wheatland",
+    "county": "Oklahoma"
   },
   {
-    'city': 'Coalton',
-    'county': 'Okmulgee'
+    "city": "Beggs",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Dewar',
-    'county': 'Okmulgee'
+    "city": "Coalton",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Grayson',
-    'county': 'Okmulgee'
+    "city": "Dewar",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Henryetta',
-    'county': 'Okmulgee'
+    "city": "Grayson",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Hoffman',
-    'county': 'Okmulgee'
+    "city": "Henryetta",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Morris',
-    'county': 'Okmulgee'
+    "city": "Hoffman",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Nuyaka',
-    'county': 'Okmulgee'
+    "city": "Morris",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Okmulgee',
-    'county': 'Okmulgee'
+    "city": "Nuyaka",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Preston',
-    'county': 'Okmulgee'
+    "city": "Okmulgee",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Salem',
-    'county': 'Okmulgee'
+    "city": "Preston",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Schulter',
-    'county': 'Okmulgee'
+    "city": "Salem",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Spelter City',
-    'county': 'Okmulgee'
+    "city": "Schulter",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Twin Hills',
-    'county': 'Okmulgee'
+    "city": "Spelter City",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Avant',
-    'county': 'Osage'
+    "city": "Twin Hills",
+    "county": "Okmulgee"
   },
   {
-    'city': 'Barnsdall',
-    'county': 'Osage'
+    "city": "Avant",
+    "county": "Osage"
   },
   {
-    'city': 'Bowring',
-    'county': 'Osage'
+    "city": "Barnsdall",
+    "county": "Osage"
   },
   {
-    'city': 'Burbank',
-    'county': 'Osage'
+    "city": "Bowring",
+    "county": "Osage"
   },
   {
-    'city': 'Fairfax',
-    'county': 'Osage'
+    "city": "Burbank",
+    "county": "Osage"
   },
   {
-    'city': 'Foraker',
-    'county': 'Osage'
+    "city": "Fairfax",
+    "county": "Osage"
   },
   {
-    'city': 'Herd',
-    'county': 'Osage'
+    "city": "Foraker",
+    "county": "Osage"
   },
   {
-    'city': 'Hominy',
-    'county': 'Osage'
+    "city": "Herd",
+    "county": "Osage"
   },
   {
-    'city': 'Nelagony',
-    'county': 'Osage'
+    "city": "Hominy",
+    "county": "Osage"
   },
   {
-    'city': 'Osage',
-    'county': 'Osage'
+    "city": "Nelagony",
+    "county": "Osage"
   },
   {
-    'city': 'Pawhuska',
-    'county': 'Osage'
+    "city": "Osage",
+    "county": "Osage"
   },
   {
-    'city': 'Pearsonia',
-    'county': 'Osage'
+    "city": "Pawhuska",
+    "county": "Osage"
   },
   {
-    'city': 'Pershing',
-    'county': 'Osage'
+    "city": "Pearsonia",
+    "county": "Osage"
   },
   {
-    'city': 'Prue',
-    'county': 'Osage'
+    "city": "Pershing",
+    "county": "Osage"
   },
   {
-    'city': 'Shidler',
-    'county': 'Osage'
+    "city": "Prue",
+    "county": "Osage"
   },
   {
-    'city': 'Skiatook',
-    'county': 'Osage'
+    "city": "Shidler",
+    "county": "Osage"
   },
   {
-    'city': 'Tallant',
-    'county': 'Osage'
+    "city": "Skiatook",
+    "county": "Osage"
   },
   {
-    'city': 'Tulsa',
-    'county': 'Osage'
+    "city": "Tallant",
+    "county": "Osage"
   },
   {
-    'city': 'Wolco',
-    'county': 'Osage'
+    "city": "Tulsa",
+    "county": "Osage"
   },
   {
-    'city': 'Wynona',
-    'county': 'Osage'
+    "city": "Wolco",
+    "county": "Osage"
   },
   {
-    'city': 'Afton',
-    'county': 'Ottawa'
+    "city": "Wynona",
+    "county": "Osage"
   },
   {
-    'city': 'Bernice',
-    'county': 'Ottawa'
+    "city": "Afton",
+    "county": "Ottawa"
   },
   {
-    'city': 'Bluejacket',
-    'county': 'Ottawa'
+    "city": "Bernice",
+    "county": "Ottawa"
   },
   {
-    'city': 'Cardin',
-    'county': 'Ottawa'
+    "city": "Bluejacket",
+    "county": "Ottawa"
   },
   {
-    'city': 'Cleora',
-    'county': 'Ottawa'
+    "city": "Cardin",
+    "county": "Ottawa"
   },
   {
-    'city': 'Commerce',
-    'county': 'Ottawa'
+    "city": "Cleora",
+    "county": "Ottawa"
   },
   {
-    'city': 'Fairland',
-    'county': 'Ottawa'
+    "city": "Commerce",
+    "county": "Ottawa"
   },
   {
-    'city': 'Miami',
-    'county': 'Ottawa'
+    "city": "Fairland",
+    "county": "Ottawa"
   },
   {
-    'city': 'Monkey Island',
-    'county': 'Ottawa'
+    "city": "Miami",
+    "county": "Ottawa"
   },
   {
-    'city': 'North Miami',
-    'county': 'Ottawa'
+    "city": "Monkey Island",
+    "county": "Ottawa"
   },
   {
-    'city': 'Peoria',
-    'county': 'Ottawa'
+    "city": "North Miami",
+    "county": "Ottawa"
   },
   {
-    'city': 'Picher',
-    'county': 'Ottawa'
+    "city": "Peoria",
+    "county": "Ottawa"
   },
   {
-    'city': 'Quapaw',
-    'county': 'Ottawa'
+    "city": "Picher",
+    "county": "Ottawa"
   },
   {
-    'city': 'Wyandotte',
-    'county': 'Ottawa'
+    "city": "Quapaw",
+    "county": "Ottawa"
   },
   {
-    'city': 'Baugh',
-    'county': 'Pawnee'
+    "city": "Wyandotte",
+    "county": "Ottawa"
   },
   {
-    'city': 'Cleveland',
-    'county': 'Pawnee'
+    "city": "Baugh",
+    "county": "Pawnee"
   },
   {
-    'city': 'Hailey',
-    'county': 'Pawnee'
+    "city": "Cleveland",
+    "county": "Pawnee"
   },
   {
-    'city': 'Hallett',
-    'county': 'Pawnee'
+    "city": "Hailey",
+    "county": "Pawnee"
   },
   {
-    'city': 'Hallis',
-    'county': 'Pawnee'
+    "city": "Hallett",
+    "county": "Pawnee"
   },
   {
-    'city': 'Jennings',
-    'county': 'Pawnee'
+    "city": "Hallis",
+    "county": "Pawnee"
   },
   {
-    'city': 'Maramec',
-    'county': 'Pawnee'
+    "city": "Jennings",
+    "county": "Pawnee"
   },
   {
-    'city': 'Pawnee',
-    'county': 'Pawnee'
+    "city": "Maramec",
+    "county": "Pawnee"
   },
   {
-    'city': 'Ralston',
-    'county': 'Pawnee'
+    "city": "Pawnee",
+    "county": "Pawnee"
   },
   {
-    'city': 'Silver City',
-    'county': 'Pawnee'
+    "city": "Ralston",
+    "county": "Pawnee"
   },
   {
-    'city': 'Terlton',
-    'county': 'Pawnee'
+    "city": "Silver City",
+    "county": "Pawnee"
   },
   {
-    'city': 'Westport',
-    'county': 'Pawnee'
+    "city": "Terlton",
+    "county": "Pawnee"
   },
   {
-    'city': 'Avery',
-    'county': 'Payne'
+    "city": "Westport",
+    "county": "Pawnee"
   },
   {
-    'city': 'Cushing',
-    'county': 'Payne'
+    "city": "Avery",
+    "county": "Payne"
   },
   {
-    'city': 'Glencoe',
-    'county': 'Payne'
+    "city": "Cushing",
+    "county": "Payne"
   },
   {
-    'city': 'Norfolk',
-    'county': 'Payne'
+    "city": "Glencoe",
+    "county": "Payne"
   },
   {
-    'city': 'Perkins',
-    'county': 'Payne'
+    "city": "Norfolk",
+    "county": "Payne"
   },
   {
-    'city': 'Ripley',
-    'county': 'Payne'
+    "city": "Perkins",
+    "county": "Payne"
   },
   {
-    'city': 'Schlegal',
-    'county': 'Payne'
+    "city": "Ripley",
+    "county": "Payne"
   },
   {
-    'city': 'Stillwater',
-    'county': 'Payne'
+    "city": "Schlegal",
+    "county": "Payne"
   },
   {
-    'city': 'Yale',
-    'county': 'Payne'
+    "city": "Stillwater",
+    "county": "Payne"
   },
   {
-    'city': 'Alderson',
-    'county': 'Pittsburg'
+    "city": "Yale",
+    "county": "Payne"
   },
   {
-    'city': 'Bache',
-    'county': 'Pittsburg'
+    "city": "Alderson",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Blanco',
-    'county': 'Pittsburg'
+    "city": "Bache",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Blocker',
-    'county': 'Pittsburg'
+    "city": "Blanco",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Canadian',
-    'county': 'Pittsburg'
+    "city": "Blocker",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Crowder',
-    'county': 'Pittsburg'
+    "city": "Canadian",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Haileyville',
-    'county': 'Pittsburg'
+    "city": "Crowder",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Hartshorne',
-    'county': 'Pittsburg'
+    "city": "Haileyville",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Haywood',
-    'county': 'Pittsburg'
+    "city": "Hartshorne",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Indianola',
-    'county': 'Pittsburg'
+    "city": "Haywood",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Kiowa',
-    'county': 'Pittsburg'
+    "city": "Indianola",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Krebs',
-    'county': 'Pittsburg'
+    "city": "Kiowa",
+    "county": "Pittsburg"
   },
   {
-    'city': 'McAlester',
-    'county': 'Pittsburg'
+    "city": "Krebs",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Pittsburg',
-    'county': 'Pittsburg'
+    "city": "McAlester",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Quinton',
-    'county': 'Pittsburg'
+    "city": "Pittsburg",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Richville',
-    'county': 'Pittsburg'
+    "city": "Quinton",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Savanna',
-    'county': 'Pittsburg'
+    "city": "Richville",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Scipio',
-    'county': 'Pittsburg'
+    "city": "Savanna",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Wardville',
-    'county': 'Pittsburg'
+    "city": "Scipio",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Ada',
-    'county': 'Pontotoc'
+    "city": "Wardville",
+    "county": "Pittsburg"
   },
   {
-    'city': 'Allen',
-    'county': 'Pontotoc'
+    "city": "Ada",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Fittstown',
-    'county': 'Pontotoc'
+    "city": "Allen",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Fitzhugh',
-    'county': 'Pontotoc'
+    "city": "Fittstown",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Francis',
-    'county': 'Pontotoc'
+    "city": "Fitzhugh",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Harden City',
-    'county': 'Pontotoc'
+    "city": "Francis",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Pontotoc',
-    'county': 'Pontotoc'
+    "city": "Harden City",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Roff',
-    'county': 'Pontotoc'
+    "city": "Pontotoc",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Stonewall',
-    'county': 'Pontotoc'
+    "city": "Roff",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Asher',
-    'county': 'Pottawatomie'
+    "city": "Stonewall",
+    "county": "Pontotoc"
   },
   {
-    'city': 'Dale',
-    'county': 'Pottawatomie'
+    "city": "Asher",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Earlsboro',
-    'county': 'Pottawatomie'
+    "city": "Dale",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Macomb',
-    'county': 'Pottawatomie'
+    "city": "Earlsboro",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Maud',
-    'county': 'Pottawatomie'
+    "city": "Macomb",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'McLoud',
-    'county': 'Pottawatomie'
+    "city": "Maud",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Pink',
-    'county': 'Pottawatomie'
+    "city": "McLoud",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Saint Louis',
-    'county': 'Pottawatomie'
+    "city": "Pink",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Shawnee',
-    'county': 'Pottawatomie'
+    "city": "Saint Louis",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Tecumseh',
-    'county': 'Pottawatomie'
+    "city": "Shawnee",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Wanette',
-    'county': 'Pottawatomie'
+    "city": "Tecumseh",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Albion',
-    'county': 'Pushmataha'
+    "city": "Wanette",
+    "county": "Pottawatomie"
   },
   {
-    'city': 'Antlers',
-    'county': 'Pushmataha'
+    "city": "Albion",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Clayton',
-    'county': 'Pushmataha'
+    "city": "Antlers",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Finley',
-    'county': 'Pushmataha'
+    "city": "Clayton",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Moyers',
-    'county': 'Pushmataha'
+    "city": "Finley",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Nashoba',
-    'county': 'Pushmataha'
+    "city": "Moyers",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Rattan',
-    'county': 'Pushmataha'
+    "city": "Nashoba",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Snow',
-    'county': 'Pushmataha'
+    "city": "Rattan",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Tuskahoma',
-    'county': 'Pushmataha'
+    "city": "Snow",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Cheyenne',
-    'county': 'Roger Mills'
+    "city": "Tuskahoma",
+    "county": "Pushmataha"
   },
   {
-    'city': 'Crawford',
-    'county': 'Roger Mills'
+    "city": "Cheyenne",
+    "county": "Roger Mills"
   },
   {
-    'city': 'Durham',
-    'county': 'Roger Mills'
+    "city": "Crawford",
+    "county": "Roger Mills"
   },
   {
-    'city': 'Hammon',
-    'county': 'Roger Mills'
+    "city": "Durham",
+    "county": "Roger Mills"
   },
   {
-    'city': 'Reydon',
-    'county': 'Roger Mills'
+    "city": "Hammon",
+    "county": "Roger Mills"
   },
   {
-    'city': 'Strong City',
-    'county': 'Roger Mills'
+    "city": "Reydon",
+    "county": "Roger Mills"
   },
   {
-    'city': 'Sweetwater',
-    'county': 'Roger Mills'
+    "city": "Strong City",
+    "county": "Roger Mills"
   },
   {
-    'city': 'Bushyhead',
-    'county': 'Rogers'
+    "city": "Sweetwater",
+    "county": "Roger Mills"
   },
   {
-    'city': 'Catoosa',
-    'county': 'Rogers'
+    "city": "Bushyhead",
+    "county": "Rogers"
   },
   {
-    'city': 'Chelsea',
-    'county': 'Rogers'
+    "city": "Catoosa",
+    "county": "Rogers"
   },
   {
-    'city': 'Claremore',
-    'county': 'Rogers'
+    "city": "Chelsea",
+    "county": "Rogers"
   },
   {
-    'city': 'Foyil',
-    'county': 'Rogers'
+    "city": "Claremore",
+    "county": "Rogers"
   },
   {
-    'city': 'Inola',
-    'county': 'Rogers'
+    "city": "Foyil",
+    "county": "Rogers"
   },
   {
-    'city': 'Oologah',
-    'county': 'Rogers'
+    "city": "Inola",
+    "county": "Rogers"
   },
   {
-    'city': 'Talala',
-    'county': 'Rogers'
+    "city": "Oologah",
+    "county": "Rogers"
   },
   {
-    'city': 'Tiawah',
-    'county': 'Rogers'
+    "city": "Talala",
+    "county": "Rogers"
   },
   {
-    'city': 'Verdigris',
-    'county': 'Rogers'
+    "city": "Tiawah",
+    "county": "Rogers"
   },
   {
-    'city': 'Winganon',
-    'county': 'Rogers'
+    "city": "Verdigris",
+    "county": "Rogers"
   },
   {
-    'city': 'Bowlegs',
-    'county': 'Seminole'
+    "city": "Winganon",
+    "county": "Rogers"
   },
   {
-    'city': 'Cromwell',
-    'county': 'Seminole'
+    "city": "Bowlegs",
+    "county": "Seminole"
   },
   {
-    'city': 'Konawa',
-    'county': 'Seminole'
+    "city": "Cromwell",
+    "county": "Seminole"
   },
   {
-    'city': 'New Lima',
-    'county': 'Seminole'
+    "city": "Konawa",
+    "county": "Seminole"
   },
   {
-    'city': 'Sasakwa',
-    'county': 'Seminole'
+    "city": "New Lima",
+    "county": "Seminole"
   },
   {
-    'city': 'Seminole',
-    'county': 'Seminole'
+    "city": "Sasakwa",
+    "county": "Seminole"
   },
   {
-    'city': 'Wewoka',
-    'county': 'Seminole'
+    "city": "Seminole",
+    "county": "Seminole"
   },
   {
-    'city': 'Gans',
-    'county': 'Sequoyah'
+    "city": "Wewoka",
+    "county": "Seminole"
   },
   {
-    'city': 'Gore',
-    'county': 'Sequoyah'
+    "city": "Gans",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Marble City',
-    'county': 'Sequoyah'
+    "city": "Gore",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Moffett',
-    'county': 'Sequoyah'
+    "city": "Marble City",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Muldrow',
-    'county': 'Sequoyah'
+    "city": "Moffett",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Roland',
-    'county': 'Sequoyah'
+    "city": "Muldrow",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Sallisaw',
-    'county': 'Sequoyah'
+    "city": "Roland",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Vian',
-    'county': 'Sequoyah'
+    "city": "Sallisaw",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Bray',
-    'county': 'Stephens'
+    "city": "Vian",
+    "county": "Sequoyah"
   },
   {
-    'city': 'Comanche',
-    'county': 'Stephens'
+    "city": "Bray",
+    "county": "Stephens"
   },
   {
-    'city': 'County'line',
-    'county': 'Stephens'
+    "city": "Comanche",
+    "county": "Stephens"
   },
   {
-    'city': 'Duncan',
-    'county': 'Stephens'
+    "city": "County",
+    "county": "Stephens"
   },
   {
-    'city': 'Foster',
-    'county': 'Stephens'
+    "city": "Duncan",
+    "county": "Stephens"
   },
   {
-    'city': 'Loco',
-    'county': 'Stephens'
+    "city": "Foster",
+    "county": "Stephens"
   },
   {
-    'city': 'Marlow',
-    'county': 'Stephens'
+    "city": "Loco",
+    "county": "Stephens"
   },
   {
-    'city': 'Velma',
-    'county': 'Stephens'
+    "city": "Marlow",
+    "county": "Stephens"
   },
   {
-    'city': 'Adams',
-    'county': 'Texas'
+    "city": "Velma",
+    "county": "Stephens"
   },
   {
-    'city': 'Goodwell',
-    'county': 'Texas'
+    "city": "Adams",
+    "county": "Texas"
   },
   {
-    'city': 'Guymon',
-    'county': 'Texas'
+    "city": "Goodwell",
+    "county": "Texas"
   },
   {
-    'city': 'Hardesty',
-    'county': 'Texas'
+    "city": "Guymon",
+    "county": "Texas"
   },
   {
-    'city': 'Hooker',
-    'county': 'Texas'
+    "city": "Hardesty",
+    "county": "Texas"
   },
   {
-    'city': 'Optima',
-    'county': 'Texas'
+    "city": "Hooker",
+    "county": "Texas"
   },
   {
-    'city': 'Texhoma',
-    'county': 'Texas'
+    "city": "Optima",
+    "county": "Texas"
   },
   {
-    'city': 'Tyrone',
-    'county': 'Texas'
+    "city": "Texhoma",
+    "county": "Texas"
   },
   {
-    'city': 'Davidson',
-    'county': 'Tillman'
+    "city": "Tyrone",
+    "county": "Texas"
   },
   {
-    'city': 'Frederick',
-    'county': 'Tillman'
+    "city": "Davidson",
+    "county": "Tillman"
   },
   {
-    'city': 'Grandfield',
-    'county': 'Tillman'
+    "city": "Frederick",
+    "county": "Tillman"
   },
   {
-    'city': 'Hollister',
-    'county': 'Tillman'
+    "city": "Grandfield",
+    "county": "Tillman"
   },
   {
-    'city': 'Loveland',
-    'county': 'Tillman'
+    "city": "Hollister",
+    "county": "Tillman"
   },
   {
-    'city': 'Manitou',
-    'county': 'Tillman'
+    "city": "Loveland",
+    "county": "Tillman"
   },
   {
-    'city': 'Tipton',
-    'county': 'Tillman'
+    "city": "Manitou",
+    "county": "Tillman"
   },
   {
-    'city': 'Bixby',
-    'county': 'Tulsa'
+    "city": "Tipton",
+    "county": "Tillman"
   },
   {
-    'city': 'Broken Arrow',
-    'county': 'Tulsa'
+    "city": "Bixby",
+    "county": "Tulsa"
   },
   {
-    'city': 'Collinsville',
-    'county': 'Tulsa'
+    "city": "Broken Arrow",
+    "county": "Tulsa"
   },
   {
-    'city': 'Glenpool',
-    'county': 'Tulsa'
+    "city": "Collinsville",
+    "county": "Tulsa"
   },
   {
-    'city': 'Jenks',
-    'county': 'Tulsa'
+    "city": "Glenpool",
+    "county": "Tulsa"
   },
   {
-    'city': 'Leonard',
-    'county': 'Tulsa'
+    "city": "Jenks",
+    "county": "Tulsa"
   },
   {
-    'city': 'Lotsee',
-    'county': 'Tulsa'
+    "city": "Leonard",
+    "county": "Tulsa"
   },
   {
-    'city': 'Oakhurst',
-    'county': 'Tulsa'
+    "city": "Lotsee",
+    "county": "Tulsa"
   },
   {
-    'city': 'Owasso',
-    'county': 'Tulsa'
+    "city": "Oakhurst",
+    "county": "Tulsa"
   },
   {
-    'city': 'Sand Springs',
-    'county': 'Tulsa'
+    "city": "Owasso",
+    "county": "Tulsa"
   },
   {
-    'city': 'Sperry',
-    'county': 'Tulsa'
+    "city": "Sand Springs",
+    "county": "Tulsa"
   },
   {
-    'city': 'Tulsa',
-    'county': 'Tulsa'
+    "city": "Sperry",
+    "county": "Tulsa"
   },
   {
-    'city': 'Turley',
-    'county': 'Tulsa'
+    "city": "Tulsa",
+    "county": "Tulsa"
   },
   {
-    'city': 'West Tulsa',
-    'county': 'Tulsa'
+    "city": "Turley",
+    "county": "Tulsa"
   },
   {
-    'city': 'Broken Arrow',
-    'county': 'Wagoner'
+    "city": "West Tulsa",
+    "county": "Tulsa"
   },
   {
-    'city': 'Choska',
-    'county': 'Wagoner'
+    "city": "Broken Arrow",
+    "county": "Wagoner"
   },
   {
-    'city': 'Coweta',
-    'county': 'Wagoner'
+    "city": "Choska",
+    "county": "Wagoner"
   },
   {
-    'city': 'New Tulsa',
-    'county': 'Wagoner'
+    "city": "Coweta",
+    "county": "Wagoner"
   },
   {
-    'city': 'Okay',
-    'county': 'Wagoner'
+    "city": "New Tulsa",
+    "county": "Wagoner"
   },
   {
-    'city': 'Porter',
-    'county': 'Wagoner'
+    "city": "Okay",
+    "county": "Wagoner"
   },
   {
-    'city': 'Redbird',
-    'county': 'Wagoner'
+    "city": "Porter",
+    "county": "Wagoner"
   },
   {
-    'city': 'Tullahassee',
-    'county': 'Wagoner'
+    "city": "Redbird",
+    "county": "Wagoner"
   },
   {
-    'city': 'Wagoner',
-    'county': 'Wagoner'
+    "city": "Tullahassee",
+    "county": "Wagoner"
   },
   {
-    'city': 'Bartlesville',
-    'county': 'Washington'
+    "city": "Wagoner",
+    "county": "Wagoner"
   },
   {
-    'city': 'Copan',
-    'county': 'Washington'
+    "city": "Bartlesville",
+    "county": "Washington"
   },
   {
-    'city': 'Dewey',
-    'county': 'Washington'
+    "city": "Copan",
+    "county": "Washington"
   },
   {
-    'city': 'East Side',
-    'county': 'Washington'
+    "city": "Dewey",
+    "county": "Washington"
   },
   {
-    'city': 'Glenoak',
-    'county': 'Washington'
+    "city": "East Side",
+    "county": "Washington"
   },
   {
-    'city': 'Hog Shooter',
-    'county': 'Washington'
+    "city": "Glenoak",
+    "county": "Washington"
   },
   {
-    'city': 'Ochelata',
-    'county': 'Washington'
+    "city": "Hog Shooter",
+    "county": "Washington"
   },
   {
-    'city': 'Okesa',
-    'county': 'Washington'
+    "city": "Ochelata",
+    "county": "Washington"
   },
   {
-    'city': 'Ramona',
-    'county': 'Washington'
+    "city": "Okesa",
+    "county": "Washington"
   },
   {
-    'city': 'Vera',
-    'county': 'Washington'
+    "city": "Ramona",
+    "county": "Washington"
   },
   {
-    'city': 'Bessie',
-    'county': 'Washita'
+    "city": "Vera",
+    "county": "Washington"
   },
   {
-    'city': 'Burns Flat',
-    'county': 'Washita'
+    "city": "Bessie",
+    "county": "Washita"
   },
   {
-    'city': 'Canute',
-    'county': 'Washita'
+    "city": "Burns Flat",
+    "county": "Washita"
   },
   {
-    'city': 'Colony',
-    'county': 'Washita'
+    "city": "Canute",
+    "county": "Washita"
   },
   {
-    'city': 'Cordell',
-    'county': 'Washita'
+    "city": "Colony",
+    "county": "Washita"
   },
   {
-    'city': 'Corn',
-    'county': 'Washita'
+    "city": "Cordell",
+    "county": "Washita"
   },
   {
-    'city': 'Dill City',
-    'county': 'Washita'
+    "city": "Corn",
+    "county": "Washita"
   },
   {
-    'city': 'Foss',
-    'county': 'Washita'
+    "city": "Dill City",
+    "county": "Washita"
   },
   {
-    'city': 'Rocky',
-    'county': 'Washita'
+    "city": "Foss",
+    "county": "Washita"
   },
   {
-    'city': 'Sentinel',
-    'county': 'Washita'
+    "city": "Rocky",
+    "county": "Washita"
   },
   {
-    'city': 'Alva',
-    'county': 'Woods'
+    "city": "Sentinel",
+    "county": "Washita"
   },
   {
-    'city': 'Capron',
-    'county': 'Woods'
+    "city": "Alva",
+    "county": "Woods"
   },
   {
-    'city': 'Dacoma',
-    'county': 'Woods'
+    "city": "Capron",
+    "county": "Woods"
   },
   {
-    'city': 'Freedom',
-    'county': 'Woods'
+    "city": "Dacoma",
+    "county": "Woods"
   },
   {
-    'city': 'Hopeton',
-    'county': 'Woods'
+    "city": "Freedom",
+    "county": "Woods"
   },
   {
-    'city': 'Waynoka',
-    'county': 'Woods'
+    "city": "Hopeton",
+    "county": "Woods"
   },
   {
-    'city': 'Fort Supply',
-    'county': 'Woodward'
+    "city": "Waynoka",
+    "county": "Woods"
   },
   {
-    'city': 'Mooreland',
-    'county': 'Woodward'
+    "city": "Fort Supply",
+    "county": "Woodward"
   },
   {
-    'city': 'Mutual',
-    'county': 'Woodward'
+    "city": "Mooreland",
+    "county": "Woodward"
   },
   {
-    'city': 'Sharon',
-    'county': 'Woodward'
+    "city": "Mutual",
+    "county": "Woodward"
   },
   {
-    'city': 'Woodward',
-    'county': 'Woodward'
+    "city": "Sharon",
+    "county": "Woodward"
+  },
+  {
+    "city": "Woodward",
+    "county": "Woodward"
   }
 ]

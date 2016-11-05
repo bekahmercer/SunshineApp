@@ -175,4 +175,19 @@ ul {
 
 .searchContainer {
     margin: 0 auto;
+    text-align: center;
+}
+
+.searchResults {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.searchResults ul {
+    padding-left: 0;
+}
+
+.searchContainer input {
+    border: 3px solid green;
+    font-size: 1.4em;
 }
