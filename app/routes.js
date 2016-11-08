@@ -1,6 +1,8 @@
 angular.module('app')
   .config(routes)
-  
+
+routes.$inject = ['$routeProvider', '$locationProvider']; 
+ 
 function routes($routeProvider, $locationProvider) {
   
   $routeProvider
@@ -106,7 +108,12 @@ function routes($routeProvider, $locationProvider) {
   })
   
  
-  $locationProvider.html5Mode(true)
-  
+/*  $locationProvider.html5Mode({
+
+enabled:true,
+requireBase:false
+});
+  */
+$locationProvider.html5Mode(true);
 }
 
