@@ -1,41 +1,41 @@
 [
     {
-        'county': 'beckham',
-        'name': 'Action Associates, Inc.',
-        'address': {
-            'street': 'PO Box 1534',
-            'city': 'Clinton',
-            'state': 'OK',
-            'zip': '73601',
-            'phone': '580-243-5913',
-            'hotline': 'N/A',
-            'email': 'actionclinton@itlnet.net'
+        "county": "beckham",
+        "name": "Action Associates, Inc.",
+        "address": {
+            "street": "PO Box 1534",
+            "city": "Clinton",
+            "state": "OK",
+            "zip": "73601",
+            "phone": "580-243-5913",
+            "hotline": "N/A",
+            "email": "actionclinton@itlnet.net"
         }
     },
      {
-        'county': 'bryan',
-        'name': 'Crisis Control Center, Inc',
-        'address': {
-            'street': 'PO Box 113',
-            'city': 'Duran',
-            'state': 'OK',
-            'zip': ' 74702',
-            'phone': '580-924-3056',
-            'hotline': '580-924-3030',
-            'email': 'nssclass@redriverok.com'
+        "county": "bryan",
+        "name": "Crisis Control Center, Inc",
+        "address": {
+            "street": "PO Box 113",
+            "city": "Durant",
+            "state": "OK",
+            "zip": " 74702",
+            "phone": "580-924-3056",
+            "hotline": "580-924-3030",
+            "email": "nssclass@redriverok.com"
         }
     },
      {
-        'county': 'canadian',
-        'name': 'Women\'s Service and Family Resource Center',
-        'address': {
-            'street': 'PO Box 1539',
-            'city': 'Chickasha',
-            'state': 'OK',
-            'zip': '73023',
-            'phone': '405-262-4455',
-            'hotline': '800-734-4117',
-            'email': 'wsfrc2@sbcglobal.net'
+        "county": "canadian",
+        "name": "Women\"s Service and Family Resource Center",
+        "address": {
+            "street": "PO Box 1539",
+            "city": "Chickasha",
+            "state": "OK",
+            "zip": "73023",
+            "phone": "405-262-4455",
+            "hotline": "800-734-4117",
+            "email": "wsfrc2@sbcglobal.net"
         }
     }
 ]

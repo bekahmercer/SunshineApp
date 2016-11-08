@@ -185,9 +185,18 @@ ul {
 
 .searchResults ul {
     padding-left: 0;
+    margin-top: 20px;
 }
 
 .searchContainer input {
     border: 3px solid green;
     font-size: 1.4em;
+}
+
+.searchArea {
+    min-height: 200px;
+}
+
+.county {
+    margin-top: 20px;
 }
