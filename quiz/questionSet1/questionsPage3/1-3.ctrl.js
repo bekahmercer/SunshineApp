@@ -58,11 +58,11 @@ CheckService.cbs1q35 = val;
 break;
 }
 
-CheckService.page1+= val; //updates the total for the page 1 into the service
-vm.currentPage = CheckService.page1; //Updates the current view (text box)
+CheckService.qs1p3+= val; //updates the total for the page 1 into the service
+vm.currentPage = CheckService.qs1p3; //Updates the current view (text box)
 
-CheckService.total = (CheckService.page1 + CheckService.page2 + CheckService.page3); //Adds all the points achieved in all pages
-vm.total = CheckService.total; //Updates the view (text box)
+//CheckService.total = (CheckService.page1 + CheckService.page2 + CheckService.page3); //Adds all the points achieved in all pages
+//vm.total = CheckService.total; //Updates the view (text box)
 
 }
 }
