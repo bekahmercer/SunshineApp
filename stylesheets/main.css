@@ -55,11 +55,19 @@ body {
     font-weight: 500;
 }
 /* preQuiz.partial.html */
-.bodyContent .line_item_1 .opaque,
+
+/*.bodyContent .line_item_1 .opaque,
 .bodyContent .line_item_2 .opaque,
 .bodyContent .line_item_3 .opaque,
 .bodyContent .line_item_4 .opaque,
-.bodyContent .line_item_5 .opaque,
+.bodyContent .line_item_5 .opaque {
+}
+*/
+.bodyContent .disclaimer .standard {
+    opacity:  .5;
+    font-size: 20px;
+    font-weight: 400;
+}
 /* 1-1.partial.html */
 .bodyContent .line_item_1 .standard,
 .bodyContent .line_item_2 .standard,
@@ -73,7 +81,7 @@ body {
 .col-xs-9 strong {
     padding-right: .5em;
 }
-.btn {
+/*.btn {
   background: #2ec8a3;
   background-image: -webkit-linear-gradient(top, #2ec8a3, #2ec8a3);
   background-image: -moz-linear-gradient(top, #2ec8a3, #2ec8a3);
@@ -105,7 +113,7 @@ body {
 .btn a {
     color: #fff;
     text-decoration: none;
-}
+}*/
 .footer .container .text-muted,
 .footer .container .notify {
     display: block;
@@ -185,18 +193,9 @@ ul {
 
 .searchResults ul {
     padding-left: 0;
-    margin-top: 20px;
 }
 
 .searchContainer input {
     border: 3px solid green;
     font-size: 1.4em;
-}
-
-.searchArea {
-    min-height: 200px;
-}
-
-.county {
-    margin-top: 20px;
 }
