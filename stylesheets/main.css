@@ -116,6 +116,14 @@ body {
     color: #fff;
     text-decoration: none;
 }*/
+/*button a:hover {
+    text-decoration: none;
+}*//* override underline */
+button a:focus, button a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}/* button underline */
+
 .footer .container .text-muted,
 .footer .container .notify {
     display: block;
