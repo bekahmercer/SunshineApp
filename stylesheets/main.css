@@ -65,7 +65,7 @@ body {
 .bodyContent .line_item_5 .opaque {
 }
 */
-.bodyContent .disclaimer .standard {
+.bodyContent .row .standard {
     opacity:  .5;
     font-size: 20px;
     font-weight: 400;
@@ -116,13 +116,18 @@ body {
     color: #fff;
     text-decoration: none;
 }*/
-/*button a:hover {
+
+.btn-lg a {
     text-decoration: none;
-}*//* override underline */
-button a:focus, button a:hover {
-    color: #23527c;
-    text-decoration: underline;
-}/* button underline */
+}/* override bootstrap button underline */
+.btn-lg {
+    margin-left: 35%;
+    margin-right: 30%;
+}/* center button, trial and error */
+/*.pre-quiz {
+    margin-left: 0;
+    margin-right: 0;
+}*//* center button on prequiz page, trial and error */
 
 .footer .container .text-muted,
 .footer .container .notify {
