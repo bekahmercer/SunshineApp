@@ -101,10 +101,10 @@ function routes($routeProvider, $locationProvider) {
       controller: 'FinalSumamryController',
       controllerAs: 'FinalSumCtrl'
   })
-  .when('/test', {
-      templateUrl: './testLookup/test.partial.html',
-      controller: 'TestController',
-      controllerAs: 'TCtrl'
+  .when('/localResources', {
+      templateUrl: './localResources/localResources.partial.html',
+      controller: 'LocalResourcesController',
+      controllerAs: 'LCCtrl'
   })
   
  

@@ -1,47 +1,56 @@
+
 <div class="container-fluid">
-    
     <div class="row">
         <div class="col-sm-12 header">
-            <h2 class="headerText">Links</h2>
+            <h3 class="headerText">Find Local resources</h3>
         </div>
-    </div><!-- .row -->
-  
-  <div class="row">
-    <div class="col-xs-2 escapeBar"><h1>EMERGENCY</h1></div>
+    </div>
+    <!-- .row -->
+    <div class="row">
+        <div class="col-xs-2 escapeBar">
+            <h1>EMERGENCY</h1>
+        </div>
         <div class="col-xs-10">
-          <div class="bodyContent">
-            <br>
-                
-            <div class="line_item_1">
-                <p class="bold">Phone</p>
-                
-            </div><!-- .line_item_1 -->
-            <br>
-                
-            <div class="line_item_2">
-                <p class="bold">See Local Services</p>
-                  
-            </div><!-- .line_item_2 -->
-            <br>
-                
-            <div class="line_item_3">
-                <p class="bold">Address</p>
-                  
-            </div><!-- .line_item_3 -->
-            <br>
-                
-            <div class="line_item_4">
-                <p class="bold">Discription</p>
+            <div class="bodyContent">
+                <br>
+
+
+<div class="searchArea">
+    <div class="searchContainer">
+        <input type="text" ng-model="TCtrl.test" autofocus height="20px" placeholder="Enter a City">
+    </div>
+    <div class="searchResults">
+        <ul ng-repeat="city in citiesList.city | filter: TCtrl.test | limitTo: 1">
+            <li>
+                <div ng-click="TCtrl.showInfo = !TCtrl.showInfo"> {{city.city}}</div>
+                <div class="county" >
+                    <!--ng-show="TCtrl.showInfo"-->
+                    <p>{{city.county}}</p>
                    
-            </div><!-- .line_item_4 -->
-            <br>
-                
-            <div class="line_item_5">
-                <p class="bold">Document</p>
-                   
-            </div><!-- .line_item_5 -->
-            
-          </div><!-- .bodyContent -->
-        </div><!-- .col-xs-10 -->
-  </div><!-- .row -->
-</div><!-- .container-fluid -->
+                </div>
+            </li>
+
+        </ul>
+    </div>
+</div>
+<div>{{resourceArray.resources}}</div>
+<!--<ul class="text-center" ng-repeat="city in citiesList.city">
+    <li>{{city.city}}</li>
+</ul>-->
+<!--<h3>{{citiesList.city}}</h3>-->
+                <div class="row">
+                    <div class="col-xs-3"></div>
+                    <div class="col-xs-6">
+                        <button class="btn"><a href="/1/2">NEXT</a></button>
+                    </div>
+                    <div class="col-xs-3"></div>
+                </div>
+                <br>
+            </div>
+            <!-- .bodyContent -->
+        </div>
+        <!-- .col-xs-10 -->
+    </div>
+    <!-- .row -->
+</div>
+<!-- .container-fluid -->
