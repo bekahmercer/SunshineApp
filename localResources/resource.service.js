@@ -9,6 +9,7 @@
     function ResourceService($http) {
         var service = {resources: null}
         service.resources = resourceList()
+        
         return service
 
         ////////////////

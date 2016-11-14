@@ -10,17 +10,7 @@ function LocalResourcesController($scope, CityService, ResourceService) {
    $scope.citiesList = CityService
    
   $scope.resourceArray = ResourceService
-  console.log($scope.resourceArray)
  
-
-function matchCounty(countyFromCounties) {
-    $scope.resourceArray.resources.forEach(function (countyFromCounties) {
-        if (countyFromCounties == resourceArray.county) {
-            console.log("hello")
-        }
-    })
-}
-
     
     //changes input to lowercase if vm.test has anything input 
     if (vm.test) {
