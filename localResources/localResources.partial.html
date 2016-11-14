@@ -17,12 +17,12 @@
 
 <div class="searchArea">
     <div class="searchContainer">
-        <input type="text" ng-model="TCtrl.test" autofocus height="20px" placeholder="Enter a City">
+        <input type="text" ng-model="LCCtrl.test" autofocus height="20px" placeholder="Enter a City">
     </div>
     <div class="searchResults">
-        <ul ng-repeat="city in citiesList.city | filter: TCtrl.test | limitTo: 1">
+        <ul ng-repeat="city in citiesList.city | filter: LCCtrl.test | limitTo: 1">
             <li>
-                <div ng-click="TCtrl.showInfo = !TCtrl.showInfo"> {{city.city}}</div>
+                <div ng-click="LCCtrl.showInfo = !LCCtrl.showInfo"> {{city.city}}</div>
                 <div class="county" >
                     <!--ng-show="TCtrl.showInfo"-->
                     <p>{{city.county}}</p>
@@ -33,7 +33,7 @@
         </ul>
     </div>
 </div>
-<div>{{resourceArray.resources}}</div>
+<!--<div>{{resourceArray.resources}}</div>-->
 <!--<ul class="text-center" ng-repeat="city in citiesList.city">
     <li>{{city.city}}</li>
 </ul>-->

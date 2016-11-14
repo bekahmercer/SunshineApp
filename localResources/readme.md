@@ -1,1 +1,0 @@
-Links, phone, address's, descrips, of different services available. 
