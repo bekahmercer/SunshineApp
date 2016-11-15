@@ -58,13 +58,6 @@ body {
 }
 /* preQuiz.partial.html */
 
-/*.bodyContent .line_item_1 .opaque,
-.bodyContent .line_item_2 .opaque,
-.bodyContent .line_item_3 .opaque,
-.bodyContent .line_item_4 .opaque,
-.bodyContent .line_item_5 .opaque {
-}
-*/
 .bodyContent .row .standard {
     opacity:  .5;
     font-size: 20px;
@@ -83,51 +76,18 @@ body {
 .col-xs-9 strong {
     padding-right: .5em;
 }
-/*.btn {
-  background: #2ec8a3;
-  background-image: -webkit-linear-gradient(top, #2ec8a3, #2ec8a3);
-  background-image: -moz-linear-gradient(top, #2ec8a3, #2ec8a3);
-  background-image: -ms-linear-gradient(top, #2ec8a3, #2ec8a3);
-  background-image: -o-linear-gradient(top, #2ec8a3, #2ec8a3);
-  background-image: linear-gradient(to bottom, #2ec8a3, #2ec8a3);
-  -webkit-border-radius: 7;
-  -moz-border-radius: 7;
-  border-radius: 7px;
-  text-shadow: 1px 1px 3px #666666;
-  -webkit-box-shadow: 1px 1px 3px #666666;
-  -moz-box-shadow: 1px 1px 3px #666666;
-  box-shadow: 1px 1px 3px #666666;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 22px;
-  padding: 14px 26px 14px 25px;
-  text-decoration: none;
-}
-.btn:hover {
-  background: #2ec8a3;
-  background-image: -webkit-linear-gradient(top, #2ec8a3, #2abb98);
-  background-image: -moz-linear-gradient(top, #2ec8a3, #2abb98);
-  background-image: -ms-linear-gradient(top, #2ec8a3, #2abb98);
-  background-image: -o-linear-gradient(top, #2ec8a3, #2abb98);
-  background-image: linear-gradient(to bottom, #2ec8a3, #2abb98);
-  text-decoration: none;
-}
-.btn a {
-    color: #fff;
-    text-decoration: none;
-}*/
 
 .btn-lg a {
     text-decoration: none;
 }/* override bootstrap button underline */
-.btn-lg {
+.btn-quiz {
     margin-left: 35%;
     margin-right: 30%;
 }/* center button, trial and error */
-/*.pre-quiz {
-    margin-left: 0;
-    margin-right: 0;
-}*//* center button on prequiz page, trial and error */
+.btn-prequiz {
+    margin-left: 30%;
+    margin-right: 50%;
+}/* center button on prequiz page, trial and error */
 
 .footer .container .text-muted,
 .footer .container .notify {
@@ -214,3 +174,20 @@ ul {
     border: 3px solid green;
     font-size: 1.4em;
 }
+
+.bodyContent .line_item_3 p .bold,
+.bodyContent .line_item_3 p .bold .wrap {
+    display: inline;
+}
+
+/* styling to handle word wrap for menu page on smaller screens */
+@media (min-width: 360px) and (max-width: 460px) {
+    .line_item_4 {
+        padding-top: 25px;
+    }
+    span .wrap {
+        padding-left: 15px;
+        padding-top: 25px;
+    }
+}
+
