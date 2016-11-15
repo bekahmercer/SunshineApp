@@ -71,7 +71,6 @@ checkParameters.qs2p5=0;
 
 checkParameters.qs3p1=0;
 checkParameters.qs3p2=0;
-checkParameters.qs3p3=0;
 
 checkParameters.qs1summary=0;
 checkParameters.qs2summary=0;

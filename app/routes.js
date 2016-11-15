@@ -98,7 +98,7 @@ function routes($routeProvider, $locationProvider) {
   })
   .when('/finalSummary', {
       templateUrl: './quiz/finalSummary/finalSummary.partial.html',
-      controller: 'FinalSumamryController',
+      controller: 'FinalSummaryController',
       controllerAs: 'FinalSumCtrl'
   })
   .when('/localResources', {
