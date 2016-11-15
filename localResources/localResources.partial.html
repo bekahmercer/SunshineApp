@@ -19,15 +19,16 @@
                     <div class="searchResults">
                         <ul ng-repeat="city in citiesList.city | filter: LCCtrl.test | limitTo: 1">
                             <li>
-                                <div ng-click="LCCtrl.showInfo = !LCCtrl.showInfo"> {{city.city}}</div>
+                                <div> {{city.city}}</div>
                                 <div class="county">
                                     <!--ng-show="TCtrl.showInfo"-->
                                     <p>{{city.county}}</p>
                                 </div>
                             </li>
-
                         </ul>
+                        
                     </div>
+                    
                 </div>
                 
                 <div class="row">

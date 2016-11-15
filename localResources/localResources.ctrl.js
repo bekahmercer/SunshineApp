@@ -9,7 +9,14 @@ function LocalResourcesController($scope, CityService, ResourceService) {
 
    $scope.citiesList = CityService
    
-  $scope.resourceArray = ResourceService
+  
+
+  $scope.resourceArray = ResourceService.query(function(data) {
+      console.log(data)
+
+  })
+
+  
  
     
     //changes input to lowercase if vm.test has anything input 
