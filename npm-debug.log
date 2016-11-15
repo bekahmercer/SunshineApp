@@ -1,0 +1,220 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', '-g', 'http-server' ]
+2 info using npm@2.15.9
+3 info using node@v4.6.0
+4 verbose install initial load of /usr/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/lib/package.json
+6 silly cache add args [ 'http-server', null ]
+7 verbose cache add spec http-server
+8 silly cache add parsed spec Result {
+8 silly cache add   raw: 'http-server',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'http-server',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: 'latest',
+8 silly cache add   type: 'tag' }
+9 silly addNamed http-server@latest
+10 verbose addNamed "latest" is being treated as a dist-tag for http-server
+11 info addNameTag [ 'http-server', 'latest' ]
+12 silly mapToRegistry name http-server
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry data Result {
+15 silly mapToRegistry   raw: 'http-server',
+15 silly mapToRegistry   scope: null,
+15 silly mapToRegistry   name: 'http-server',
+15 silly mapToRegistry   rawSpec: '',
+15 silly mapToRegistry   spec: 'latest',
+15 silly mapToRegistry   type: 'tag' }
+16 silly mapToRegistry uri https://registry.npmjs.org/http-server
+17 verbose addNameTag registry:https://registry.npmjs.org/http-server not in flight; fetching
+18 verbose request uri https://registry.npmjs.org/http-server
+19 verbose request no auth needed
+20 info attempt registry request try #1 at 21:02:08
+21 verbose request id e796c3972cf53615
+22 http request GET https://registry.npmjs.org/http-server
+23 http 200 https://registry.npmjs.org/http-server
+24 verbose headers { server: 'CouchDB/1.6.1 (Erlang OTP/R16B03)',
+24 verbose headers   etag: '"A2KFLZ1RS3LFE4VGL0NMI4Z3V"',
+24 verbose headers   'content-type': 'application/json',
+24 verbose headers   'content-encoding': 'gzip',
+24 verbose headers   'cache-control': 'max-age=300',
+24 verbose headers   'content-length': '9123',
+24 verbose headers   'accept-ranges': 'bytes',
+24 verbose headers   date: 'Wed, 09 Nov 2016 03:02:09 GMT',
+24 verbose headers   via: '1.1 varnish',
+24 verbose headers   age: '0',
+24 verbose headers   connection: 'keep-alive',
+24 verbose headers   'x-served-by': 'cache-dfw1831-DFW',
+24 verbose headers   'x-cache': 'MISS',
+24 verbose headers   'x-cache-hits': '0',
+24 verbose headers   'x-timer': 'S1478660528.855333,VS0,VE230',
+24 verbose headers   vary: 'Accept-Encoding' }
+25 silly get cb [ 200,
+25 silly get   { server: 'CouchDB/1.6.1 (Erlang OTP/R16B03)',
+25 silly get     etag: '"A2KFLZ1RS3LFE4VGL0NMI4Z3V"',
+25 silly get     'content-type': 'application/json',
+25 silly get     'content-encoding': 'gzip',
+25 silly get     'cache-control': 'max-age=300',
+25 silly get     'content-length': '9123',
+25 silly get     'accept-ranges': 'bytes',
+25 silly get     date: 'Wed, 09 Nov 2016 03:02:09 GMT',
+25 silly get     via: '1.1 varnish',
+25 silly get     age: '0',
+25 silly get     connection: 'keep-alive',
+25 silly get     'x-served-by': 'cache-dfw1831-DFW',
+25 silly get     'x-cache': 'MISS',
+25 silly get     'x-cache-hits': '0',
+25 silly get     'x-timer': 'S1478660528.855333,VS0,VE230',
+25 silly get     vary: 'Accept-Encoding' } ]
+26 verbose get saving http-server to /home/yobo/.npm/registry.npmjs.org/http-server/.cache.json
+27 verbose correctMkdir /home/yobo/.npm correctMkdir not in flight; initializing
+28 silly addNameTag next cb for http-server with tag latest
+29 silly addNamed http-server@0.9.0
+30 verbose addNamed "0.9.0" is a plain semver version for http-server
+31 silly mapToRegistry name http-server
+32 silly mapToRegistry using default registry
+33 silly mapToRegistry registry https://registry.npmjs.org/
+34 silly mapToRegistry data Result {
+34 silly mapToRegistry   raw: 'http-server',
+34 silly mapToRegistry   scope: null,
+34 silly mapToRegistry   name: 'http-server',
+34 silly mapToRegistry   rawSpec: '',
+34 silly mapToRegistry   spec: 'latest',
+34 silly mapToRegistry   type: 'tag' }
+35 silly mapToRegistry uri https://registry.npmjs.org/http-server
+36 verbose addRemoteTarball https://registry.npmjs.org/http-server/-/http-server-0.9.0.tgz not in flight; adding
+37 verbose addRemoteTarball [ 'https://registry.npmjs.org/http-server/-/http-server-0.9.0.tgz',
+37 verbose addRemoteTarball   '8f1b06bdc733618d4dc42831c7ba1aff4e06001a' ]
+38 info retry fetch attempt 1 at 21:02:09
+39 info attempt registry request try #1 at 21:02:09
+40 http fetch GET https://registry.npmjs.org/http-server/-/http-server-0.9.0.tgz
+41 http fetch 200 https://registry.npmjs.org/http-server/-/http-server-0.9.0.tgz
+42 silly fetchAndShaCheck shasum 8f1b06bdc733618d4dc42831c7ba1aff4e06001a
+43 verbose addTmpTarball /tmp/npm-15282-c2a213ee/registry.npmjs.org/http-server/-/http-server-0.9.0.tgz not in flight; adding
+44 verbose addTmpTarball already have metadata; skipping unpack for http-server@0.9.0
+45 verbose correctMkdir /home/yobo/.npm correctMkdir not in flight; initializing
+46 silly cache afterAdd http-server@0.9.0
+47 verbose afterAdd /home/yobo/.npm/http-server/0.9.0/package/package.json not in flight; writing
+48 verbose correctMkdir /home/yobo/.npm correctMkdir not in flight; initializing
+49 verbose afterAdd /home/yobo/.npm/http-server/0.9.0/package/package.json written
+50 silly install resolved [ { name: 'http-server',
+50 silly install resolved     version: '0.9.0',
+50 silly install resolved     description: 'A simple zero-configuration command-line http server',
+50 silly install resolved     main: './lib/http-server',
+50 silly install resolved     repository:
+50 silly install resolved      { type: 'git',
+50 silly install resolved        url: 'git://github.com/indexzero/http-server.git' },
+50 silly install resolved     keywords: [ 'cli', 'command' ],
+50 silly install resolved     scripts:
+50 silly install resolved      { start: 'node ./bin/http-server',
+50 silly install resolved        pretest: 'common bin/http-server lib/ test',
+50 silly install resolved        test: 'vows --spec --isolate' },
+50 silly install resolved     contributors:
+50 silly install resolved      [ [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object],
+50 silly install resolved        [Object] ],
+50 silly install resolved     dependencies:
+50 silly install resolved      { colors: '1.0.3',
+50 silly install resolved        corser: '~2.0.0',
+50 silly install resolved        ecstatic: '^1.4.0',
+50 silly install resolved        'http-proxy': '^1.8.1',
+50 silly install resolved        opener: '~1.4.0',
+50 silly install resolved        optimist: '0.6.x',
+50 silly install resolved        portfinder: '0.4.x',
+50 silly install resolved        union: '~0.4.3' },
+50 silly install resolved     devDependencies: { 'common-style': '^3.0.0', request: '2.49.x', vows: '0.7.x' },
+50 silly install resolved     bugs: { url: 'https://github.com/nodeapps/http-server/issues' },
+50 silly install resolved     license: 'MIT',
+50 silly install resolved     preferGlobal: 'true',
+50 silly install resolved     bin: { 'http-server': './bin/http-server', hs: './bin/http-server' },
+50 silly install resolved     gitHead: '1a8552c5e028bd5500027ee940111133927a4e94',
+50 silly install resolved     homepage: 'https://github.com/indexzero/http-server#readme',
+50 silly install resolved     _id: 'http-server@0.9.0',
+50 silly install resolved     _shasum: '8f1b06bdc733618d4dc42831c7ba1aff4e06001a',
+50 silly install resolved     _from: 'http-server@latest',
+50 silly install resolved     _npmVersion: '3.7.1',
+50 silly install resolved     _nodeVersion: '4.2.2',
+50 silly install resolved     _npmUser: { name: 'indexzero', email: 'charlie.robbins@gmail.com' },
+50 silly install resolved     maintainers: [ [Object] ],
+50 silly install resolved     dist:
+50 silly install resolved      { shasum: '8f1b06bdc733618d4dc42831c7ba1aff4e06001a',
+50 silly install resolved        tarball: 'https://registry.npmjs.org/http-server/-/http-server-0.9.0.tgz' },
+50 silly install resolved     _npmOperationalInternal:
+50 silly install resolved      { host: 'packages-6-west.internal.npmjs.com',
+50 silly install resolved        tmp: 'tmp/http-server-0.9.0.tgz_1455864708425_0.19514421350322664' },
+50 silly install resolved     directories: {},
+50 silly install resolved     _resolved: 'https://registry.npmjs.org/http-server/-/http-server-0.9.0.tgz' } ]
+51 info install http-server@0.9.0 into /usr/lib
+52 info installOne http-server@0.9.0
+53 verbose installOne of http-server to /usr/lib not in flight; installing
+54 verbose correctMkdir /home/yobo/.npm/_locks correctMkdir not in flight; initializing
+55 verbose lock using /home/yobo/.npm/_locks/http-server-92c989ce1dfca3fc.lock for /usr/lib/node_modules/http-server
+56 silly install write writing http-server 0.9.0 to /usr/lib/node_modules/http-server
+57 verbose unbuild lib/node_modules/http-server
+58 info preuninstall http-server@0.9.0
+59 info uninstall http-server@0.9.0
+60 verbose unbuild rmStuff http-server@0.9.0 from /usr/lib/node_modules
+61 silly gentlyRm /usr/bin/http-server is being gently removed
+62 silly gentlyRm verifying /usr is an npm working directory
+63 silly gentlyRm /usr/bin/hs is being gently removed
+64 silly gentlyRm verifying /usr is an npm working directory
+65 silly gentlyRm containing path /usr is under npm's control, in /usr
+66 silly gentlyRm deletion target /usr/bin/http-server is under /usr
+67 verbose gentlyRm vacuuming from /usr/bin/http-server up to /usr
+68 silly gentlyRm containing path /usr is under npm's control, in /usr
+69 silly gentlyRm deletion target /usr/bin/hs is under /usr
+70 verbose gentlyRm vacuuming from /usr/bin/hs up to /usr
+71 silly vacuum-fs removing /usr/bin/http-server
+72 silly vacuum-fs removing /usr/bin/hs
+73 verbose unlock done using /home/yobo/.npm/_locks/http-server-92c989ce1dfca3fc.lock for /usr/lib/node_modules/http-server
+74 verbose stack Error: EACCES: permission denied, unlink '/usr/bin/http-server'
+74 verbose stack     at Error (native)
+75 verbose cwd /home/yobo/Desktop/OK Coders/SunshineApp
+76 error Linux 4.1.34-33-default
+77 error argv "/usr/bin/node" "/usr/bin/npm" "install" "-g" "http-server"
+78 error node v4.6.0
+79 error npm  v2.15.9
+80 error path /usr/bin/http-server
+81 error code EACCES
+82 error errno -13
+83 error syscall unlink
+84 error Error: EACCES: permission denied, unlink '/usr/bin/http-server'
+84 error     at Error (native)
+84 error  { [Error: EACCES: permission denied, unlink '/usr/bin/http-server']
+84 error   errno: -13,
+84 error   code: 'EACCES',
+84 error   syscall: 'unlink',
+84 error   path: '/usr/bin/http-server' }
+85 error Please try running this command again as root/Administrator.
+86 verbose exit [ -13, true ]
+87 verbose unbuild lib/node_modules/http-server
+88 info preuninstall http-server@0.9.0
+89 info uninstall http-server@0.9.0
+90 verbose unbuild rmStuff http-server@0.9.0 from /usr/lib/node_modules
+91 silly gentlyRm /usr/bin/http-server is being gently removed
+92 silly gentlyRm verifying /usr is an npm working directory
+93 silly gentlyRm /usr/bin/hs is being gently removed
+94 silly gentlyRm verifying /usr is an npm working directory
+95 silly gentlyRm containing path /usr is under npm's control, in /usr
+96 silly gentlyRm deletion target /usr/bin/http-server is under /usr
+97 verbose gentlyRm vacuuming from /usr/bin/http-server up to /usr
+98 silly gentlyRm containing path /usr is under npm's control, in /usr
+99 silly gentlyRm deletion target /usr/bin/hs is under /usr
+100 verbose gentlyRm vacuuming from /usr/bin/hs up to /usr
+101 silly vacuum-fs removing /usr/bin/http-server
+102 silly vacuum-fs removing /usr/bin/hs
+103 error error rolling back Error: EACCES: permission denied, unlink '/usr/bin/http-server'
+103 error error rolling back     at Error (native)
+103 error error rolling back  { [Error: EACCES: permission denied, unlink '/usr/bin/http-server']
+103 error error rolling back   errno: -13,
+103 error error rolling back   code: 'EACCES',
+103 error error rolling back   syscall: 'unlink',
+103 error error rolling back   path: '/usr/bin/http-server' }
