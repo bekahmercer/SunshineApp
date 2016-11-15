@@ -28,6 +28,36 @@ checkParameters.cbs1q43;
 checkParameters.cbs1q44;
 checkParameters.cbs1q45;
 
+checkParameters.cbs2q11;
+checkParameters.cbs2q12;
+checkParameters.cbs2q13;
+checkParameters.cbs2q14;
+checkParameters.cbs2q15;
+
+checkParameters.cbs2q21;
+checkParameters.cbs2q22;
+checkParameters.cbs2q23;
+checkParameters.cbs2q24;
+checkParameters.cbs2q25;
+
+checkParameters.cbs2q31;
+checkParameters.cbs2q32;
+checkParameters.cbs2q33;
+checkParameters.cbs2q34;
+checkParameters.cbs2q35;
+
+checkParameters.cbs2q41;
+checkParameters.cbs2q42;
+checkParameters.cbs2q43;
+checkParameters.cbs2q44;
+checkParameters.cbs2q45;
+
+checkParameters.cbs2q51;
+checkParameters.cbs2q52;
+checkParameters.cbs2q53;
+checkParameters.cbs2q54;
+checkParameters.cbs2q55;
+
 checkParameters.qs1p1=0;
 checkParameters.qs1p2=0;
 checkParameters.qs1p3=0;
@@ -36,10 +66,11 @@ checkParameters.qs1p4=0;
 checkParameters.qs2p1=0;
 checkParameters.qs2p2=0;
 checkParameters.qs2p3=0;
+checkParameters.qs2p4=0;
+checkParameters.qs2p5=0;
 
 checkParameters.qs3p1=0;
 checkParameters.qs3p2=0;
-checkParameters.qs3p3=0;
 
 checkParameters.qs1summary=0;
 checkParameters.qs2summary=0;
