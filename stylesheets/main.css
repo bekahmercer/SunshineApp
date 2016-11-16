@@ -25,10 +25,16 @@ body {
   height: 100px;
 }
 .headerText {
+    position: absolute;
+    left: -300px;
   margin-top: 0;
   padding-top: 20px;
   font-weight: 400;
   color: white;
+  animation-name: slideTitle;
+  animation-delay: .25s;
+  animation-duration: 1.5s;
+  animation-fill-mode: forwards;
 }
 .escapeBar {
   background-color: #f8686a;
@@ -191,3 +197,7 @@ ul {
     }
 }
 
+@keyframes slideTitle {
+    from {left: -300px; opacity: 0;}
+    to {left: 20px; opacity: 1;}
+}
