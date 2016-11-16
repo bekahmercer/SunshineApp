@@ -40,11 +40,19 @@ body {
   background-color: #f8686a;
   height: 100vh;
 }
+
+.escapeDiv{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:  translateX(-51%) translateY(-50%) rotate(270deg);
+}
+
 .escapeBar h1 {
-  position: relative;
-  transform: rotate(270deg);
+  /*position: relative;
+  transform: rotate(270deg); */
   color: white;
-  margin-top: 64vh;
+  /*margin-top: 64vh; */
   font-weight: 400;
   white-space: nowrap;
   word-spacing: 25px;
