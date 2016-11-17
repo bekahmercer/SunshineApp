@@ -93,7 +93,8 @@ body {
     padding-right: .5em;
 }
 
-.btn-lg a {
+.btn-lg a,
+a:hover {
     text-decoration: none;
 }/* override bootstrap button underline */
 .btn-quiz {
