@@ -38,7 +38,8 @@ body {
 }
 .escapeBar {
   background-color: #f8686a;
-  height: 100vh;
+  /*height: 100vh;*/
+  height: 100px;
 }
 
 .escapeDiv{
@@ -253,6 +254,15 @@ ul {
         /*color: mediumpurple;*/
     }/* menu line styling */
 }/* change font size to accommodate multiple mobile widths */
+
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}/* set up flexbox for sticky footer */
+.site-content {
+  flex: 1;
+}/* sticky footer styling */
 
 @keyframes slideTitle {
     from {left: -300px; opacity: 0;}
