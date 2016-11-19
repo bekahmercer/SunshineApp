@@ -22,7 +22,8 @@ body {
 }/* questions */
 .header {
   background-color: #8e65ae;
-  height: 100px;
+  /*height: 100px;*/
+  height: 80px;
 }
 .headerText {
     position: absolute;
@@ -38,8 +39,8 @@ body {
 }
 .escapeBar {
   background-color: #f8686a;
-  /*height: 100vh;*/
-  height: 100px;
+  height: 100vh;
+  /*height: 100px;*/
 }
 
 .escapeDiv{
