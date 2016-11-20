@@ -1,6 +1,5 @@
 
 var cities = 
-
 [
   {
     "city": "",
@@ -4225,6 +4224,8 @@ for (var i = 0; i< lowered.length; i++) {
     }
 
 }
+
+
 console.log(lowered)
 
 

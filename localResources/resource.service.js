@@ -7,7 +7,7 @@
 
    
     function ResourceService($resource) {
-        return $resource('../data/resources_temp.json')
+        return $resource('../data/resources.json')
     }
 })();
 
