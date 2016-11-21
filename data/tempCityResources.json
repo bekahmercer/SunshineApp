@@ -1,0 +1,42 @@
+[
+    {
+        "city": "",
+        "county": "",
+        "resource": {
+            "county": "",
+            "name": "",
+            "address": {
+                "city": "",
+                "state": "",
+                "street": " ",
+                "zip": ""
+            },
+            "office": "",
+            "hotline": "",
+            "phone": "",
+            "email1": "",
+            "email2": "",
+            "website": ""
+        }
+    },
+    {
+        "city": "Woodward",
+        "county": "woodward",
+        "resource": {
+            "county": "woodward",
+            "name": "NW Domestic Crisis Service",
+            "address": {
+                "city": "Woodward",
+                "state": "OK",
+                "street": "1323 Kansas",
+                "zip": "73801"
+            },
+            "office": "580-327-6648",
+            "hotline": "580-256-8712",
+            "phone": "888-256-1215",
+            "email1": "woodwardcrisis@sbcglobal.net",
+            "email2": "N/A",
+            "website": "nwdcs@itlnet.net"
+        }
+    }
+]

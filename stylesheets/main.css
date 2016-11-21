@@ -183,16 +183,23 @@ ul {
 .searchResults {
     text-align: center;
     font-size: 1.5em;
+    margin: 5px;
 }
 
 .searchResults ul {
     padding-left: 0;
+    
 }
 
 .searchContainer input {
     border: 3px solid green;
     font-size: 1.4em;
 }
+
+.searchResults p {
+     line-height: 1.25em;
+}
+
 
 .bodyContent .line_item_3 p .bold,
 .bodyContent .line_item_3 p .bold .wrap {

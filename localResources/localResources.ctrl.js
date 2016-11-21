@@ -2,17 +2,17 @@ angular.module('app')
   .controller('LocalResourcesController', LocalResourcesController)
 
 
-LocalResourcesController.$inject = ['$scope', 'CityService', 'ResourceService']
+LocalResourcesController.$inject = ['$scope', 'CityService', 'CityResourceService']
 
-function LocalResourcesController($scope, CityService, ResourceService) {
+function LocalResourcesController($scope, CityService, CityResourceService) {
     vm = this;
 
-   $scope.citiesList = CityService
+   //$scope.citiesList = CityService
    
-  
 
-  $scope.resourceArray = ResourceService.query(function(data) {
+  $scope.CityresourceArray = CityResourceService.query(function(data) {
       console.log(data)
+      $scope.citiesList = data
 
   })
 
@@ -20,7 +20,7 @@ function LocalResourcesController($scope, CityService, ResourceService) {
  
     
     //changes input to lowercase if vm.test has anything input 
-    if (vm.test) {
-        vm.test.toLowerCase()
+    if (vm.testCasing) {
+        vm.testCasing.toLowerCase()
     }
 }

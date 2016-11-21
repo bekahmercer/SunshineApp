@@ -12,7 +12,6 @@
         
         return service;
 
-        ////////////////
         function cityList() {
             $http.get('../data/city_county.json').success(function (data) {
                 service.city = data

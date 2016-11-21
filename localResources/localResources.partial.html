@@ -12,15 +12,19 @@
                 <br>
                 <div class="searchArea">
                     <div class="searchContainer">
-                        <input type="text" ng-model="LCCtrl.test" autofocus height="20px" placeholder="Enter a City">
+                        <input type="text" ng-model="LCCtrl.testCasing" autofocus height="20px" placeholder="Enter a City">
                     </div>
                     <div class="searchResults">
-                        <ul ng-repeat="city in citiesList.city | filter: LCCtrl.test | limitTo: 1">
+                        <ul ng-repeat="city in citiesList | filter: LCCtrl.testCasing | limitTo: 1">
                             <li>
-                                <div> {{city.city}}</div>
+                                <div> City: {{city.city}}</div>
                                 <div class="county">
-                                    <!--ng-show="TCtrl.showInfo"-->
-                                    <p>{{city.county}}</p>
+                                    <p> County: {{city.county}}</p>
+                                    <p>Name: {{city.resource.name}}</p>
+                                    <p>street: {{city.resource.address.street}}</h3>
+                                    <p>City: {{city.resource.address.city}}</p>
+                                    <p>State: {{city.resource.address.state}}</p>
+                                    <p>phone: {{city.resource.phone}}</p>
                                 </div>
                             </li>
                         </ul>
