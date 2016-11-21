@@ -60,7 +60,7 @@ body {
   word-spacing: 25px;
 }
 .bodyContent {
-  margin: 30px 10px 10px 10px;
+  margin: 30px 5px 10px 5px;
   /*border: 1px solid blue;*/
 }
 /*
@@ -202,16 +202,15 @@ ul {
 }
 
 .searchResults p {
-     line-height: 1.25em;
+     line-height: 1em;
 }
-.addressTitle {
+
+.addressData {
+    margin-top: 20px;
+    margin-left: 2px;
     float: left;
     font-size: .75em;
-}
-.addressData {
-    margin-left: 2px;
-    float: right;
-    font-size: .75em;
+    max-width: 250px;
 }
 
 

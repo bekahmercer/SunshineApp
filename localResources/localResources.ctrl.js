@@ -16,7 +16,6 @@ function LocalResourcesController($scope, CityService, CityResourceService) {
 
   })
 
-  
  
     
     //changes input to lowercase if vm.test has anything input 

@@ -20,6 +20,26 @@
         }
     },
     {
+        "city": "Tulsa",
+        "county": "tulsa",
+        "resource": {
+            "county": "tulsa",
+            "name": "Domestic Violence Intervention Services, Inc.",
+            "address": {
+                "city": "Tulsa",
+                "state": "OK",
+                "street": "1234 ave",
+                "zip": "90210"
+            },
+            "office": "918-585-3163",
+            "hotline": "918-585-3143",
+            "phone": "918-425-0588",
+            "email1": "N/A",
+            "email2": "N/A",
+            "website": "www.dvis.org"
+        }
+    },
+    {
         "city": "Woodward",
         "county": "woodward",
         "resource": {

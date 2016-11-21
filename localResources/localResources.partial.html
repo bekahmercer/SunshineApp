@@ -12,27 +12,27 @@
                 <br>
                 <div class="searchArea">
                     <div class="searchContainer">
-                        <input type="text" ng-model="LCCtrl.testCasing" autofocus height="20px" placeholder="Enter a City">
+                        <input type="text" ng-model="LCCtrl.testCasing" autofocus height="20px" placeholder="Enter your City">
                     </div>
                     <div class="searchResults">
                         <ul ng-repeat="city in citiesList | filter: LCCtrl.testCasing | limitTo: 1">
                             <li>
-                                <div>City: {{city.city}}</div>
-                                <div class="addressTitle">
-                                    <p>County: </p>
-                                    <p>Name: </p>
-                                    <p>street: </h3>
-                                    <p>City:</p>
-                                    <p>State: </p>
-                                    <p>phone:</p>
-                                    </div>
-                                    <div class="addressData">
-                                    <p>{{city.county}}</p>
-                                    <p>{{city.resource.name}}</p>
-                                    <p>{{city.resource.address.street}}</h3>
-                                    <p>{{city.resource.address.city}}</p>
-                                    <p>{{city.resource.address.state}}</p>
-                                    <p>{{city.resource.phone}}</p>
+                                
+                                <div class="addressData" ng-show="LCCtrl.testCasing.length">
+                                    
+                                    <h4>{{city.resource.name}}</h4>
+                                    <p>{{city.resource.address.street}}</p>
+                                    <p>{{city.resource.address.city}}, {{city.resource.address.state}}</p>
+                                    <p>Phone: {{city.resource.phone}}</p>
+                                    <p>Office Phone: <a ng-href="tel:{{city.resource.office}}">{{city.resource.office}}</a></p>
+                                    <p>Hotline: <a ng-href="tel:{{city.resource.hotline}}">{{city.resource.hotline}}</a></p>
+                                    <p>email 1: <a ng-href="mailTo:{{city.resource.email1}}">{{city.resource.email1}}</a></p>
+                                    <p>email 2: <a ng-href="mailTo:{{city.resource.email2}}">{{city.resource.email2}}</a></p>
+                                    <p>Website: <a ng-href="http://{{city.resource.website}}">{{city.resource.website}}</a></p>
+                                    
+                                    
+                                    
+                                    
                                 </div>
                             </li>
                         </ul>
