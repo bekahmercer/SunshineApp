@@ -17,14 +17,22 @@
                     <div class="searchResults">
                         <ul ng-repeat="city in citiesList | filter: LCCtrl.testCasing | limitTo: 1">
                             <li>
-                                <div> City: {{city.city}}</div>
-                                <div class="county">
-                                    <p> County: {{city.county}}</p>
-                                    <p>Name: {{city.resource.name}}</p>
-                                    <p>street: {{city.resource.address.street}}</h3>
-                                    <p>City: {{city.resource.address.city}}</p>
-                                    <p>State: {{city.resource.address.state}}</p>
-                                    <p>phone: {{city.resource.phone}}</p>
+                                <div>City: {{city.city}}</div>
+                                <div class="addressTitle">
+                                    <p>County: </p>
+                                    <p>Name: </p>
+                                    <p>street: </h3>
+                                    <p>City:</p>
+                                    <p>State: </p>
+                                    <p>phone:</p>
+                                    </div>
+                                    <div class="addressData">
+                                    <p>{{city.county}}</p>
+                                    <p>{{city.resource.name}}</p>
+                                    <p>{{city.resource.address.street}}</h3>
+                                    <p>{{city.resource.address.city}}</p>
+                                    <p>{{city.resource.address.state}}</p>
+                                    <p>{{city.resource.phone}}</p>
                                 </div>
                             </li>
                         </ul>

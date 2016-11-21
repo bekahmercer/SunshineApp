@@ -102,6 +102,7 @@ a:hover {
 .btn-quiz {
     margin-left: 35%;
     margin-right: 30%;
+    clear: both;
 }/* center button, trial and error */
 .btn-prequiz {
     margin-left: 30%;
@@ -181,23 +182,36 @@ ul {
 }
 
 .searchResults {
-    text-align: center;
+    
     font-size: 1.5em;
     margin: 5px;
+    min-width: 150px;
+    min-height: 230px
 }
 
 .searchResults ul {
     padding-left: 0;
+    
     
 }
 
 .searchContainer input {
     border: 3px solid green;
     font-size: 1.4em;
+    
 }
 
 .searchResults p {
      line-height: 1.25em;
+}
+.addressTitle {
+    float: left;
+    font-size: .75em;
+}
+.addressData {
+    margin-left: 2px;
+    float: right;
+    font-size: .75em;
 }
 
 
