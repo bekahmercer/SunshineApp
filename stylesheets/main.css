@@ -289,3 +289,9 @@ ul {
     from {left: -300px; opacity: 0;}
     to {left: 20px; opacity: 1;}
 }
+
+.home_menu {
+    text-align: center;
+    font-size: 22px;
+}/* home page styling */
+
