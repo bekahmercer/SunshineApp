@@ -10,11 +10,11 @@ function LocalResourcesController($scope, CityService, CityResourceService) {
    //$scope.citiesList = CityService
    
 
-  $scope.CityresourceArray = CityResourceService.query(function(data) {
-      console.log(data)
+ $scope.CityresourceArray = CityResourceService.query(CitiesListFunc)
+     
+     function CitiesListFunc (data) {
       $scope.citiesList = data
-
-  })
+        }
 
  
     
