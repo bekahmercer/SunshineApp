@@ -21,7 +21,7 @@ body {
     line-height: 1.4;
 }/* questions */
 .header {
-  background-color: #8e65ae;
+  background-color: #368EC4;
   /*height: 100px;*/
   height: 80px;
 }
@@ -100,10 +100,20 @@ a:hover {
     text-decoration: none;
 }/* override bootstrap button underline */
 .btn-quiz {
+    border: none;
+    background-color: #368EC4;
     margin-left: 35%;
     margin-right: 30%;
     clear: both;
-}/* center button, trial and error */
+}
+.btn-quiz:hover {
+    background-color: #387FAA;
+   
+}
+.btn-quiz a {
+    color: white;
+}
+/* center button, trial and error */
 .btn-prequiz {
     margin-left: 30%;
     margin-right: 50%;
@@ -132,7 +142,7 @@ a:hover {
     bottom: 0;
     width: 100%;
     height: 60px;
-    background-color: #646464;
+    background-color: #387FAA;
 }
 
 .footerText {
@@ -142,7 +152,7 @@ a:hover {
   font-size: 1.25em;
 }
 .text-right {
-    color: #83cbc4;
+    color: #F8F676;
 }
 
 /*** custom checkboxes ***/
@@ -196,7 +206,7 @@ ul {
 }
 
 .searchContainer input {
-    border: 3px solid green;
+    border: 3px solid #368EC4;
     font-size: 1.4em;
     
 }
