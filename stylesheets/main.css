@@ -8,14 +8,19 @@
 body {
     font-family: 'Roboto', serif;
 }
+
+h5 {
+    color: black;
+    font-size: 1.15em;
+}
+
 /*h3.headerText {
     font-weight: 500;
     font-size: 0;*//* reset setting from less.css */
 /*    font-size: 32px;
 }*/
 .bodyContent p {
-    line-height: 0;
-    /*font-size: 1em;*/
+    font-size: .9em;
 }/* end of page */
 .col-xs-9 {
     line-height: 1.4;
