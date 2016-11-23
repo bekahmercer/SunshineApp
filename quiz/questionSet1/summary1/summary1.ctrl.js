@@ -13,16 +13,16 @@ vm.total = CheckService.qs1summary;
 if(vm.total>=0 && vm.total<=9)
 {
 vm.scale = "success";
-vm.riskm = "You are in low risk";
+vm.riskm = "You don't have many relationship risk factors.";
 }
 else if (vm.total>=10 & vm.total<=19)
 {
 vm.scale = "warning";
-vm.riskm = "Your risk is moderate";
+vm.riskm = "You have a some risk factors to consider.";
 }
 else {
 vm.scale = "danger";
-vm.riskm = "You really are in high risk";
+vm.riskm = "You have several risk factors to consider.";
 }
 
 }
