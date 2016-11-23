@@ -7,6 +7,6 @@
 
    
     function CityResourceService($resource) {
-        return $resource('../data/tempCityResources.json')
+        return $resource('../data/resourcesData.json')
     }
 })();
