@@ -9,6 +9,10 @@ vm = this;
 CheckService.qs1summary = (CheckService.qs1p1 + CheckService.qs1p2 + CheckService.qs1p3 + CheckService.qs1p4);
 vm.total = CheckService.qs1summary;
 
+$scope.getPercentage = function(maxVal)
+{
+return ((vm.total/maxVal)*100);
+}
 
 if(vm.total>=0 && vm.total<=9)
 {
