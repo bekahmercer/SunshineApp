@@ -8,14 +8,20 @@
 body {
     font-family: 'Roboto', serif;
 }
+
+h5 {
+    color: black;
+    font-size: 1.15em;
+}
+
 /*h3.headerText {
     font-weight: 500;
     font-size: 0;*//* reset setting from less.css */
 /*    font-size: 32px;
 }*/
 .bodyContent p {
-    line-height: 0;
-    /*font-size: 1em;*/
+    font-size: .9em;
+    
 }/* end of page */
 .col-xs-9 {
     line-height: 1.4;
@@ -61,20 +67,9 @@ body {
 }
 .bodyContent {
   margin: 30px 5px 10px 5px;
-  /*border: 1px solid blue;*/
+  min-height: 500px;
 }
-/*
-.bodyContent .line_item_1 .bold,
-.bodyContent .line_item_2 .bold,
-.bodyContent .line_item_3 .bold,
-.bodyContent .line_item_4 .bold,
-.bodyContent .line_item_5 .bold {
-    line-height: 1px;
-    font-size: 26px;
-    font-weight: 500;
-}
-*/
-/* preQuiz.partial.html */
+
 
 .bodyContent .row .standard {
     opacity:  .5;
@@ -245,8 +240,7 @@ ul {
 }/* change font size to accommodate multiple mobile widths */
 @media (min-width: 321px) and (max-width: 375px) {
     .row .bodyContent {
-        font-size: 14px;
-        /*color: green;*/        
+        font-size: 14px;       
     }/* quiz line styling */
     .row .line_item_1,
     .row .line_item_2,
@@ -254,13 +248,12 @@ ul {
     .row .line_item_4,
     .row .line_item_5 {
         font-size: 18px;
-        /*color: lightgreen;*/
     }/* menu line styling */
 }/* change font size to accommodate multiple mobile widths */
 @media (min-width: 376px) and (max-width: 415px) {
     .row .bodyContent {
         font-size: 16px;
-        /*color: orange;*/        
+       
     }/* quiz line styling */
     .row .line_item_1,
     .row .line_item_2,
@@ -268,13 +261,13 @@ ul {
     .row .line_item_4,
     .row .line_item_5 {
         font-size: 20px;
-        /*color: yellow;*/
+
     }/* menu line styling */
 }/* change font size to accommodate multiple mobile widths */
 @media (min-width: 416px) {
     .row .bodyContent {
         font-size: 18px;
-        /*color: purple;*/        
+        
     }/* quiz line styling */
     .row .line_item_1,
     .row .line_item_2,
@@ -282,7 +275,7 @@ ul {
     .row .line_item_4,
     .row .line_item_5 {
         font-size: 22px;
-        /*color: mediumpurple;*/
+
     }/* menu line styling */
 }/* change font size to accommodate multiple mobile widths */
 
