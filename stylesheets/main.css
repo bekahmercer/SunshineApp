@@ -78,10 +78,47 @@ h5 {
 .bodyContent .line_item_3 .standard,
 .bodyContent .line_item_4 .standard,
 .bodyContent .line_item_5 .standard {
-    opacity:  1;
     font-size: 16px;
     font-weight: 400;
+    
 }
+
+.menu1{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 2s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu2{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 3s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu3{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 4s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu4 {
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 5s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu5{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 6s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+
 .col-xs-9 strong {
     padding-right: .5em;
 }
@@ -196,20 +233,18 @@ ul {
 
 .searchResults ul {
     padding-left: 0;
-    
-    
 }
-
 .searchContainer input {
     border: 3px solid #368EC4;
     font-size: 1.4em;
-    
 }
 
 .searchResults p {
      line-height: 1em;
 }
-
+.searchArea {
+    margin-top: 30px;
+}
 .addressData {
     margin: auto;
     margin-top: 50px;
@@ -287,10 +322,7 @@ ul {
   flex: 1;
 }/* sticky footer styling */
 
-@keyframes slideTitle {
-    from {left: -300px; opacity: 0;}
-    to {left: 20px; opacity: 1;}
-}
+
 
 .home_menu {
     text-align: center;
@@ -314,4 +346,14 @@ input:focus {
   color: #333;
   background-color: #387FAA;
   border-color: #8c8c8c;
+}
+
+@keyframes slideTitle {
+    from {left: -300px; opacity: 0;}
+    to {left: 20px; opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
 }
