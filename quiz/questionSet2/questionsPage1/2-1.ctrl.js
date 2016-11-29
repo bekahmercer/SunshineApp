@@ -7,6 +7,10 @@ function TwoOneController ($scope, CheckService) {
 
 var vm = this;
 
+vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
+
 vm.cbs2q11 = CheckService.cbs2q11; 
 vm.cbs2q12 = CheckService.cbs2q12;
 vm.cbs2q13 = CheckService.cbs2q13;

@@ -7,6 +7,9 @@ function OneTwoController($scope, CheckService) {
 
 var vm = this;
 
+  vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
  //Reads the status of the checkbox from service if this one has been assigned values, is empty by default
 vm.cbs1q21 = CheckService.cbs1q21;
 vm.cbs1q22 = CheckService.cbs1q22;

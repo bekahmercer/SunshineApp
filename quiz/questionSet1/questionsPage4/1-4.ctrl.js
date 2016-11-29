@@ -7,6 +7,10 @@ function OneFourController($scope, CheckService) {
 
 var vm = this;
 
+vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
+
  //Reads the status of the checkbox from service if this one has been assigned values, is empty by default
     
 //cbs1q11 == cb set 1 page 1 question 1

@@ -9,6 +9,10 @@ function ThreeOneController($scope, CheckService) {
 
 var vm = this;
 
+vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
+
 vm.cbs3q11 = CheckService.cbs3q11;
 vm.cbs3q12 = CheckService.cbs3q12;
 vm.cbs3q13 = CheckService.cbs3q13;
