@@ -106,6 +106,12 @@ function routes($routeProvider, $locationProvider) {
       controller: 'LocalResourcesController',
       controllerAs: 'LCCtrl'
   })
+  .when('/faq', {
+      templateUrl: './faqs/faqs.partial.html',
+      controller: 'FaqController',
+      controllerAs: 'FCtrl'
+  })
+
   .otherwise({
       redirectTo: '/'
   })
