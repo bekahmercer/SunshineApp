@@ -211,9 +211,8 @@ ul {
 }
 
 .addressData {
-    margin-top: 20px;
-    margin-left: 2px;
-    float: left;
+    margin: auto;
+    margin-top: 50px;
     font-size: .75em;
     max-width: 250px;
 }
