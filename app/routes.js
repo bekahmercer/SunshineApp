@@ -106,7 +106,9 @@ function routes($routeProvider, $locationProvider) {
       controller: 'LocalResourcesController',
       controllerAs: 'LCCtrl'
   })
-  
+  .otherwise({
+      redirectTo: '/'
+  })
  
 /*  $locationProvider.html5Mode({
 

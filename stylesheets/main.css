@@ -9,16 +9,15 @@ body {
     font-family: 'Roboto', serif;
 }
 
+h4 {
+    color: #368EC4;
+}
+
 h5 {
-    color: black;
+    color: #368EC4;
     font-size: 1.15em;
 }
 
-/*h3.headerText {
-    font-weight: 500;
-    font-size: 0;*//* reset setting from less.css */
-/*    font-size: 32px;
-}*/
 .bodyContent p {
     font-size: .9em;
     
@@ -32,15 +31,16 @@ h5 {
   height: 80px;
 }
 .headerText {
+    max-width: 300px;
     position: absolute;
-    left: -300px;
+    left: -375px;
   margin-top: 0;
   padding-top: 20px;
   font-weight: 400;
   color: white;
   animation-name: slideTitle;
-  animation-delay: .25s;
-  animation-duration: 1.5s;
+  animation-delay: .40s;
+  animation-duration: 1.8s;
   animation-fill-mode: forwards;
 }
 .escapeBar {
@@ -68,6 +68,7 @@ h5 {
 .bodyContent {
   margin: 30px 5px 10px 5px;
   min-height: 600px;
+  color: #777777;
 }
 
 
@@ -82,7 +83,7 @@ h5 {
 .bodyContent .line_item_3 .standard,
 .bodyContent .line_item_4 .standard,
 .bodyContent .line_item_5 .standard {
-    opacity:  .5;
+    opacity:  1;
     font-size: 16px;
     font-weight: 400;
 }
@@ -298,3 +299,6 @@ ul {
     font-size: 22px;
 }/* home page styling */
 
+input:focus {
+    outline-width: 0;
+}
