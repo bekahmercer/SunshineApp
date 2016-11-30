@@ -45,9 +45,9 @@ h5 {
 }
 .escapeBar {
   background-color: #f8686a;
-  height: 84vh;
+  height: 86vh;
   margin-top: 70px;
-  border-right: 4px solid #337ab7;
+  border-right: 3px solid #337ab7;
 }
 
 .escapeDiv{
@@ -89,35 +89,35 @@ h5 {
 .menu1{
     opacity: 0;
     animation-name: fadeIn;
-    animation-delay: 2s;
+    animation-delay: 1.5s;
     animation-duration: 1.8s;
     animation-fill-mode: forwards;
 }
 .menu2{
     opacity: 0;
     animation-name: fadeIn;
-    animation-delay: 3s;
+    animation-delay: 2.5s;
     animation-duration: 1.8s;
     animation-fill-mode: forwards;
 }
 .menu3{
     opacity: 0;
     animation-name: fadeIn;
-    animation-delay: 4s;
+    animation-delay: 3.5s;
     animation-duration: 1.8s;
     animation-fill-mode: forwards;
 }
 .menu4 {
     opacity: 0;
     animation-name: fadeIn;
-    animation-delay: 5s;
+    animation-delay: 4.5s;
     animation-duration: 1.8s;
     animation-fill-mode: forwards;
 }
 .menu5{
     opacity: 0;
     animation-name: fadeIn;
-    animation-delay: 6s;
+    animation-delay: 5.5s;
     animation-duration: 1.8s;
     animation-fill-mode: forwards;
 }
@@ -171,7 +171,7 @@ a:hover {
     font-weight: 400;
 }
 .headerBar {
-    z-index: 999;
+    z-index: +999;
 }
 .headerBar,
 .footer,
@@ -185,7 +185,7 @@ footer {
     width: 100%;
 }
 .footer {
-    /*bottom: 0;*/
+    bottom: 0;
     height: 60px;
     background-color: #387FAA;
 }
@@ -377,4 +377,8 @@ body {
 @keyframes fadeIn {
     from {opacity: 0;}
     to {opacity: 1;}
+}
+
+.progress {
+    position: relative;
 }
