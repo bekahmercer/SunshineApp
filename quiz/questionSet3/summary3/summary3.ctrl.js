@@ -6,11 +6,17 @@ SummaryThreeController.$inject = ['$scope', 'CheckService'];
 function SummaryThreeController ($scope, CheckService) {
     vm = this;
 
+$scope.getPercentage = function(maxVal)
+{
+return ((vm.total/maxVal)*100);
+}
+
+
 CheckService.qs3summary = (CheckService.qs3p1 + CheckService.qs3p2);
 vm.total = CheckService.qs3summary;
 
-vm.pbar1 = CheckService.qs3p1;
-vm.pbar2 = CheckService.qs3p2;
+/*vm.pbar1 = CheckService.qs3p1;
+vm.pbar2 = CheckService.qs3p2;*/
 
  if(CheckService.qs3p1>=0 && CheckService.qs3p1<=2)
 {
