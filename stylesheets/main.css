@@ -338,6 +338,22 @@ ul {
 }/* sticky footer styling */
 
 
+/* Contact Form */
+#contactform{
+    margin: 0 auto;
+    display: block;
+    width: 98%;
+}
+
+#signup{
+    text-decoration: none;
+    color:white;
+}
+
+#signup:visited{
+    color: white;
+}
+
 .home_menu {
     text-align: center;
     font-size: 22px;

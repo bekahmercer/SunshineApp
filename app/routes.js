@@ -111,6 +111,11 @@ function routes($routeProvider, $locationProvider) {
       controller: 'FaqController',
       controllerAs: 'FCtrl'
   })
+  .when('/contact', {
+      templateUrl: './menu/contact.partial.html',
+      controller: 'ContactController',
+      controllerAs: 'CCtrl'
+  })
 
   .otherwise({
       redirectTo: '/'
