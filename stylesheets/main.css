@@ -45,8 +45,9 @@ h5 {
 }
 .escapeBar {
   background-color: #f8686a;
-  min-height: 110vh;
-  border-right: 4px solid #368EC4;
+  height: 84vh;
+  margin-top: 70px;
+  border-right: 4px solid #337ab7;
 }
 
 .escapeDiv{
@@ -67,8 +68,9 @@ h5 {
   
 }
 .bodyContent {
-  margin: 30px 5px 10px 5px;
-  min-height: 525px;
+  margin: 100px 5px 10px 5px;
+  /*min-height: 525px;*/
+  max-height: 100%;
   color: #777777;
 }
 
@@ -78,47 +80,10 @@ h5 {
 .bodyContent .line_item_3 .standard,
 .bodyContent .line_item_4 .standard,
 .bodyContent .line_item_5 .standard {
+    opacity:  1;
     font-size: 16px;
     font-weight: 400;
-    
 }
-
-.menu1{
-    opacity: 0;
-    animation-name: fadeIn;
-    animation-delay: 2s;
-    animation-duration: 1.8s;
-    animation-fill-mode: forwards;
-}
-.menu2{
-    opacity: 0;
-    animation-name: fadeIn;
-    animation-delay: 3s;
-    animation-duration: 1.8s;
-    animation-fill-mode: forwards;
-}
-.menu3{
-    opacity: 0;
-    animation-name: fadeIn;
-    animation-delay: 4s;
-    animation-duration: 1.8s;
-    animation-fill-mode: forwards;
-}
-.menu4 {
-    opacity: 0;
-    animation-name: fadeIn;
-    animation-delay: 5s;
-    animation-duration: 1.8s;
-    animation-fill-mode: forwards;
-}
-.menu5{
-    opacity: 0;
-    animation-name: fadeIn;
-    animation-delay: 6s;
-    animation-duration: 1.8s;
-    animation-fill-mode: forwards;
-}
-
 .col-xs-9 strong {
     padding-right: .5em;
 }
@@ -165,14 +130,25 @@ a:hover {
     margin-top: -45px;
     font-weight: 400;
 }
-.footer {
-    position: relative;
-    bottom: 0;
+.headerBar {
+    z-index: 999;
+}
+.headerBar,
+.footer,
+footer {
+    display: block;
+}
+.headerBar,
+.footer,
+footer {
+    position: fixed;
     width: 100%;
+}
+.footer {
+    /*bottom: 0;*/
     height: 60px;
     background-color: #387FAA;
 }
-
 .footerText {
   color: white;
   margin-top: 15px;
@@ -234,6 +210,7 @@ ul {
 .searchResults ul {
     padding-left: 0;
 }
+
 .searchContainer input {
     border: 3px solid #368EC4;
     font-size: 1.4em;
@@ -242,16 +219,14 @@ ul {
 .searchResults p {
      line-height: 1em;
 }
-.searchArea {
-    margin-top: 30px;
-}
+
 .addressData {
-    margin: auto;
-    margin-top: 50px;
+    margin-top: 20px;
+    margin-left: 2px;
+    float: left;
     font-size: .75em;
     max-width: 250px;
 }
-
 
 .bodyContent .line_item_3 p .bold,
 .bodyContent .line_item_3 p .bold .wrap {
@@ -322,7 +297,10 @@ ul {
   flex: 1;
 }/* sticky footer styling */
 
-
+@keyframes slideTitle {
+    from {left: -300px; opacity: 0;}
+    to {left: 20px; opacity: 1;}
+}
 
 .home_menu {
     text-align: center;
@@ -333,27 +311,6 @@ ul {
 input:focus {
     outline-width: 0;
 }
-
-.btn-default:active:hover,
-.btn-default.active:hover,
-.open > .dropdown-toggle.btn-default:hover,
-.btn-default:active:focus,
-.btn-default.active:focus,
-.open > .dropdown-toggle.btn-default:focus,
-.btn-default:active.focus,
-.btn-default.active.focus,
-.open > .dropdown-toggle.btn-default.focus {
-  color: #333;
-  background-color: #387FAA;
-  border-color: #8c8c8c;
-}
-
-@keyframes slideTitle {
-    from {left: -300px; opacity: 0;}
-    to {left: 20px; opacity: 1;}
-}
-
-@keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity: 1;}
+body {
+    width: 100%;
 }
