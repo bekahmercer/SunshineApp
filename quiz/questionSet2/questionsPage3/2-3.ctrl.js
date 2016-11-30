@@ -6,6 +6,10 @@ TwoThreeController.$inject = ['$scope', 'CheckService'];
 function TwoThreeController ($scope, CheckService) {
     vm = this;
 
+    vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
+
 vm.cbs2q31 = CheckService.cbs2q31; 
 vm.cbs2q32 = CheckService.cbs2q32;
 vm.cbs2q33 = CheckService.cbs2q33;

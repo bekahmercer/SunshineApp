@@ -1,4 +1,6 @@
 
+var fs = require('fs');
+
 var cities = 
 [
   {
@@ -4225,8 +4227,10 @@ for (var i = 0; i< lowered.length; i++) {
 
 }
 
-
-console.log(lowered)
+fs.writeFile('test.json', JSON.stringify(lowered), 'utf8', (err) => {
+  if (err) throw err;
+  console.log('It\'s saved!');
+});
 
 
 

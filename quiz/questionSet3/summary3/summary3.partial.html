@@ -6,8 +6,8 @@
     </div>
     <!-- .row -->
     <div class="row">
-        <a href="/"><div class="col-xs-2 escapeBar"><div class="escapeDiv"><h1>EMERGENCY ESCAPE</h1></div></div></a>
-        <div class="col-xs-10">
+        <a href="/"><div class="col-xs-2 col-md-1 escapeBar"><div class="escapeDiv"><h1>EMERGENCY ESCAPE</h1></div></div></a>
+        <div class="col-xs-10 col-md-11">
             <div class="bodyContent">
 
 
@@ -29,7 +29,7 @@
  <h4> Do Not Let This Stop You — Help Is Available </h4>
 
                 <br>
-                <h1>Your score for the third set of questions is: {{SumThreeCtrl.total}}</h1>
+                <h2>Your score for the third set of questions is: {{SumThreeCtrl.total}}</h2>
                 <!--<button class="btn btn-default btn-lg btn-quiz"><a href="/finalSummary">NEXT</a></button>-->
                   
   <br><br>
@@ -66,5 +66,5 @@
 </div>
 <!-- .container-fluid -->
 
-<button class="btn btn-default btn-lg btn-quiz"><a href="/finalSummary">NEXT</a></button>
+<button class="btn btn-default btn-lg btn-quiz" ng-click="SumThreeCtrl.scrollUp()"><a href="/finalSummary">NEXT</a></button>
 

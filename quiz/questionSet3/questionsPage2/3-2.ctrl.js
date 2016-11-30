@@ -7,6 +7,10 @@ function ThreeTwoController($scope, CheckService) {
     
 
 var vm = this;
+
+vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
    
 vm.cbs3q21 = CheckService.cbs3q21;
 vm.cbs3q22 = CheckService.cbs3q22;

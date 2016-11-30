@@ -7,6 +7,10 @@ function OneOneController($scope, CheckService) {
 
 var vm = this;
 
+  vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
+
 vm.cbs1q11 = CheckService.cbs1q11; //Reads the status of the checkbox from service if this one has been assigned values, is empty by default
 vm.cbs1q12 = CheckService.cbs1q12;
 vm.cbs1q13 = CheckService.cbs1q13;

@@ -3,4 +3,11 @@ angular.module('app')
 
 function PreQuizController() {
   
+  vm = this;
+
+  vm.scrollUp = function() {
+    window.scrollTo(0, 0);
+  }
+
+
 }

@@ -26,16 +26,6 @@
 <body>
     <div ng-view></div>
 
-    <div class="home_menu">            
-        <a class="one" href="/1/1">Go to first page</a>
-        <br>
-        <a class="two" href="/menu">Go to menu</a>
-        <br>
-        <a class="three" href="/prequiz">Go to prequiz</a>
-        <br>
-        <a class="four" href="/localResources">Go to city lookup test</a>
-        <br>
-    </div>
     
     <footer class="footer">
         <div class="container">
@@ -44,7 +34,7 @@
                     <p class="text-mute footerText">Sign up for our .....</p>
                 </div>
                 <div class="col-xs-6x">
-                    <p class="text-right footerText">GET HELP NOW</p>
+                    <p class="text-right footerText"><a ng-href="/localResources">GET HELP NOW</a></p>
                 </div>
             </div>
         </div>
@@ -74,12 +64,11 @@
     <script src="quiz/questionSet3/questionsPage2/3-2.ctrl.js"></script>
     <script src="quiz/questionSet3/summary3/summary3.ctrl.js"></script>
     <script src="quiz/finalSummary/finalSummary.ctrl.js"></script>
-
     <script src="localResources/localResources.ctrl.js"></script>
     <script src="localResources/city.service.js"></script>
     <script src="localResources/resource.service.js"></script>
     <script src="localResources/tempCityResourceService.js"></script>
-    <script src="directives/nextButton.directive.js"></script>
+    <script src="faqs/faqs.ctrl.html"></script>
 
 </body>
 </html>

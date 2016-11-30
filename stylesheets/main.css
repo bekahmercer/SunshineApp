@@ -9,16 +9,15 @@ body {
     font-family: 'Roboto', serif;
 }
 
+h4 {
+    color: #368EC4;
+}
+
 h5 {
-    color: black;
+    color: #368EC4;
     font-size: 1.15em;
 }
 
-/*h3.headerText {
-    font-weight: 500;
-    font-size: 0;*//* reset setting from less.css */
-/*    font-size: 32px;
-}*/
 .bodyContent p {
     font-size: .9em;
     
@@ -32,21 +31,23 @@ h5 {
   height: 80px;
 }
 .headerText {
+    max-width: 300px;
     position: absolute;
-    left: -300px;
+    left: -375px;
   margin-top: 0;
-  padding-top: 20px;
+  padding-top: 15px;
   font-weight: 400;
   color: white;
   animation-name: slideTitle;
-  animation-delay: .25s;
-  animation-duration: 1.5s;
+  animation-delay: .40s;
+  animation-duration: 1.8s;
   animation-fill-mode: forwards;
 }
 .escapeBar {
   background-color: #f8686a;
-  height: 100vh;
-  /*height: 100px;*/
+  height: 84vh;
+  margin-top: 70px;
+  border-right: 4px solid #337ab7;
 }
 
 .escapeDiv{
@@ -64,28 +65,65 @@ h5 {
   font-weight: 400;
   white-space: nowrap;
   word-spacing: 25px;
+  
 }
 .bodyContent {
-  margin: 30px 5px 10px 5px;
-  min-height: 500px;
+  margin: 100px 5px 10px 5px;
+  /*min-height: 525px;*/
+  max-height: 100%;
+  color: #777777;
 }
 
-
-.bodyContent .row .standard {
-    opacity:  .5;
-    font-size: 20px;
-    font-weight: 400;
-}
 /* 1-1.partial.html */
 .bodyContent .line_item_1 .standard,
 .bodyContent .line_item_2 .standard,
 .bodyContent .line_item_3 .standard,
 .bodyContent .line_item_4 .standard,
 .bodyContent .line_item_5 .standard {
-    opacity:  .5;
+    opacity:  1;
     font-size: 16px;
     font-weight: 400;
 }
+
+
+.menu1{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 2s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu2{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 3s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu3{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 4s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu4 {
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 5s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+.menu5{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-delay: 6s;
+    animation-duration: 1.8s;
+    animation-fill-mode: forwards;
+}
+
+
+
 .col-xs-9 strong {
     padding-right: .5em;
 }
@@ -132,21 +170,36 @@ a:hover {
     margin-top: -45px;
     font-weight: 400;
 }
-.footer {
-    position: relative;
-    bottom: 0;
+.headerBar {
+    z-index: 999;
+}
+.headerBar,
+.footer,
+footer {
+    display: block;
+}
+.headerBar,
+.footer,
+footer {
+    position: fixed;
     width: 100%;
+}
+.footer {
+    /*bottom: 0;*/
     height: 60px;
     background-color: #387FAA;
 }
-
 .footerText {
   color: white;
   margin-top: 15px;
   margin-right: 15px;
-  font-size: 1.25em;
+  font-size: 1.1em;
 }
-.text-right {
+p.footerText {
+    margin-bottom: 0;
+}
+
+.text-right a{
     color: #F8F676;
 }
 
@@ -196,14 +249,11 @@ ul {
 
 .searchResults ul {
     padding-left: 0;
-    
-    
 }
 
 .searchContainer input {
     border: 3px solid #368EC4;
     font-size: 1.4em;
-    
 }
 
 .searchResults p {
@@ -217,7 +267,6 @@ ul {
     font-size: .75em;
     max-width: 250px;
 }
-
 
 .bodyContent .line_item_3 p .bold,
 .bodyContent .line_item_3 p .bold .wrap {
@@ -288,13 +337,28 @@ ul {
   flex: 1;
 }/* sticky footer styling */
 
+
+.home_menu {
+    text-align: center;
+    font-size: 22px;
+    min-height: 400px;
+}/* home page styling */
+
+input:focus {
+    outline-width: 0;
+}
+body {
+    width: 100%;
+}
+
+
 @keyframes slideTitle {
     from {left: -300px; opacity: 0;}
     to {left: 20px; opacity: 1;}
 }
 
-.home_menu {
-    text-align: center;
-    font-size: 22px;
-}/* home page styling */
 
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
