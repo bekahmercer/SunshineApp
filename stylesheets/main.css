@@ -377,3 +377,12 @@ input:focus {
 .progress {
     position: relative;
 }
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}/* reset from grid-framework.less */
+
+.container-fluid {
+    padding-left: 0;    
+}/* reset from grid.less */
