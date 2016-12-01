@@ -287,6 +287,7 @@ ul {
         /*color: pink;*/
     }/* menu line styling */
 }/* change font size to accommodate multiple mobile widths */
+
 @media (min-width: 321px) and (max-width: 375px) {
     .row .bodyContent {
         font-size: 14px;       
@@ -299,6 +300,7 @@ ul {
         font-size: 18px;
     }/* menu line styling */
 }/* change font size to accommodate multiple mobile widths */
+
 @media (min-width: 376px) and (max-width: 415px) {
     .row .bodyContent {
         font-size: 16px;
@@ -313,6 +315,7 @@ ul {
 
     }/* menu line styling */
 }/* change font size to accommodate multiple mobile widths */
+
 @media (min-width: 416px) {
     .row .bodyContent {
         font-size: 18px;
