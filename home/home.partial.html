@@ -1,8 +1,56 @@
-<h3>Home: Welcome to the Sunshine App.  Please choose a selection ...</h3>
-
-  <div class="home_menu">            
-        <a class="two" href="/menu">Go to menu</a>
-        <br>
-        <a class="four" href="/localResources">Go to city lookup test</a>
-        <br>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="glyphicon glyphicon-leaf"></span> </button>
+            <a class="navbar-brand" href="/contact"><img id="logo2" src='home/logo2.png' /></a>
+            </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="#event-section">Events <span class="sr-only">(current)</span></a></li>
+                <li><a href="#parks">Parks</a></li>
+                <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-leaf"></span>Additional Info <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/localResources">City Lookup -temp link</a></li>
+                        <li><a href="#">Link 2</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a class="two" href="/menu"><span class="glyphicon glyphicon-leaf"></span>Go to menu</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="http://www.google.com">Google</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
     </div>
+    <!-- /.container-fluid -->
+</nav>
+<div class="container" id="home-section">
+    <div class="row home-row">
+        <div class="col-md-12 top-bg">
+            <h1 id="top-head">We don't remember days,<br> we remember moments.</h1> </div>
+    </div>
+</div>
+<div class="container" id="event-section">
+    <div class="row home-row">
+        <div class="col-md-12 home-bg">
+            <ul>
+                <li class="events" ng-repeat="event in activities | orderBy:random | limitTo: 3 ">
+                    <h2 ng-hide="{{event.activity == ''}}"><i class="fa fa-angle-double-right aria-hidden="true""></i>  {{event.activity}}</h2>
+                    <p ng-hide="{{event.location == ''}}">Location: {{event.location}}</p>
+                    <p ng-hide="{{event.hours == ''}}">Hours: {{event.hours}}</p>
+                    <p ng-hide="{{event.ages == ''}}">Ages: {{event.ages}}</p>
+                    <p ng-hide="{{event.cost == ''}}">Cost: {{event.cost}}</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="container" id="home-section">
+    <div class="row home-row">
+        <div class="col-md-12 bottom-bg">
+            <h1 id="parks">  Another filler section.</h1> </div>
+    </div>
+</div>

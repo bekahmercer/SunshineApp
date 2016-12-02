@@ -1,114 +1,71 @@
-[
+
+   
+   
+   
+   [
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Yoga in the Park",
+    "location": "Myriad Garden Lawn",
+    "hours": "7pm-8pm",
+    "ages": "all ages",
+    "cost": "free",
     "tips": ""
   },
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Moonlight Bike Ride",
+    "location": "Bricktown",
+    "hours": "9pm-10pm",
+    "ages": "all ages",
+    "cost": "free",
     "tips": ""
   },
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Spokies Bike Rental",
+    "location": "Downtown OKC",
+    "hours": "24/7",
+    "ages": "all ages",
+    "cost": "$7/hour",
     "tips": ""
   },
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Random Event 4",
+    "location": "abc street",
+    "hours": "1-3pm",
+    "ages": "21+",
+    "cost": "$10 cover",
     "tips": ""
   },
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Zombie Paintball",
+    "location": "Orr Family Farm",
+    "hours": "2-9pm",
+    "ages": "10+",
+    "cost": "$20",
     "tips": ""
   },
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Mega Cool Event 6",
+    "location": "the world",
+    "hours": "all day",
+    "ages": "all ages",
+    "cost": "free",
     "tips": ""
   },
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Boring Event Number 7",
+    "location": "abc street",
+    "hours": "1-3pm",
+    "ages": "adult only",
+    "cost": "donations",
     "tips": ""
   },
   {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
-    "tips": ""
-  },
-  {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
-    "tips": ""
-  },
-  {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
-    "tips": ""
-  },
-  {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
-    "tips": ""
-  },
-  {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
-    "tips": ""
-  },
-  {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
-    "tips": ""
-  },
-  {
-    "activity": "",
-    "location": "",
-    "hours": "",
-    "ages": "",
-    "cost": "",
+    "activity": "Group Party",
+    "location": "Kelly's House",
+    "hours": "10pm-close",
+    "ages": "21+",
+    "cost": "BYOB",
     "tips": ""
   }
 ]
+    
