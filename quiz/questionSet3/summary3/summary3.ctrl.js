@@ -21,37 +21,23 @@ return ((vm.total/maxVal)*100);
 CheckService.qs3summary = (CheckService.qs3p1 + CheckService.qs3p2);
 vm.total = CheckService.qs3summary;
 
-/*vm.pbar1 = CheckService.qs3p1;
-vm.pbar2 = CheckService.qs3p2;*/
+vm.p1 = CheckService.qs3p1;
+vm.p2 = CheckService.qs3p2;
 
- if(CheckService.qs3p1>=0 && CheckService.qs3p1<=2)
+ if((vm.p1>=0 && vm.p1<=2) && (vm.p2>=0 && vm.p2<=2))
 {
-vm.scale1 = "success";
-vm.riskm1 = "You are in low risk";
+vm.scale = "success";
+vm.riskm = "You don't have many relationship factors";
 }
-else if (CheckService.qs3p1>=3 & CheckService.qs3p1<=4)
+if ((vm.p1>=3 && vm.p1<=4) || (vm.p2>=3 && vm.p2<=4))
 {
-vm.scale1 = "warning";
-vm.riskm1 = "Your risk is moderate";
+vm.scale = "warning";
+vm.riskm = "You have a some risk factors to consider";
 }
-else {
-vm.scale1 = "danger";
-vm.riskm1 = "You really are in high risk";
+if((vm.p1>=5) || (vm.p2>=5))
+{
+vm.scale = "danger";
+vm.riskm = "You have several risk factors to consider";
 }
 
-
- if(CheckService.qs3p2>=0 && CheckService.qs3p2<=2)
-{
-vm.scale2 = "success";
-vm.riskm2 = "You are in low risk";
-}
-else if (CheckService.qs3p2>=3 & CheckService.qs3p2<=4)
-{
-vm.scale2 = "warning";
-vm.riskm2 = "Your risk is moderate";
-}
-else {
-vm.scale2 = "danger";
-vm.riskm2 = "You really are in high risk";
-}
 }
