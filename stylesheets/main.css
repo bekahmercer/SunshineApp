@@ -16,11 +16,12 @@ h4 {
 
 h5 {
     color: #368EC4;
-    font-size: 1.15em;
+    font-size: .9em;
+    margin-bottom: 5px;
 }
 
 .bodyContent p {
-    font-size: .9em;
+    font-size: .8em;
 }
 
 
