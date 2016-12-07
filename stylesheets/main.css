@@ -652,7 +652,6 @@ input:focus {
     padding-left: 0;
 }
 
-.btn-default:active:hover {
-    background-color: #387FAA;
-}
-
+.prequiz_blue h4 {
+    line-height: 1.4;
+}/* prequiz page header in blue text */
