@@ -16,9 +16,12 @@ vm.p4 = CheckService.qs2p4;
 vm.p5 = CheckService.qs2p5;
 
 $scope.getPercentage = function(maxVal)
- {
- return ((vm.total/maxVal)*100);
- }
+{
+vm.pbarData = CheckService.calculatePercentage(maxVal, vm.total);
+ 
+return vm.pbarData
+}
+
 
 
 if((vm.p1>=0 && vm.p1<=2) && (vm.p2>=0 && vm.p2<=2) && (vm.p3>=0 && vm.p3<=2) && (vm.p4>=0 && vm.p4<=2) && (vm.p5>=0 && vm.p5<=2))

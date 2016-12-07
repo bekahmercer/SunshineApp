@@ -6,11 +6,12 @@ SummaryThreeController.$inject = ['$scope', 'CheckService'];
 function SummaryThreeController ($scope, CheckService) {
     vm = this;
 
-
 $scope.getPercentage = function(maxVal)
 {
-return ((vm.total/maxVal)*100);
+vm.pbarData = CheckService.calculatePercentage(maxVal, vm.total);
+return vm.pbarData
 }
+
 
 
     vm.scrollUp = function() {
