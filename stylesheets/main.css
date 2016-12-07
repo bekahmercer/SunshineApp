@@ -79,7 +79,7 @@ h5 {
 }
 
 .bodyContent {
-    margin: 100px 5px 10px 5px;
+    margin: 100px 5px 10px 15px;
     /*min-height: 525px;*/
     max-height: 100%;
     color: #777;
@@ -645,4 +645,9 @@ input:focus {
     color: black;
     padding-top: 10px;
     font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.col-xs-11 {
+    padding-right: 20px;
+    padding-left: 0;
 }
