@@ -16,7 +16,9 @@ vm.total = CheckService.qs1summary;
 
 $scope.getPercentage = function(maxVal)
 {
-return ((vm.total/maxVal)*100);
+vm.pbarData = CheckService.calculatePercentage(maxVal, vm.total);
+
+return vm.pbarData
 }
 
 if(vm.total>=0 && vm.total<=9)

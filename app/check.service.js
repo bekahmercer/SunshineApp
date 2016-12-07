@@ -78,11 +78,11 @@ checkParameters.qs3summary=0;
 
 
 checkParameters.total;
-/*
-checkParameters.getPercentage = function (maxVal)
+
+checkParameters.calculatePercentage = function (maxVal, total)
 {
-return ();
+return ((total/maxVal)*100);
 }
-*/
+
 return checkParameters;
 }
