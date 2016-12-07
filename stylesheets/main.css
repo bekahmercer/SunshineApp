@@ -647,7 +647,7 @@ input:focus {
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-.col-xs-11 {
+.col-xs-11, .col-xs-1{
     padding-right: 20px;
     padding-left: 0;
 }
