@@ -166,17 +166,6 @@ a:hover {
     color: white;
 }
 
-
-/* center button, trial and error */
-
-.btn-prequiz {
-    margin-left: 30%;
-    margin-right: 50%;
-}
-
-
-/* center button on prequiz page, trial and error */
-
 .footer .container .text-muted,
 .footer .container .notify {
     display: block;
