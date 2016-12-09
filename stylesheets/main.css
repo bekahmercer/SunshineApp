@@ -24,6 +24,10 @@ h5 {
     font-size: .8em;
 }
 
+.col-md-11 {
+    width: 80%;
+}/* overwrite from grid-framework.less file */
+
 
 /* end of page */
 
