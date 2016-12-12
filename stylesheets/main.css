@@ -20,9 +20,19 @@ h5 {
     margin-bottom: 5px;
 }
 
-.bodyContent p {
+.bodyContent p,
+.bodyContent ul li {
     font-size: .8em;
 }
+
+.bodyContent ul li {
+    list-style-type: disc;
+}
+
+.bodyContent ul li {
+  list-style-position: outside;
+  padding: 0;
+}/* align word wrap on <li> items left justify */
 
 .col-md-11 {
     width: 80%;
