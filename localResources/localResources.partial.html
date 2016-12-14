@@ -4,7 +4,7 @@
         <div class="col-sm-12 header">
             <h3 class="headerText">Find Local resources</h3>
         </div>
-    </div><!-- .row .headerBar-->
+    </div><!-- .row .headerBar -->
     
     <div class="row">
         <a href="/">
@@ -16,39 +16,39 @@
         </a>
         <div class="col-xs-10 col-md-11">
             <div class="bodyContent">
-                <br><p>To find local resources please enter the nearest city you live in below.</p>
+                <br>
+                <p>To find local resources please enter the nearest city you live in below.</p>
                 <div class="container">
                     <div class="col-md-3"></div>
                     <div class="col-md-6">
-                <div class="searchArea">
-                    <div class="searchContainer">
-                        <input type="text" ng-model="LCCtrl.testCasing" autofocus height="20px" placeholder="Enter your City">
+                        <div class="searchArea">
+                            <div class="searchContainer">
+                                <input type="text" ng-model="LCCtrl.testCasing" autofocus height="20px" placeholder="Enter your City">
+                            </div>
+                            <div class="searchResults">
+                                <ul ng-repeat="city in citiesList | filter: LCCtrl.testCasing | limitTo: 1">
+                                    <li>
+                                        <div class="addressData" ng-show="LCCtrl.testCasing.length">
+                                            <h4>{{city.resource.name}}</h4>
+                                            <p>{{city.resource.address.street}}</p>
+                                            <p>{{city.resource.address.city}}, {{city.resource.address.state}}</p>
+                                            <p ng-hide="{{city.resource.phone == 'N/A'}}">Phone: {{city.resource.phone}}</p>
+                                            <p ng-hide="{{city.resource.office == 'N/A'}}">Office Phone: <a ng-href="tel:{{city.resource.office}}">{{city.resource.office}}</a></p>
+                                            <p ng-hide="{{city.resource.hotline == 'N/A'}}">Hotline: <a ng-href="tel:{{city.resource.hotline}}">{{city.resource.hotline}}</a></p>
+                                            <p ng-hide="{{city.resource.email1 == 'N/A'}}">email 1: <a ng-href="mailTo:{{city.resource.email1}}">{{city.resource.email1}}</a></p>
+                                            <p ng-hide="{{city.resource.email2 == 'N/A'}}">email 2: <a ng-href="mailTo:{{city.resource.email2}}">{{city.resource.email2}}</a></p>
+                                            <p ng-hide="{{city.resource.website == 'N/A'}}">Website: <a ng-href="http://{{city.resource.website}}">{{city.resource.website}}</a></p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div><!-- .searchResults -->
+                        </div>
+                        <!-- .searchArea -->
                     </div>
-                    <div class="searchResults">
-                        <ul ng-repeat="city in citiesList | filter: LCCtrl.testCasing | limitTo: 1">
-                            <li>
-                                <div class="addressData" ng-show="LCCtrl.testCasing.length">
-                                    <h4>{{city.resource.name}}</h4>
-                                    <p>{{city.resource.address.street}}</p>
-                                    <p>{{city.resource.address.city}}, {{city.resource.address.state}}</p>
-                                    <p ng-hide="{{city.resource.phone == 'N/A'}}">Phone: {{city.resource.phone}}</p>
-                                    <p ng-hide="{{city.resource.office == 'N/A'}}">Office Phone: <a ng-href="tel:{{city.resource.office}}">{{city.resource.office}}</a></p>
-                                    <p ng-hide="{{city.resource.hotline == 'N/A'}}">Hotline: <a ng-href="tel:{{city.resource.hotline}}">{{city.resource.hotline}}</a></p>
-                                    <p ng-hide="{{city.resource.email1 == 'N/A'}}">email 1: <a ng-href="mailTo:{{city.resource.email1}}">{{city.resource.email1}}</a></p>
-                                    <p ng-hide="{{city.resource.email2 == 'N/A'}}">email 2: <a ng-href="mailTo:{{city.resource.email2}}">{{city.resource.email2}}</a></p>
-                                    <p ng-hide="{{city.resource.website == 'N/A'}}">Website: <a ng-href="http://{{city.resource.website}}">{{city.resource.website}}</a></p>
-                                </div>
-                            </li>
-                        </ul>
-
-                    </div>
-
+                    <!-- .col-md-6 -->
+                    <div class="col-md-3"></div>
                 </div>
-                </div>
-                <div class="col-md-3"></div>
-                </div>
-
-
+                <!-- .container -->
                 <br>
             </div>
             <!-- .bodyContent -->

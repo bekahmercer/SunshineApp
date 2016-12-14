@@ -25,7 +25,7 @@ h5 {
     font-size: .8em;
 }
 
-.bodyContent ul li {
+.bulletItems ul li {
     list-style-type: disc;
 }
 
@@ -311,8 +311,8 @@ ul {
 }
 
 .searchContainer input {
-    border: 3px solid #368EC4;
-    font-size: 1.4em;
+    border: 2px solid #368EC4;
+    font-size: 1.2em;
 }
 
 .searchResults p {
@@ -658,3 +658,7 @@ input:focus {
 .prequiz_blue h4 {
     line-height: 1.4;
 }/* prequiz page header in blue text */
+
+body a {
+    cursor:pointer;
+}
