@@ -5,8 +5,8 @@
         .module('app')
         .factory('ResourceService', ResourceService);
 
-   
-   ResourceService.$inject = ['$resource']
+
+    ResourceService.$inject = ['$resource']
 
     function ResourceService($resource) {
         return $resource('../data/resources.json')

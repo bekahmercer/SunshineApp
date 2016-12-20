@@ -7,15 +7,15 @@
 
     CityService.$inject = ['$http'];
     function CityService($http) {
-        var service = {city: null}
+        var service = { city: null }
         service.city = cityList()
-        
+
         return service;
 
         function cityList() {
             $http.get('../data/city_county.json').success(function (data) {
                 service.city = data
-                
+
             })
         }
     }
