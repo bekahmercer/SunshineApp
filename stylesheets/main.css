@@ -20,9 +20,14 @@ h5 {
     margin-bottom: 5px;
 }
 
-.bodyContent p,
+.bodyContent p {
+    font-size: 1.2em;
+}
+.bodyContent p.question {
+    font-size: 1em;
+}
 .bodyContent ul li {
-    font-size: .8em;
+    font-size: .9em;
 }
 
 .bulletItems ul li {
@@ -365,6 +370,7 @@ ul {
         font-size: 18px;
     }
     /* menu line styling */
+    
 }
 
 
@@ -661,4 +667,7 @@ input:focus {
 
 body a {
     cursor:pointer;
+}
+.searchContainer {
+    padding-top: 1em;
 }
