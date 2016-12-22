@@ -29,11 +29,20 @@ h5 {
 .bodyContent ul li {
     font-size: .9em;
 }
-
+.bodyContent_preQuiz {
+    font-size: .9em;
+    padding-top: 85px;
+}
+.prequiz_blue h4 {
+    font-size: 1em;
+}
+.bodyContent_preQuiz .col-md-8,
+.bodyContent_preQuiz .col-xs-12 {
+    padding: 0;
+}/* remove default padding for preQuiz page */
 .bulletItems ul li {
     list-style-type: disc;
 }
-
 .bodyContent ul li {
   list-style-position: outside;
   padding: 0;
@@ -340,7 +349,6 @@ ul {
 @media (max-width: 320px) {
     .row .bodyContent {
         font-size: 14px;
-        /*color: red;*/
     }
     /* quiz line styling */
     .row .line_item_1,
@@ -349,9 +357,14 @@ ul {
     .row .line_item_4,
     .row .line_item_5 {
         font-size: 16px;
-        /*color: pink;*/
     }
     /* menu line styling */
+    .bodyContent p.question {
+        font-size: .8em;
+    }
+    .bodyContent {
+        margin: 100px 5px 10px 0;
+    }/* margin for smaller screen to avoid checkbox wrapping */
 }
 
 
@@ -370,7 +383,12 @@ ul {
         font-size: 18px;
     }
     /* menu line styling */
-    
+    .bodyContent p.question {
+        font-size: .8em;
+    }
+    .bodyContent {
+        margin: 100px 5px 10px 0;
+    }/* margin for smaller screen to avoid checkbox wrapping */
 }
 
 
