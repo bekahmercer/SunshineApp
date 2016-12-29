@@ -9,6 +9,9 @@
 body {
     font-family: 'Roboto', serif;
 }
+h4, h5 {
+    font-size: .8em;
+}/* override setting in type.less file */
 
 h4 {
     color: #368EC4;
@@ -19,7 +22,14 @@ h5 {
     font-size: .9em;
     margin-bottom: 5px;
 }
-
+.question_h5 {
+    font-size: .6em;
+}
+.questionResult {
+    color: white;
+    background: #368EC4;
+    padding: .1em;
+}
 .bodyContent p {
     font-size: 1.2em;
 }
@@ -40,6 +50,11 @@ h5 {
 .bodyContent_preQuiz .col-xs-12 {
     padding: 0;
 }/* remove default padding for preQuiz page */
+
+.bodyContent .col-xs-11,
+.bodyContent .col-xs-1 {
+    padding: 0;
+}/* remove padding for columns on quiz pages to avoid check box wrapping to next line */
 .bulletItems ul li {
     list-style-type: disc;
 }
@@ -58,7 +73,6 @@ h5 {
 .col-xs-9 {
     line-height: 1.4;
 }
-
 
 /* questions */
 
@@ -360,10 +374,14 @@ ul {
     }
     /* menu line styling */
     .bodyContent p.question {
-        font-size: .8em;
+        font-size: .6em;
     }
+    .bodyContent ul li {
+        font-size: .6em;
+    }
+
     .bodyContent {
-        margin: 100px 5px 10px 0;
+        /*margin: 100px 5px 10px 0;*/
     }/* margin for smaller screen to avoid checkbox wrapping */
 }
 
@@ -674,7 +692,7 @@ input:focus {
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-.col-xs-11, .col-xs-1{
+.col-xs-11, .col-xs-1 {
     padding-right: 20px;
     padding-left: 0;
 }
