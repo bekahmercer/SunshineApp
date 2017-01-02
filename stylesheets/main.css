@@ -5,6 +5,10 @@
     aqua dark       #2abb98
     aqua for footer #83cbc4
 */
+ul {
+    padding: 0;
+}/* reset ul padding */
+
 
 body {
     font-family: 'Roboto', serif;
@@ -26,9 +30,12 @@ h5 {
     font-size: .6em;
 }
 .questionResult {
-    color: white;
-    background: #368EC4;
-    padding: .1em;
+    color: #329000;
+    background: #99ee6b;
+    padding: .3em .3em;
+    border-radius: 3px;
+    border: solid #adde00 2px;
+    /* text-shadow: 1px 1px #55a62a; */
 }
 .bodyContent p {
     font-size: 1.2em;
@@ -57,6 +64,7 @@ h5 {
 }/* remove padding for columns on quiz pages to avoid check box wrapping to next line */
 .bulletItems ul li {
     list-style-type: disc;
+    margin-left: 12px;
 }
 .bodyContent ul li {
   list-style-position: outside;
@@ -379,7 +387,9 @@ ul {
     .bodyContent ul li {
         font-size: .6em;
     }
-
+    .escapeBar h1 {
+        text-size: 25px;
+    }
     .bodyContent {
         /*margin: 100px 5px 10px 0;*/
     }/* margin for smaller screen to avoid checkbox wrapping */
@@ -403,6 +413,9 @@ ul {
     /* menu line styling */
     .bodyContent p.question {
         font-size: .8em;
+    }
+    .escapeBar h1 {
+        text-size: 25px;
     }
     .bodyContent {
         margin: 100px 5px 10px 0;
