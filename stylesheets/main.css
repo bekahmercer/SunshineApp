@@ -30,12 +30,12 @@ h5 {
     font-size: 1.1em;
 }
 .questionResult {
-    color: #329000;
+/*    color: #329000;
     background: #99ee6b;
     padding: .3em .3em;
     border-radius: 3px;
     border: solid #adde00 2px;
-    /* text-shadow: 1px 1px #55a62a; */
+*/    /* text-shadow: 1px 1px #55a62a; */
 }
 .bodyContent p {
     font-size: 1.2em;
@@ -383,7 +383,7 @@ ul {
     }
     /* menu line styling */
     .bodyContent p.question {
-        font-size: .6em;
+        font-size: .9em;
     }
     .bodyContent ul li {
         font-size: .9em;
