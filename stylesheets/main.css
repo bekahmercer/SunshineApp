@@ -14,7 +14,7 @@ body {
     font-family: 'Roboto', serif;
 }
 h4, h5 {
-    font-size: .8em;
+    font-size: 1em;
 }/* override setting in type.less file */
 
 h4 {
@@ -23,19 +23,19 @@ h4 {
 
 h5 {
     color: #368EC4;
-    font-size: .9em;
+    font-size: 1em;
     margin-bottom: 5px;
 }
 .question_h5 {
-    font-size: .6em;
+    font-size: 1.1em;
 }
 .questionResult {
-    color: #329000;
+/*    color: #329000;
     background: #99ee6b;
     padding: .3em .3em;
     border-radius: 3px;
     border: solid #adde00 2px;
-    /* text-shadow: 1px 1px #55a62a; */
+*/    /* text-shadow: 1px 1px #55a62a; */
 }
 .bodyContent p {
     font-size: 1.2em;
@@ -44,27 +44,28 @@ h5 {
     font-size: 1em;
 }
 .bodyContent ul li {
-    font-size: .9em;
+    font-size: 1em;
 }
 .bodyContent_preQuiz {
-    font-size: .9em;
+    font-size: 1.1em;
     padding-top: 85px;
 }
 .prequiz_blue h4 {
-    font-size: 1em;
+    font-size: 1.1em;
 }
 .bodyContent_preQuiz .col-md-8,
 .bodyContent_preQuiz .col-xs-12 {
     padding: 0;
 }/* remove default padding for preQuiz page */
 
+.bodyContent .col-xs-10,
 .bodyContent .col-xs-11,
 .bodyContent .col-xs-1 {
     padding: 0;
 }/* remove padding for columns on quiz pages to avoid check box wrapping to next line */
 .bulletItems ul li {
     list-style-type: disc;
-    margin-left: 12px;
+    margin-left: 16px;
 }
 .bodyContent ul li {
   list-style-position: outside;
@@ -382,10 +383,10 @@ ul {
     }
     /* menu line styling */
     .bodyContent p.question {
-        font-size: .6em;
+        font-size: .9em;
     }
     .bodyContent ul li {
-        font-size: .6em;
+        font-size: .9em;
     }
     .escapeBar h1 {
         text-size: 25px;
@@ -412,7 +413,7 @@ ul {
     }
     /* menu line styling */
     .bodyContent p.question {
-        font-size: .8em;
+        font-size: .9em;
     }
     .escapeBar h1 {
         text-size: 25px;
