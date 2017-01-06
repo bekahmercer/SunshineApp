@@ -1,5 +1,0 @@
-Question Set 1: Low = 0-9 ; Moderate = 10-19 ; High = 20+
-
-Question Set 2 (per page): 1-2 = low ; 3-4 = Moderate ; 5+ = Severe
-
-Question Set 3: 1-2 = low ; 3-4 = moderate ; 5+ = severe
