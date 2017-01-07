@@ -721,3 +721,11 @@ body a {
 .searchContainer {
     padding-top: 1em;
 }
+
+.summarybtn {
+    margin: 15px;
+}
+.summarybtn h4 {
+color: white;
+margin: 10px;
+}
