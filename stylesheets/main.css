@@ -388,9 +388,7 @@ ul {
     .bodyContent ul li {
         font-size: .9em;
     }
-    .escapeBar h1 {
-        text-size: 25px;
-    }
+    
     .bodyContent {
         /*margin: 100px 5px 10px 0;*/
     }/* margin for smaller screen to avoid checkbox wrapping */
@@ -415,9 +413,7 @@ ul {
     .bodyContent p.question {
         font-size: .9em;
     }
-    .escapeBar h1 {
-        text-size: 25px;
-    }
+    
     .bodyContent {
         margin: 100px 5px 10px 0;
     }/* margin for smaller screen to avoid checkbox wrapping */
