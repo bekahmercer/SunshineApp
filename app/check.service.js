@@ -84,5 +84,7 @@ checkParameters.calculatePercentage = function (maxVal, total)
 return ((total/maxVal)*100);
 }
 
+checkParameters.emergencies=0;
+
 return checkParameters;
 }

@@ -5,6 +5,14 @@ SummaryThreeController.$inject = ['$scope', 'CheckService'];
 
 function SummaryThreeController ($scope, CheckService) {
     vm = this;
+    
+    //Checks if emergency button was pressed before, if it was then it redirects to main page:
+ 
+if(CheckService.emergencies>0)
+{
+$location.path("/");
+}
+
 
     $scope.getPercentage = function(maxVal)
     {

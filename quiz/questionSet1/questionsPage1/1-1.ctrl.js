@@ -1,11 +1,19 @@
 angular.module('app')
 .controller('OneOneController', OneOneController)
 
-OneOneController.$inject = ['$scope', 'CheckService']
+OneOneController.$inject = ['$scope', 'CheckService', '$location']
 
-function OneOneController($scope, CheckService) {
+function OneOneController($scope, CheckService, $location) {
 
 var vm = this;
+
+//Checks if emergency button was pressed before, if it was then it redirects to main page:
+
+if(CheckService.emergencies>0)
+{
+$location.path("/");
+}
+
 
   vm.scrollUp = function() {
     window.scrollTo(0, 0);

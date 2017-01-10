@@ -117,6 +117,11 @@ function routes($routeProvider, $locationProvider) {
       controllerAs: 'CCtrl'
   })
 
+  .when('/emergency', {
+      templateUrl: './quiz/emergencyEscape/emergencyEscape.partial.html',
+      controller: 'EmergencyController',
+      controllerAs: 'EECtrl'
+  })
   .otherwise({
       redirectTo: '/'
   })
