@@ -3,14 +3,14 @@
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="glyphicon glyphicon-leaf"></span> </button>
-            <a class="navbar-brand" href="/contact"><img id="logo2" src='home/logo2.png' /></a>
+            <p class="navbar-brand" href="/contact"><img id="logo2" src='home/logo2.png' /></p>
             </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="#event-section">Events <span class="sr-only">(current)</span></a></li>
-                <li><a href="#parks">Parks</a></li>
+                <li><a href="#park-section">Parks</a></li>
                 <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-leaf"></span>Additional Info <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="/localResources">City Lookup -temp link</a></li>
@@ -48,9 +48,17 @@
         </div>
     </div>
 </div>
-<div class="container" id="home-section">
+<div class="container" id="park-section">
     <div class="row home-row">
         <div class="col-md-12 bottom-bg">
-            <h1 id="parks">  Another filler section.</h1> </div>
+            <ul>
+                <li class="places" ng-repeat="item in parks | limitTo: 3">
+                    <h2 ng-hide="{{item.park == ''}}"><i class="fa fa-angle-double-right aria-hidden="true""></i>  {{item.park}}</h2>
+                    <p ng-hide="{{item.location == ''}}">Location: {{item.location}}</p>
+                    <img src="{{item.image}}" ng-hide="{{item.image == ''}}" style="width: 100%"> 
+                    
+                </li>
+            </ul> 
+        </div>
     </div>
 </div>

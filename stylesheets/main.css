@@ -597,6 +597,7 @@ input:focus {
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
     border-top-color: #f2d18a;
     border-bottom-color: #f2d18a;
+    
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -608,6 +609,7 @@ input:focus {
     color: #f2d18a;
     text-shadow: 1px 1px black;
     background-color: #a9504b;
+    
 }
 
 .navbar-default .navbar-brand {
@@ -700,6 +702,17 @@ input:focus {
     color: black;
     padding-top: 10px;
     font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+}
+
+.places {
+    background-color: #a9504b;
+    color: #f2d18a;
+    padding-top: 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 .col-xs-11, .col-xs-1 {

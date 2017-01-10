@@ -1,0 +1,32 @@
+[
+  {
+    "park": "Earlywine Park",
+    "location": "3101 SW 119th St. OKC,OK",
+    "image":"home/images/early.jpg"
+  },
+  {
+    "park": "Wheeler Park",
+    "location": "1120 S Western Ave, OKC, OK",
+       "image":"home/images/wheeler.jpg"
+  },
+  {
+    "park": "Perle Mesta Park",
+    "location": "1900 N Shartel Ave, OKC, OK",
+       "image":"home/images/mesta.jpg"
+  },
+             {
+    "park": "4 Park",
+    "location": "3101 SW 119th St. OKC,OK",
+    "image":"home/images/early.jpg"
+  },
+  {
+    "park": "5 Park",
+    "location": "1120 S Western Ave, OKC, OK",
+       "image":"home/images/wheeler.jpg"
+  },
+  {
+    "park": "6 Park",
+    "location": "1900 N Shartel Ave, OKC, OK",
+       "image":"home/images/mesta.jpg"
+  }
+]
