@@ -9,7 +9,8 @@ function routes($routeProvider, $locationProvider) {
     .when('/', {
       templateUrl: './home/home.partial.html',
       controller: 'HomeController',
-      controllerAs: 'HCtrl'
+      controllerAs: 'HCtrl',
+      css: './home/css/home.css'
   })
   .when('/menu', {
       templateUrl: './menu/menu.partial.html',

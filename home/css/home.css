@@ -1,0 +1,181 @@
+/*NAVBAR AREA*/
+
+.navbar-default .navbar-toggle .glyphicon .glyphicon-leaf {
+    color: #a9504b;
+    background: #a9504b;
+    text-shadow: 1px 1px black;
+    margin-left: 40px;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #a9504b;
+    text-shadow: 1px 1px black;
+    border: none;
+    margin-left: 20px;
+    font-size: 1.4em;
+}
+
+#logo2 {
+    width: 210px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+@media only screen and (min-width: 740px) {
+    #logo2 {
+        width: 220px;
+        height: 35px;
+        margin-left: 35px;
+    }
+}
+
+.collapsed {
+    background: #a9504b;
+    font-size: 1.4em;
+    margin-left: 20px;
+    border: none;
+}
+
+.navbar-default {
+    background-color: #a9504b;
+    color: #f2d18a;
+}
+
+
+/*
+
+
+
+
+.dropdown-toggle:active, .open .dropdown-toggle {background:#FFF !important; color:#000 !important; margin-left: 50px;}
+
+
+
+
+*/
+
+.navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #a9504b;
+    margin-left: 30px;
+}
+
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #f2d18a;
+    border-bottom-color: #f2d18a;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #f2d18a;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #f2d18a;
+    text-shadow: 1px 1px black;
+    background-color: #a9504b;
+}
+
+.navbar-default .navbar-brand {
+    color: #f2d18a;
+    margin-bottom: 5px;
+}
+
+
+/* link */
+
+.navbar-default .navbar-nav > li > a {
+    color: #f2d18a;
+    margin-left: 20px;
+}
+
+@media only screen and (min-width: 770px) {
+    .navbar-default .navbar-nav > li > a {
+        color: #f2d18a;
+        margin-left: 50px;
+    }
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #f2d18a;
+    text-shadow: 1px 1px black;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #f2d18a;
+    text-shadow: 1px 1px black;
+    border: none;
+    margin-left: 20px;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #f2d18a;
+    background-color: #a9504b;
+    text-shadow: 1px 1px black;
+    border: none;
+}
+
+.navbar-toggle .pull-left {
+    margin-left: 20px;
+}
+
+
+/*HOME PARTIAL BODY*/
+
+.home-bg {
+    background-color: #f2d18a;
+    height: 680px;
+    margin-top: -30px;
+    z-index: -2;
+}
+
+.top-bg {
+    background-image: url("../fallpark.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: maroon;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    letter-spacing: 3px;
+    height: 650px;
+    margin-top: -30px;
+    z-index: -2;
+}
+
+.bottom-bg {
+    background-color: white;
+    height: 650px;
+}
+
+#top-head {
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    opacity: 0.8;
+}
+
+.events {
+    color: black;
+    padding-top: 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+}
+
+.places {
+    background-color: #a9504b;
+    color: #f2d18a;
+    padding-top: 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    margin-left: -15px;
+    margin-right: -15px;
+}

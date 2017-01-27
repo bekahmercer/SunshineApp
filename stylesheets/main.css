@@ -5,17 +5,25 @@
     aqua dark       #2abb98
     aqua for footer #83cbc4
 */
+
 ul {
     padding: 0;
-}/* reset ul padding */
+}
 
+
+/* reset ul padding */
 
 body {
     font-family: 'Roboto', serif;
 }
-h4, h5 {
+
+h4,
+h5 {
     font-size: 1em;
-}/* override setting in type.less file */
+}
+
+
+/* override setting in type.less file */
 
 h4 {
     color: #368EC4;
@@ -26,55 +34,78 @@ h5 {
     font-size: 1em;
     margin-bottom: 5px;
 }
+
 .question_h5 {
     font-size: 1.1em;
 }
+
 .questionResult {
-/*    color: #329000;
+    /*    color: #329000;
     background: #99ee6b;
     padding: .3em .3em;
     border-radius: 3px;
     border: solid #adde00 2px;
-*/    /* text-shadow: 1px 1px #55a62a; */
+*/
+    /* text-shadow: 1px 1px #55a62a; */
 }
+
 .bodyContent p {
     font-size: 1.2em;
 }
+
 .bodyContent p.question {
     font-size: 1em;
 }
+
 .bodyContent ul li {
     font-size: 1em;
 }
+
 .bodyContent_preQuiz {
     font-size: 1.1em;
     padding-top: 85px;
 }
+
 .prequiz_blue h4 {
     font-size: 1.1em;
 }
+
 .bodyContent_preQuiz .col-md-8,
 .bodyContent_preQuiz .col-xs-12 {
     padding: 0;
-}/* remove default padding for preQuiz page */
+}
+
+
+/* remove default padding for preQuiz page */
 
 .bodyContent .col-xs-10,
 .bodyContent .col-xs-11,
 .bodyContent .col-xs-1 {
     padding: 0;
-}/* remove padding for columns on quiz pages to avoid check box wrapping to next line */
+}
+
+
+/* remove padding for columns on quiz pages to avoid check box wrapping to next line */
+
 .bulletItems ul li {
     list-style-type: disc;
     margin-left: 16px;
 }
+
 .bodyContent ul li {
-  list-style-position: outside;
-  padding: 0;
-}/* align word wrap on <li> items left justify */
+    list-style-position: outside;
+    padding: 0;
+}
+
+
+/* align word wrap on <li> items left justify */
 
 .col-md-11 {
     width: 80%;
-}/* overwrite from grid-framework.less file */
+}
+
+
+/* overwrite from grid-framework.less file */
 
 
 /* end of page */
@@ -82,6 +113,7 @@ h5 {
 .col-xs-9 {
     line-height: 1.4;
 }
+
 
 /* questions */
 
@@ -388,10 +420,10 @@ ul {
     .bodyContent ul li {
         font-size: .9em;
     }
-    
     .bodyContent {
         /*margin: 100px 5px 10px 0;*/
-    }/* margin for smaller screen to avoid checkbox wrapping */
+    }
+    /* margin for smaller screen to avoid checkbox wrapping */
 }
 
 
@@ -413,10 +445,10 @@ ul {
     .bodyContent p.question {
         font-size: .9em;
     }
-    
     .bodyContent {
         margin: 100px 5px 10px 0;
-    }/* margin for smaller screen to avoid checkbox wrapping */
+    }
+    /* margin for smaller screen to avoid checkbox wrapping */
 }
 
 
@@ -545,188 +577,25 @@ input:focus {
 /* reset from grid.less */
 
 
-/*NAVBAR AREA*/
-
-.navbar-default .navbar-toggle .glyphicon .glyphicon-leaf {
-    color: #a9504b;
-    background: #a9504b;
-    text-shadow: 1px 1px black;
-    margin-left: 40px;
-}
-
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-    background-color: #a9504b;
-    text-shadow: 1px 1px black;
-    border: none;
-    margin-left: 15px;
-    font-size: 1.4em;
-}
-
-#logo2 {
-    width: 220px;
-    height: 35px;
-}
-
-@media only screen and (min-width: 740px) {
-    #logo2 {
-        width: 220px;
-        height: 35px;
-        margin-left: 30px;
-    }
-}
-
-.collapsed {
-    background: #a9504b;
-    font-size: 1.4em;
-    margin-left: 20px;
-    border: none;
-}
-
-.navbar-default {
-    background-color: #a9504b;
-    color: #f2d18a;
-}
-
-.navbar-default .navbar-nav .open .dropdown-menu {
-    background-color: #a9504b;
-    margin-left: 30px;
-}
-
-.navbar-default .navbar-nav > .dropdown > a:hover .caret,
-.navbar-default .navbar-nav > .dropdown > a:focus .caret {
-    border-top-color: #f2d18a;
-    border-bottom-color: #f2d18a;
-    
-}
-
-.navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #f2d18a;
-}
-
-.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
-.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #f2d18a;
-    text-shadow: 1px 1px black;
-    background-color: #a9504b;
-    
-}
-
-.navbar-default .navbar-brand {
-    color: #f2d18a;
-    margin-bottom: 5px;
-}
 
 
-/* link */
-
-.navbar-default .navbar-nav > li > a {
-    color: #f2d18a;
-    margin-left: 20px;
-}
-
-@media only screen and (min-width: 770px) {
-    .navbar-default .navbar-nav > li > a {
-        color: #f2d18a;
-        margin-left: 50px;
-    }
-}
-
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-    color: #f2d18a;
-    text-shadow: 1px 1px black;
-}
-
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-    color: #f2d18a;
-    text-shadow: 1px 1px black;
-    border: none;
-    margin-left: 20px;
-}
-
-.navbar-default .navbar-nav > .open > a,
-.navbar-default .navbar-nav > .open > a:hover,
-.navbar-default .navbar-nav > .open > a:focus {
-    color: #f2d18a;
-    background-color: #a9504b;
-    text-shadow: 1px 1px black;
-    border: none;
-}
-
-.navbar-toggle .pull-left {
-    margin-left: 20px;
-}
-
-
-/*HOME PARTIAL BODY*/
-
-.home-bg {
-    background-color: #f2d18a;
-    height: 680px;
-    margin-top: -30px;
-    z-index: -2;
-}
-
-.top-bg {
-    background-image: url("../home/fallpark.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    color: maroon;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    font-size: 3em;
-    text-align: center;
-    letter-spacing: 3px;
-    height: 650px;
-    margin-top: -30px;
-    z-index: -2;
-}
-
-.bottom-bg {
-    background-color: white;
-    height: 650px;
-}
-
-#top-head {
-    position: relative;
-    top: 40%;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    opacity: 0.8;
-}
-
-.events {
-    color: black;
-    padding-top: 10px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    text-align: center;
-}
-
-.places {
-    background-color: #a9504b;
-    color: #f2d18a;
-    padding-top: 10px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    text-align: center;
-    margin-left: -15px;
-    margin-right: -15px;
-}
-
-.col-xs-11, .col-xs-1 {
+.col-xs-11,
+.col-xs-1 {
     padding-right: 20px;
     padding-left: 0;
 }
 
 .prequiz_blue h4 {
     line-height: 1.4;
-}/* prequiz page header in blue text */
+}
+
+
+/* prequiz page header in blue text */
 
 body a {
-    cursor:pointer;
+    cursor: pointer;
 }
+
 .searchContainer {
     padding-top: 1em;
 }
@@ -734,7 +603,8 @@ body a {
 .summarybtn {
     margin: 15px;
 }
+
 .summarybtn h4 {
-color: white;
-margin: 10px;
+    color: white;
+    margin: 10px;
 }
